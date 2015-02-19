@@ -1,0 +1,23 @@
+##### Arquivos Gerados por IDEs, e artifacts #####
+.project
+.classpath
+.settings
+*.iml
+.idea/
+.wtpmodules
+nbproject/
+target/
+*.iws
+*.ids
+*.ipr
+.DS_Store
+*.war
+##### Arquivos gerados pelo yeoman #####
+src/main/webapp/WEB-INF/views/app/
+##### Arquivo backup vpuml #####
+*.vpp~*
+src/main/webapp/META-INF/context.xml
+##### Database Config #####
+src/main/resources/META-INF/database/database.properties
+atlassian-ide-plugin.xml
+overlays/

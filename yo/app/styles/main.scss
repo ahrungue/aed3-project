@@ -1,0 +1,43 @@
+// bower:scss
+// endbower
+
+
+//Colors
+$brand-primary: darken(#428bca, 6.5%); // #337ab7
+$brand-success: #5cb85c;
+$brand-info:    #5bc0de;
+$brand-warning: #f0ad4e;
+$brand-danger:  #d9534f;
+
+@import 'alert';
+@import 'navbar-customization';
+
+* {
+  box-sizing: border-box;
+}
+
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #f2f2f2;
+}
+
+.margin-0 {
+  margin: 0 0 0 0;
+}
+.margin-1 {
+  margin: 1em 1em 1em 1em;
+}
+
+.padding-0 {
+  padding: 0 0 0 0;
+}
+
+.width-max{
+  width: 100%;
+}
+
+.margin-bottom-05{
+   margin: 0 0 0.5em 0;
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans-4.1.xsd
+                           http://www.springframework.org/schema/tx
+                           http://www.springframework.org/schema/tx/spring-tx-4.0.xsd">
+
+    <bean id="customDataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+        <property name="driverClass" value="${hibernate.jdbc.driver}" />
+        <property name="jdbcUrl" value="${hibernate.jdbc.url}" />
+        <property name="user" value="${hibernate.jdbc.username}" />
+        <property name="password" value="${hibernate.jdbc.password}" />
+
+        <property name="acquireIncrement" value="${hibernate.c3p0.acquire_increment}" />
+        <property name="minPoolSize"      value="${hibernate.c3p0.min_size}" />
+        <property name="initialPoolSize"  value="${hibernate.c3p0.min_size}" />
+        <property name="maxPoolSize"      value="${hibernate.c3p0.max_size}" />
+        <property name="maxIdleTime"      value="${hibernate.c3p0.timeout}" />
+    </bean>
+
+    <bean id="customSessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
+        <property name="dataSource" ref="customDataSource" />
+        <property name="packagesToScan" value="corn.models"></property>
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.dialect">${hibernate.dialect}</prop>
+                <prop key="hibernate.show_sql">${hibernate.show_sql}</prop>
+                <prop key="hibernate.hbm2ddl.auto">${hibernate.hbm2ddl_auto}</prop>
+                <prop key="hibernate.temp.use_jdbc_metadata_defaults">${hibernate.temp.use_jdbc_metadata_defaults}</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="transactionManager" class="org.springframework.orm.hibernate4.HibernateTransactionManager">
+        <property name="sessionFactory" ref="customSessionFactory" />
+        <property name="dataSource" ref="customDataSource" />
+    </bean>
+
+    <tx:annotation-driven transaction-manager="transactionManager"/>
+
+</beans>
