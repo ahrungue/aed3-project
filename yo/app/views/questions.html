@@ -1,0 +1,73 @@
+<div class="panel panel-primary">
+
+    <div class="panel-heading">
+        <div class="panel-title">Cadastrar / Editar - Perguntas:</div>
+    </div>
+
+    <div class="panel-body">
+        <div class="col-sm-12 padding-0">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <div class="panel-title">Pergunta:</div>
+                </div>
+                <div class="panel-body">
+                    <textarea class="form-control" ng-model="question.question"></textarea>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-12 padding-0">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <div class="panel-title">Respostas:</div>
+                </div>
+                <div class="panel-body">
+                    <div class="input-group margin-bottom-05" data-ng-repeat="op in options track by $index">
+                        <label class="input-group-addon">{{$index +1}}</label>
+                        <input class="form-control" data-ng-model="op.text">
+                        <span class="input-group-addon">
+                            <input type="checkbox"
+                                   data-ng-change="setAnswer($index,op.checked)"
+                                   data-ng-model="op.checked">
+                        </span><!--input-group-addon-->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div><!--panel-body-->
+    <div class="panel-footer">
+        <div class="clearfix">
+            <div class="pull-right">
+                <a class="btn btn-sm btn-danger"><i class="fa fa-remove"></i></a>
+                <a class="btn btn-sm btn-primary" data-ng-click="save()"><i class="fa fa-save"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <div class="panel-title">Perguntas Cadastradas:</div>
+    </div>
+    <div class="panel-body">
+        <table class="table table-bordered table-condensed table-hover">
+            <thead>
+                <tr>
+                    <th>Pergunta</th>
+                    <th>Resposta</th>
+                    <th>Opções</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-ng-repeat="questionObj in questions.questions track by $index">
+                    <td>{{questionObj.question}}</td>
+                    <td>{{questionObj.answer}}</td>
+                    <td> </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="col-sm-12 text-center" data-ng-show="questions.questions === undefined || questions.questions.length === 0">
+            <span class="label label-danger">Não possuem perguntas cadastradas!</span>
+        </div>
+    </div>
+</div>
