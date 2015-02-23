@@ -104,6 +104,7 @@
         margin-right: 4.5px;
         -webkit-border-radius: 50%;
            -moz-border-radius: 50%;
+             -o-border-radius: 50%;
                 border-radius: 50%;
     }
     </style>

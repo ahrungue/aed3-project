@@ -82,7 +82,7 @@ public abstract class GenericController<T> {
             try{
                 this.genericService.delete(genericService.findById(id));
             }catch (AccessDeniedException e) {
-                map.put("error", HttpStatus.FORBIDDEN);
+                map.put("errors", HttpStatus.FORBIDDEN);
             }//fim try-catch
 //        }//fim if-else
         return map;
