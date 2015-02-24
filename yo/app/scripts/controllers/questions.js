@@ -34,17 +34,19 @@ angular.module('cornApp').controller('QuestionsCtrl', ['$scope','Question', func
     }//fim for(i)
 
     if( $scope.question.id ){
+
       Question.update( $scope.question, function(data){
         if(data.errors){
           $scope.showErrorMessage('Pergunta não cadastrada!');
         }else{
           $scope.showSuccessMessage('Pergunta Cadastrada!');
           $scope.cancel();
-        }
-      });
+        }//fim if-else
+      });//fim update()
+
     }else{
 
-      if( !$scope.question.answer ){
+      if( !angular.isNumber($scope.question.answer) ){
         $scope.showErrorMessage('Pergunta não cadastrada! Verificar se os campos foram preenchidos corretamente!');
       }else{
         $scope.question.$save( function(data){
@@ -54,10 +56,11 @@ angular.module('cornApp').controller('QuestionsCtrl', ['$scope','Question', func
             $scope.showSuccessMessage('Pergunta Cadastrada!');
             $scope.cancel();
           }//fim if-else
-        });
-      }
-    }
-  };
+        });//fim $save()
+      }//fim if-else
+
+    }//fim if-else
+  };//fim save()
 
   $scope.edit = function( pos ){
     $scope.question = $scope.questions.questions[pos];

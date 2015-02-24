@@ -1,6 +1,25 @@
 <div class="panel">
-    <div class="panel-body">
-        <div class="col-sm-2" data-ng-repeat="question in play.questions">{{question}}</div>
+  <div class="panel-body">
+
+    <div class="col-sm-4">
+      <table class="table table-bordered table-hover">
+        <thead> <th>{{play.questions[0].question}}</th> </thead>
+        <tbody>
+          <tr data-ng-repeat="op in play.questions[0].options.split(';') track by $index">
+            <td> <span class="badge">{{$index +1 }}</span> - {{op}}</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
+
+    <div class="col-sm-6"></div>
+
+    <div class="col-sm-2">
+      <div clas="col-sm-12 padding-0" data-ng-repeat="value in questionsValue track by $index">
+        <span class="label label-warning">{{value.correct | currency: 'R$ '  }}</span>
+      </div>
+    </div>
+  </div>
+
 </div>
 
