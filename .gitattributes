@@ -1,0 +1,18 @@
+# Handle files detected as text
+* text=auto
+
+# Files that need to convert
+*.css		text
+*.scss		text
+*.htm		text
+*.html		text
+*.js		text
+*.properties	text
+
+# Binary files
+*.class		binary
+*.gif		binary
+*.jpg		binary
+*.jpeg		binary
+*.png		binary
+*.ico		binary
