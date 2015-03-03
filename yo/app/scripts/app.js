@@ -16,7 +16,8 @@ angular.module('cornApp', [
     'ngRoute',
     'ngSanitize',
     'ngTouch',
-    'mgcrea.ngStrap'
+    'mgcrea.ngStrap',
+    'angularFileUpload'
 ]).config(function ($routeProvider) {
     $routeProvider
         .when('/', {
@@ -24,16 +25,20 @@ angular.module('cornApp', [
             controller: 'DashboardCtrl'
         })
         .when('/play/start', {
-          templateUrl: 'views/play/start.html',
-          controller: 'PlayStartCtrl'
+            templateUrl: 'views/play/start.html',
+            controller: 'PlayStartCtrl'
         })
         .when('/question', {
-          templateUrl: 'views/question.html',
-          controller: 'QuestionCtrl'
+            templateUrl: 'views/question.html',
+            controller: 'QuestionCtrl'
         })
         .when('/question', {
-          templateUrl: 'views/questions.html',
-          controller: 'QuestionsCtrl'
+            templateUrl: 'views/questions.html',
+            controller: 'QuestionsCtrl'
+        })
+        .when('/upload', {
+            templateUrl: 'views/upload.html',
+            controller: 'UploadCtrl'
         })
         .otherwise({
             redirectTo: '/play/start'
@@ -41,13 +46,9 @@ angular.module('cornApp', [
 });
 
 angular.module('cornApp').run(['$rootScope','MessageFunctions','$location', function($rootScope, MessageFunctions, $location){
+
     $rootScope.menu = function( menuURL ){
-        var url = $location.$$url;
-        if( url === menuURL ){
-            return true;
-        }else{
-            return false;
-        }
+        return $location.$$url === menuURL;
     };
 
     //******************************************************************************************************************//

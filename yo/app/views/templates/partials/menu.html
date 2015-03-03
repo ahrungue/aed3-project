@@ -1,43 +1,45 @@
 <nav class="navbar navbar-primary navbar-static-top">
-	<div class="container-fluid">
-		<!-- Brand and toggle get grouped for better mobile display -->
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			<a class="navbar-brand" href="#">AED 3<span class="sr-only">(home)</span></a>
-		</div><!---navbar-header-->
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">AED 3<span class="sr-only">(home)</span></a>
+        </div><!---navbar-header-->
 
-		<!-- Collect the nav links, forms, and other content for toggling -->
-		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
-			<ul class="nav navbar-nav">
-				<li data-ng-class="{active: menu('/')}"><a href="#/"><i class="fa fa-home"></i></a></li>
-				<li class="dropdown">
-					<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Cadastro <span class="caret"></span></a>
-					<ul class="dropdown-menu" role="menu">
-						<li><a href="#/question">Perguntas</a></li>
-						<li class="divider"></li>
-						<li><a href="#">Compactação</a></li>
-					</ul><!---dropdown-menu-->
-				</li><!---dropdown-->
-        <li data-ng-class="{active: menu('/play/start')}"><a href="#/play/start"><i class="fa fa-play-circle"></i> Jogar</a></li>
-			</ul><!---nav navbar-nav-->
+            <ul class="nav navbar-nav">
+                <li data-ng-class="{active: menu('/')}"><a href="#/"><i class="fa fa-home"></i></a></li>
 
-			<!--Controle do Usuario-->
-			<ul class="nav navbar-nav navbar-right">
-				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">User <span class="caret"></span></a>
-					<ul class="dropdown-menu" role="menu">
-						<li><a href="#">Perfil</a></li>
-						<li class="divider"></li>
-						<li><a href="/logout"><i class="fa fa-sign-out"></i> Sair</a></li>
-					</ul><!---dropdown-menu-->
-				</li><!---dropdown-->
-			</ul><!---nav navbar-nav navbar-right-->
-		</div><!---collapse navbar-collapse-->
-	</div><!---container-fluid-->
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Cadastro <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="#/question">Perguntas</a></li>
+                        <li class="divider"></li>
+                    </ul><!---dropdown-menu-->
+                </li><!---dropdown-->
+
+                <li data-ng-class="{active: menu('/play/start')}"><a href="#/play/start"><i class="fa fa-play-circle"></i> Jogar</a></li>
+                <li data-ng-class="{active: menu('/upload')}"><a href="#/upload"><i class="fa fa-file-zip-o"></i> Compactação</a></li>
+            </ul><!---nav navbar-nav-->
+
+            <!--Controle do Usuario-->
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">User <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="#">Perfil</a></li>
+                        <li class="divider"></li>
+                        <li><a href="/logout"><i class="fa fa-sign-out"></i> Sair</a></li>
+                    </ul><!---dropdown-menu-->
+                </li><!---dropdown-->
+            </ul><!---nav navbar-nav navbar-right-->
+        </div><!---collapse navbar-collapse-->
+    </div><!---container-fluid-->
 </nav><!---navbar navbar-primary navbar-static-top-->

@@ -1,0 +1,16 @@
+
+@mixin dotted-border( $args ){
+  border: dotted $args;
+}
+
+.nv-file-over {
+  @include dotted-border(3px lightgray);
+}
+
+.nv-file-over-error {
+  @include dotted-border(3px red);
+}
+
+.nv-file-over-success {
+  @include dotted-border(3px green);
+}
