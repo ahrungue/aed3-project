@@ -72,8 +72,8 @@ module.exports = function (grunt) {
         livereload: 35729
       },
       proxies: [{
-          context: '/rest',
-          host: 'localhost',
+          context: ['/rest', '/j_spring_security_check', '/login', '/logout'],
+         host: 'localhost',
           port: 8080,
           https: false
       }],
