@@ -17,14 +17,14 @@ angular.module('cornApp').controller('UploadCtrl', [ '$scope', '$routeParams', '
         ],
         filters: [{
             name: 'queueFilter',
-            fn: function(item) {
+            fn: function() {
                 return this.queue.length < 11;
             }
         }]
     });
 
     $scope.cancel = function(){
-        $location.path("upload");
+        $location.path('upload');
     };
 
     // ADDING FILTERS

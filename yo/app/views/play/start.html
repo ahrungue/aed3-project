@@ -1,25 +1,82 @@
 <div class="panel">
-  <div class="panel-body">
 
-    <div class="col-sm-4">
-      <table class="table table-bordered table-hover">
-        <thead> <th>{{play.questions[0].question}}</th> </thead>
-        <tbody>
-          <tr data-ng-repeat="op in play.questions[0].options.split(';') track by $index">
-            <td> <span class="badge">{{$index +1 }}</span> - {{op}}</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+    <div class="panel-body">
 
-    <div class="col-sm-6"></div>
+        <div class="col-sm-4">
 
-    <div class="col-sm-2">
-      <div clas="col-sm-12 padding-0" data-ng-repeat="value in questionsValue track by $index">
-        <span class="label label-warning">{{value.correct | currency: 'R$ '  }}</span>
-      </div>
-    </div>
-  </div>
+            <table class="table table-bordered table-hover">
 
-</div>
+                <thead>
+                    <tr> <th>{{play.questions[currentQuestionIndex].question}}</th> </tr>
+                </thead>
+
+                <tbody>
+                    <tr data-ng-repeat="op in play.questions[currentQuestionIndex].options.split(';') track by $index">
+                        <td data-ng-click="checkAnswer($index)"> <span class="badge">{{$index +1 }}</span> - {{op}} </td>
+                    </tr>
+                </tbody>
+
+            </table><!--end table table-bordered table-hover-->
+
+            <table class="table">
+
+                <thead>
+                    <tr>
+                        <th class="text-center">Errar</th>
+                        <th class="text-center">Parar</th>
+                        <th class="text-center">Acertar</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr class="text-center">
+                        <td>
+                            <span class="label label-danger">{{questionsValue[currentQuestionIndex].wrong | currency: 'R$ ' }}</span>
+                        </td>
+                        <td>
+                            <span class="label label-warning">{{questionsValue[currentQuestionIndex].stop | currency: 'R$ ' }}</span>
+                        </td>
+                        <td>
+                            <span class="label label-success">{{questionsValue[currentQuestionIndex].correct | currency: 'R$ ' }} </span>
+                        </td>
+                    </tr><!--end text-center-->
+                </tbody>
+
+            </table>
+
+        </div><!--end col-sm-4-->
+
+        <div class="col-sm-6 padding-0">
+            <table class="table table-condensed">
+                <thead>
+                    <tr>
+                        <th>Opções</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                <tr>
+                    <td>
+                        <button class="btn btn-sm btn-default">Pular</button>
+                        <button class="btn btn-sm btn-default">Pular</button>
+                        <button class="btn btn-sm btn-default">Pular</button>
+                    </td>
+
+                    <td>{{totalPrize | currency: 'R$ '  }}</td>
+                </tr>
+                </tbody>
+            </table>
+
+        </div>
+
+        <div class="col-sm-2">
+            <div class="col-sm-12 padding-0" data-ng-repeat="value in questionsValue track by $index">
+                <span class="label label-warning">{{value.correct | currency: 'R$ '  }}</span>
+            </div>
+        </div>
+
+    </div><!--end panel-body-->
+
+</div><!--end panel-->
 

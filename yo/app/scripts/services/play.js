@@ -2,9 +2,9 @@
 
 /**
  * @ngdoc service
- * @name cornApp.play
+ * @name cornApp.Play
  * @description
- * # play
+ * # Play
  * Factory in the cornApp.
  */
 angular.module('cornApp').factory('Play', ['$resource',  function($resource){
