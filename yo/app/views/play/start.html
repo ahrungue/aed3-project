@@ -46,7 +46,7 @@
 
         </div><!--end col-sm-4-->
 
-        <div class="col-sm-6 padding-0">
+        <div class="col-sm-6">
             <table class="table table-condensed">
                 <thead>
                     <tr>
@@ -71,10 +71,21 @@
         </div>
 
         <div class="col-sm-2">
-            <div class="col-sm-12 padding-0" data-ng-repeat="value in questionsValue track by $index">
-                <span class="label label-warning">{{value.correct | currency: 'R$ '  }}</span>
-            </div>
-        </div>
+
+            <ul class="list-group">
+                <li class="list-group-item" data-ng-repeat="value in questionsValue track by $index"
+                      data-ng-class="{'list-group-item-success': currentQuestionIndex > $index,
+                        'list-group-item-default': currentQuestionIndex < $index,
+                        'list-group-item-warning': currentQuestionIndex === $index}">
+                    <i class="fa"
+                       data-ng-class="{'fa-check-square-o': currentQuestionIndex > $index,
+                       'fa-square-o': currentQuestionIndex <= $index}"> </i> {{value.correct | currency: 'R$ '  }}
+                </li><!--end list-group-item-->
+            </ul><!--end col-sm-2 padding-0-->
+
+        </div><!--end col-sm-2-->
+
+
 
     </div><!--end panel-body-->
 

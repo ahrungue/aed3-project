@@ -7,7 +7,7 @@
  * # PlayStartCtrl
  * Controller of the cornApp
  */
-angular.module('cornApp').controller('PlayStartCtrl', ['$scope','Play', function ($scope, Play) {
+angular.module('cornApp').controller('PlayStartCtrl', ['$scope','Play', 'Score', function ($scope, Play, Score) {
 
     //Back-engine call to get questions for the game
     $scope.play = Play.get();
@@ -49,9 +49,24 @@ angular.module('cornApp').controller('PlayStartCtrl', ['$scope','Play', function
         }else{
             $scope.totalPrize = $scope.questionsValue[$scope.currentQuestionIndex].wrong;
             $scope.showErrorMessage('Que pena você errou.');
-        }
+            $scope.endGame($scope.totalPrize);
+        }//end if-else
     };//end checkAnswer()
 
 
+    $scope.endGame = function( prize ){
+        var score =  new Score();
+        score.prizeValue = prize;
+
+        score.$save( function(data){
+            if(data.errors){
+                $scope.showErrorMessage('Resultado não cadastrado!');
+            }else{
+                $scope.showSuccessMessage('Resultado Cadastrado!');
+                $scope.locationPath('/scores');
+            }//fim if-else
+        });//fim $save()
+
+    };//end endGame()
 
 }]);//fim PlayStartCtrl

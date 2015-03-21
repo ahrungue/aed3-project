@@ -40,6 +40,10 @@ angular.module('cornApp', [
             templateUrl: 'views/upload.html',
             controller: 'UploadCtrl'
         })
+        .when('/scores', {
+            templateUrl: 'views/score/index.html',
+            controller: 'ScoreIndexCtrl'
+        })
         .otherwise({
             redirectTo: '/play/start'
         });
@@ -49,6 +53,10 @@ angular.module('cornApp').run(['$rootScope','MessageFunctions','$location', func
 
     $rootScope.menu = function( menuURL ){
         return $location.$$url === menuURL;
+    };
+
+    $rootScope.locationPath = function(url){
+        $location.path(url);
     };
 
     //******************************************************************************************************************//

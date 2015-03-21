@@ -1,0 +1,28 @@
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <div class="panel-title">Tabela de Resultados:</div>
+    </div>
+    <div class="panel-body">
+        <table class="table table-bordered table-condensed table-hover">
+            <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Valor</th>
+                <th>Criado</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr data-ng-repeat="score in scores.scores track by $index">
+                <td>{{score.question}}</td>
+                <td>{{score.prizeValue | currency: 'R$ ' }}</td>
+                <td>{{score.created | date: 'dd/MM/yyyy HH:mm' }}</td>
+            </tr>
+
+            <tr class="text-center" data-ng-show="scores.scores === undefined || scores.scores.length === 0">
+                <td colspan="3"> <span class="label label-danger">Não possuem resultados cadastrados!</span> </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+

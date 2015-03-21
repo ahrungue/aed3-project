@@ -18,7 +18,7 @@ public class Question implements Serializable {
 
 	@Id
 	@GeneratedValue(generator = "system-uuid")
-	@GenericGenerator(name = "system-uuid", strategy = "uuid")
+	@GenericGenerator(name = "system-uuid", strategy = "uuid2")
 	@Column(name = "question_id")
 	private String id;
 
