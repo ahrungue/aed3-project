@@ -99,10 +99,10 @@ bower install font-awesome --save-dev
 
 ##### Para rodar o projeto depois de clonar o repositorio, deve executar os comandos #####
 ```bash
-cd ~/IdeaProjects/show-milhao/yo
+cd ~/IdeaProjects/aed3-project/yo
 
 ###### Modulos do projecto yo,grunt,npm,bower,etc ######
-npm update
+npm install
 
 ###### Depencias do bibliotecas ######
 bower install
