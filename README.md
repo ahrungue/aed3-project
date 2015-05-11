@@ -1,4 +1,4 @@
-# show-milhao
+# Projeto AED3 - Show do Milhão
 Trabalho de AED3 - Aplicativo que simula o jogo Show do Milhão
 
 ######  Estrutura do projeto  #####
