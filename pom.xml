@@ -6,7 +6,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>local.project</groupId>
-    <artifactId>corn-show</artifactId>
+    <artifactId>aed3-project</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
@@ -268,7 +268,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.3.2</version>
+            <version>3.4</version>
         </dependency>
 
         <!-- Biblioteca para Upload de arquivos -->
