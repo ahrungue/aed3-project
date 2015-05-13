@@ -1,7 +1,7 @@
 package corn.controllers;
 
-import corn.models.Score;
 import corn.generics.GenericController;
+import corn.models.Score;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

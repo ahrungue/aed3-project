@@ -3,8 +3,6 @@ package corn.generics;
 import corn.annotations.SerialClass;
 import corn.indexes.UserIndex;
 import corn.interfaces.BytesConvertable;
-import org.apache.commons.io.input.BoundedInputStream;
-import org.apache.commons.io.output.CountingOutputStream;
 import org.springframework.stereotype.Repository;
 
 import java.io.*;

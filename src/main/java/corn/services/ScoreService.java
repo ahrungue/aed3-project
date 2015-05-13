@@ -1,7 +1,7 @@
 package corn.services;
 
-import corn.models.Score;
 import corn.generics.GenericService;
+import corn.models.Score;
 import org.springframework.stereotype.Service;
 
 /**

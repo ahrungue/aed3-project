@@ -1,7 +1,7 @@
 package corn.daos;
 
-import corn.models.Score;
 import corn.generics.GenericDAO;
+import corn.models.Score;
 import org.springframework.stereotype.Repository;
 
 /**
