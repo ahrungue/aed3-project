@@ -21,3 +21,5 @@ src/main/webapp/META-INF/context.xml
 src/main/resources/META-INF/database/database.properties
 atlassian-ide-plugin.xml
 overlays/
+##### Arquivos de Serializacao que sao gerados para armazenar os objetos #####
+*.ser
