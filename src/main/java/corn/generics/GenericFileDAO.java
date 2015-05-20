@@ -1,7 +1,7 @@
 package corn.generics;
 
 import corn.annotations.SerialClass;
-import corn.indexes.UserIndex;
+import corn.indexes.GenericIndex;
 import corn.interfaces.BytesConvertable;
 import org.springframework.stereotype.Repository;
 
@@ -45,12 +45,12 @@ public abstract class GenericFileDAO<T extends Serializable> {
         return null;
     }//end init()
 
+    protected abstract GenericIndex<T> getGenericIndex();
 
     public void save( T entity ){
 
-        RandomAccessFile outputStream = this.getRandomAccessFile();
-        UserIndex userIndex = new UserIndex();
-
+        RandomAccessFile outputStream   = this.getRandomAccessFile();
+        GenericIndex<T> genericIndex    = this.getGenericIndex();
         try{
 
             Field id = entity.getClass().getDeclaredField("id");
@@ -59,18 +59,18 @@ public abstract class GenericFileDAO<T extends Serializable> {
             id.set(entity, objectId);
 
             byte[] bytes = ((BytesConvertable) entity).toBytes();
-            long nextAddress = userIndex.getNextAddress();
+            long nextAddress = genericIndex.getNextAddress();
             outputStream.seek(nextAddress);
 
             //Add the new object on the index
-            userIndex.addKeyIndex(objectId, nextAddress);
+            genericIndex.addKeyIndex(objectId, nextAddress);
 
             //Write bytes on the file after seek the specific position
             outputStream.write(bytes);
             nextAddress += bytes.length;
 
-            userIndex.setNextAddress(nextAddress);
-            userIndex.save();
+            genericIndex.setNextAddress(nextAddress);
+            genericIndex.save();
 
             outputStream.close();
 
@@ -83,9 +83,8 @@ public abstract class GenericFileDAO<T extends Serializable> {
 
     public void update(T entity ){
 
-        RandomAccessFile outputStream = this.getRandomAccessFile();
-        UserIndex userIndex = new UserIndex();
-
+        RandomAccessFile outputStream   = this.getRandomAccessFile();
+        GenericIndex<T> genericIndex    = this.getGenericIndex();
 
         try {
             Field fieldId = entity.getClass().getDeclaredField("id");
@@ -97,7 +96,7 @@ public abstract class GenericFileDAO<T extends Serializable> {
 
 
             //Address of the user to update
-            Long addressByIndex = userIndex.getAddressByIndex(id);
+            Long addressByIndex = genericIndex.getAddressByIndex(id);
             outputStream.seek(addressByIndex);
             outputStream.write( ((BytesConvertable) entity).toBytes() );
 
@@ -109,14 +108,14 @@ public abstract class GenericFileDAO<T extends Serializable> {
     }//end save()
 
     public T byId( String id ){
-        RandomAccessFile randomAccessFile = this.getRandomAccessFile();
-        UserIndex userIndex = new UserIndex();
+        RandomAccessFile randomAccessFile   = this.getRandomAccessFile();
+        GenericIndex<T> genericIndex        = this.getGenericIndex();
         T t = null;
         try {
             int classByteSize = this.persistentClass.getAnnotation(SerialClass.class).size();
             byte[] classBytes = new byte[classByteSize];
 
-            Long address = userIndex.getAddressByIndex(id);
+            Long address = genericIndex.getAddressByIndex(id);
             randomAccessFile.seek(address);
             randomAccessFile.read(classBytes);
 

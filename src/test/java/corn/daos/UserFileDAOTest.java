@@ -29,7 +29,7 @@ public class UserFileDAOTest {
                 RandomStringUtils.randomAlphabetic(RandomUtils.nextInt(3,15)),
                 RandomStringUtils.randomAlphabetic(RandomUtils.nextInt(3,15))
         ));
-        user.setPassword(RandomStringUtils.random(10));
+        user.setPassword(RandomStringUtils.random(10, true, true));
 
         //Save the user
         userFileDAO.save(user);
@@ -64,13 +64,16 @@ public class UserFileDAOTest {
         //Get user to test
         User testUser = userList.get(listPosition);
 
+        //Print the user before update to check on console
+        System.out.printf("%nBefore User Update:%n%s%n", testUser);
+
         //Update the user attributes
         testUser.setName(String.format("%s %s %s",
                 RandomStringUtils.randomAlphabetic(RandomUtils.nextInt(3, 15)),
                 RandomStringUtils.randomAlphabetic(RandomUtils.nextInt(3, 15)),
                 "Updated"
         ));
-        testUser.setPassword(RandomStringUtils.random(10));
+        testUser.setPassword(RandomStringUtils.random(10, true, true));
 
         //Save testUser to check the update function
         userFileDAO.update(testUser);
@@ -78,9 +81,8 @@ public class UserFileDAOTest {
         //User after being updated
         User user = userFileDAO.byId(testUser.getId());
 
-        //Print the user to check on console
-        System.out.printf("%nBefore User Update:%n %s%n", testUser);
-        System.out.printf("%nAfter User Update:%n %s%n", user);
+        //Print the user after update to check on console
+        System.out.printf("%nAfter User Update:%n%s%n", user);
 
         assertEquals("TestUser must be equals user. ", testUser, user);
 
