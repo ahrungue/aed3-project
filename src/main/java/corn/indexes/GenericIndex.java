@@ -1,5 +1,7 @@
 package corn.indexes;
 
+import org.apache.commons.lang3.StringUtils;
+
 import java.io.*;
 import java.lang.reflect.ParameterizedType;
 import java.util.*;
@@ -29,10 +31,12 @@ public abstract class GenericIndex<T> {
         try {
             ObjectInputStream inputStream = new ObjectInputStream(new BufferedInputStream(
                     new FileInputStream(this.persistentClass.getSimpleName() + "_Index.ser")));
+
+            //Read the stream and cast the object
             this.indexMap = ((TreeMap<String, Long>) inputStream.readObject());
 
         }catch (FileNotFoundException e){
-            this.indexMap = new TreeMap<>();
+            this.indexMap = new TreeMap<String, Long>();
             this.indexMap.put("nextAddress", (long) 0);
             this.save();
         }catch(IOException | ClassNotFoundException e) {
@@ -62,6 +66,16 @@ public abstract class GenericIndex<T> {
         this.indexMap.put(key,address);
     }//end addIndex()
 
+
+    public Long removeKeyIndex( String key){
+        return this.indexMap.remove(key);
+    }//end removeKeyIndex()
+
+    public void updateKeyAddress( String key, Long address){
+        this.removeKeyIndex(key);
+        this.addKeyIndex(key,address);
+    }//end addIndex()
+
     public Long getAddressByIndex( String key ){
         return this.indexMap.get(key);
     }//end getAddressByIndex()
@@ -77,22 +91,20 @@ public abstract class GenericIndex<T> {
 
     @Override
     public String toString() {
+        String margin = StringUtils.repeat("*", 50) + System.lineSeparator();
         String toString = "";
 
-        toString += String.format("%-36s\t%-8s%n","Quantidade de Registros ->", (this.indexMap.size()-1));
-        toString += String.format("%-36s\t%-8s%n","Identificador","Endereço");
+        toString += margin;
+        toString += String.format("%-36s\t%-8s%n", "Quantidade de Registros ->", (this.indexMap.size() - 1));
+        toString += margin;
+        toString += String.format("%-36s\t%-8s%n", "Identificador", "Endereço");
 
-        Iterator<Map.Entry<String, Long>> strings = this.indexMap.entrySet()
-                .stream()
-                .sorted(Comparator.comparingLong(Map.Entry<String, Long>::getValue))
-                .;
-        
-
-
-        for( String key : strings ){
-            toString += String.format("%-36s\t%-8s%n", key,this.indexMap.get(key).toString());
+        //Add key - value in string
+        for( Map.Entry<String,Long> key  : this.indexMap.entrySet() ){
+            toString += String.format("%-36s\t%-8s%n", key.getKey(), key.getValue());
         }//end for(iterator)
 
+        toString += margin;
         return toString;
     }//end toString()
 

@@ -34,7 +34,9 @@ public class UserFileDAOTest {
         //Save the user
         userFileDAO.save(user);
 
+        System.out.printf("User Saved -> %s%n", user.getId());
         List<User> userList = userFileDAO.findAll();
+
         assertNotNull("User list must not be null.", userList);
         assertTrue("User list must not be empty.", !userList.isEmpty());
 
@@ -56,7 +58,7 @@ public class UserFileDAOTest {
     }//end testById()
 
     @Test
-    public void test3update() throws Exception {
+    public void test3Update() throws Exception {
         UserFileDAO userFileDAO = new UserFileDAO();
         List<User> userList = userFileDAO.findAll();
         int listPosition = RandomUtils.nextInt(0, userList.size());
@@ -88,16 +90,41 @@ public class UserFileDAOTest {
 
     }//end testById()
 
+    @Test
+    public void test4remove() throws Exception {
+        UserFileDAO userFileDAO = new UserFileDAO();
+        List<User> userList = userFileDAO.findAll();
+        int listPosition = RandomUtils.nextInt(0, userList.size());
+
+        //Get user.id to test
+        String removeId = userList.get(listPosition).getId();
+
+        //Remove the user
+        userFileDAO.delete(removeId);
+
+        User testUserRemoved = userFileDAO.byId(removeId);
+
+        //Print the user after update to check on console
+        System.out.printf("%nUser removed:%n%s%n", removeId);
+
+        assertNull("TestUseRemoved must be NULL. ", testUserRemoved);
+
+    }//end testById()
+
     @AfterClass
     public static void after(){
         UserFileDAO userFileDAO = new UserFileDAO();
         List<User> userList = userFileDAO.findAll();
 
-        System.out.printf("%nFindAll Method:%n");
-        userList.forEach(System.out::println);
+        if (userList != null) {
+            System.out.printf("%nFindAll Method:%n");
+            userList.forEach(System.out::println);
+            System.out.printf("%nArquivo de Index de Usuarios:%n");
+            System.out.println(new UserIndex());
+        }//end if
 
-        System.out.printf("%nArquivo de Index de Usuarios:%n");
         System.out.println(new UserIndex());
+
     }//end after()
 
 }//end class UserFileDAOTest
