@@ -13,6 +13,6 @@ public class UserIndex extends GenericIndex<User>{
 
     public UserIndex() {
         super();
-    }//end User()
+    }//end UserIndex()
 
 }//end class UserIndex

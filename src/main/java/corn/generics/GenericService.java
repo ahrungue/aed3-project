@@ -4,6 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.io.Serializable;
+import java.lang.reflect.Field;
 import java.util.List;
 
 /**
@@ -11,37 +13,45 @@ import java.util.List;
  * @since 29/11/14.
  */
 @Service
-public abstract class GenericService<T>{
+public abstract class GenericService<T extends Serializable>{
 
     @Autowired
-    private GenericDAO<T> genericDAO;
+    private GenericFileDAO<T> genericFileDAO;
 
     @Transactional
     public T findById(String id){
-        return this.genericDAO.byId(id);
+        return this.genericFileDAO.byId(id);
     }//fim findById()
 
     @Transactional
     public T create(T entity){
-        this.genericDAO.save(entity);
+        this.genericFileDAO.save(entity);
         return entity;
     }//fim create() - CRUD
 
     @Transactional
     public T update(T entity){
-        this.genericDAO.update(entity);
+        this.genericFileDAO.update(entity);
         return entity;
     }//fim update() - CRUD
 
     @Transactional
     public T delete(T entity){
-        this.genericDAO.delete(entity);
+
+        try {
+            Field id = entity.getClass().getField("id");
+            id.setAccessible(true);
+            this.genericFileDAO.delete(id.get(entity).toString());
+        } catch (NoSuchFieldException | IllegalAccessException e) {
+            e.printStackTrace();
+        }
+
         return entity;
     }//fim delete() - CRUD
 
     @Transactional
     public List<T> findAll(){
-        return this.genericDAO.findAll();
+        return this.genericFileDAO.findAll();
     }//fim findAll()
 
 }//fim GenericService<T>

@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 import java.beans.Introspector;
+import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
 import java.util.HashMap;
 import java.util.Map;
@@ -18,7 +19,7 @@ import java.util.Map;
  */
 @RestController
 @SuppressWarnings("unchecked")
-public abstract class GenericController<T> {
+public abstract class GenericController<T extends Serializable> {
 
 	private Class<T> persistentClass;
 

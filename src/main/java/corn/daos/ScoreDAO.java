@@ -1,6 +1,8 @@
 package corn.daos;
 
-import corn.generics.GenericDAO;
+import corn.generics.GenericFileDAO;
+import corn.indexes.GenericIndex;
+import corn.indexes.ScoreIndex;
 import corn.models.Score;
 import org.springframework.stereotype.Repository;
 
@@ -9,6 +11,11 @@ import org.springframework.stereotype.Repository;
  * @since 03/21/15.
  */
 @Repository
-public class ScoreDAO extends GenericDAO<Score> {
+public class ScoreDAO extends GenericFileDAO<Score> {
+
+    @Override
+    protected GenericIndex<Score> getGenericIndex() {
+        return new ScoreIndex();
+    }//end getGenericIndex()
 
 }//end class Score

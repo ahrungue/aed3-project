@@ -39,7 +39,11 @@ public abstract class GenericFileDAO<T extends Serializable> {
     private RandomAccessFile getRandomAccessFile(){
 
         try {
-            String fileName = this.persistentClass.getSimpleName()+".ser";
+            String fileName = String.format("%s%s%s.ser",
+                    System.getProperty("user.home"),
+                    File.separator,
+                    this.persistentClass.getSimpleName() );
+
             File file = new File(fileName);
 
             return new RandomAccessFile(file,"rw");

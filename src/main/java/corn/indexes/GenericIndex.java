@@ -4,8 +4,9 @@ import org.apache.commons.lang3.StringUtils;
 
 import java.io.*;
 import java.lang.reflect.ParameterizedType;
-import java.util.*;
-import java.util.stream.Stream;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.TreeMap;
 
 /**
  * <p>
@@ -25,12 +26,21 @@ public abstract class GenericIndex<T> {
 
     private Class<T> persistentClass;
 
+    public File getIndexFile(){
+        String fileName = String.format("%s%s%s_Index.ser",
+                System.getProperty("user.home"),
+                File.separator,
+                this.persistentClass.getSimpleName() );
+
+        return new File(fileName);
+    }//end getIndexFile()
+
     public GenericIndex(){
         this.persistentClass = (Class<T>) ((ParameterizedType) this.getClass().getGenericSuperclass()).getActualTypeArguments()[0];
 
         try {
             ObjectInputStream inputStream = new ObjectInputStream(new BufferedInputStream(
-                    new FileInputStream(this.persistentClass.getSimpleName() + "_Index.ser")));
+                    new FileInputStream(this.getIndexFile()) ));
 
             //Read the stream and cast the object
             this.indexMap = ((TreeMap<String, Long>) inputStream.readObject());
@@ -42,15 +52,16 @@ public abstract class GenericIndex<T> {
         }catch(IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }//end try-catch
+
     }//end UserIndex
 
     public void save(){
 
-
         try {
+
             //Save the object index on the file
             ObjectOutputStream outputStream = new ObjectOutputStream(new BufferedOutputStream(
-                            new FileOutputStream(this.persistentClass.getSimpleName() + "_Index.ser")));
+                    new FileOutputStream(this.getIndexFile())));
 
             outputStream.writeObject(this.indexMap);
             outputStream.flush();
