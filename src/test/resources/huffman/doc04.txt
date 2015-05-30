@@ -1,0 +1,1942 @@
+Ministério da Educação
+GABINETE DO MINISTRO
+PORTARIA NORMATIVA Nº 40, DE 12 DE DEZEMBRO DE 2007(*)
+O MINISTRO DE ESTADO DA EDUCAÇÃO, no uso de suas atribuições,
+considerando o Decreto nº 5.773, de 09 de maio de 2006, alterado pelo Decreto nº 5.840, de
+13 de julho de 2006, pelo Decreto nº 6.303, de 12 de dezembro de 2007 e pelo Decreto nº
+6.861, de 27 de maio de 2009, que dispôs sobre o exercício das funções de regulação,
+supervisão e avaliação de cursos e instituições e cursos superiores; bem como a
+conveniência de simplificar, racionalizar e abreviar o trâmite dos processos relacionados,
+utilizando ao máximo as possibilidades oferecidas pela tecnologia da informação; e o
+disposto nas Leis nº 9.784, de 29 de janeiro de 1999; nº 9.394, de 20 de dezembro de 1996;
+n° 10.861, de 14 de abril de 2004; e nº 10.870, de 19 de maio de 2004, bem como a Portaria
+Normativa n° 23, de 1° de dezembro de 2010, resolve determinar a publicação da Portaria
+Normativa nº 40, de 12 de dezembro de 2007, consolidada, conforme se segue:
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+Art. 1º A tramitação dos processos de regulação, avaliação e supervisão de
+instituições e cursos superiores do sistema federal de educação superior será feita
+exclusivamente em meio eletrônico, no sistema e-MEC, e observarão as disposições
+específicas desta Portaria e a legislação federal de processo administrativo, em especial os
+princípios da finalidade, motivação, razoabilidade, moralidade, interesse público, economia e
+celeridade processual e eficiência, aplicando- se, por analogia, as disposições pertinentes
+da Lei nº 11.419, de 19 de dezembro de 2006. (NR)
+§ 1º A comunicação dos atos se fará em meio eletrônico, com observância aos
+requisitos de autenticidade, integridade, validade jurídica e interoperabilidade da InfraEstrutura
+de Chaves Públicas Brasileiras - ICP - Brasil.
+§ 2º As notificações e publicações dos atos de tramitação dos processos pelo eMEC
+serão feitas exclusivamente em meio eletrônico.
+§ 3º A contagem de prazos observará o disposto no art. 66 da Lei nº 9.784, de
+1999, em dias corridos, excluído o dia da abertura da vista e incluído o do vencimento,
+levando em consideração o horário de disponibilidade do sistema, que será devidamente
+informado aos usuários.
+§ 4º A indisponibilidade do e-MEC na data de vencimento de qualquer prazo
+acarretará a prorrogação automática deste para o primeiro dia subseqüente em que haja
+disponibilidade do sistema.
+Institui o e-MEC, sistema eletrônico de fluxo de trabalho e gerenciamento
+de informações relativas aos processos de regulação, avaliação e
+supervisão da educação superior no sistema federal de educação, e o
+Cadastro e-MEC de Instituições e Cursos Superiores e consolida
+disposições sobre indicadores de qualidade, banco de avaliadores (Basis) e
+o Exame Nacional de Desempenho de Estudantes (ENADE) e outras
+disposições.
+2
+§ 5º A não utilização do prazo pelo interessado desencadeia o restabelecimento
+do fluxo processual.
+§ 6º Os processos no e-MEC gerarão registro e correspondente número de
+transação, mantendo informação de andamento processual própria.
+§ 7º A tramitação dos processos no e-MEC obedecerá à ordem cronológica de
+sua apresentação, ressalvada a hipótese de diligência pendente e admitida a apreciação por
+tipo de ato autorizativo, devidamente justificadas, observadas a impessoalidade e isonomia.
+Art. 2º A movimentação dos processos se fará mediante a utilização de
+certificados digitais.
+§ 1º O acesso ao sistema, para inserção de dados pelas instituições, pelo
+Conselho Nacional de Saúde (CNS) e pelos conselhos nacionais de regulamentação
+profissional mencionados nos arts. 28, 36 e 37 do Decreto nº 5.773, de 2006, bem como por
+quaisquer outros agentes habilitados dar-se-á pela atribuição de chave de identificação e de
+senha, pessoal e intransferível, mediante a celebração de termo de compromisso.
+§ 2º O acesso ao sistema, para inserção de dados pelos agentes públicos
+competentes para atuar nos processos de regulação, avaliação e supervisão também se
+darão pela atribuição de chave de identificação e senha de acesso, pessoal e intransferível,
+com a celebração de termo de compromisso. (NR)
+§ 3º O acesso ao e-MEC deverá ser realizado com certificação digital, padrão
+ICP Brasil, com o uso de Certificado tipo A3 ou superior, emitido por Autoridade
+Certificadora credenciada, na forma da legislação específica.
+§ 4º A assinatura do termo de compromisso com o provedor do sistema implica
+responsabilidade legal do compromissário e a presunção de sua capacidade técnica para
+realização das transações no e-MEC.
+§ 5º O uso da chave de acesso e da senha gera presunção da autenticidade,
+confiabilidade e segurança dos dados, a cargo do usuário.
+§ 6º O uso da chave de acesso e da senha é de responsabilidade exclusiva do
+compromissário, não cabendo ao provedor do sistema responsabilidade por eventuais
+danos decorrentes de uso indevido da senha, ainda que por terceiros.
+§ 7º A perda da chave de acesso ou da senha ou a quebra de sigilo deverão ser
+comunicadas imediatamente ao provedor do sistema e à Autoridade Certificadora, para
+bloqueio de acesso.
+Art. 3º Os documentos que integram o e-MEC são públicos, ressalvadas
+informações exclusivamente de interesse privado da instituição, expressamente referidas
+nesta Portaria.
+§ 1º Serão de acesso restrito os dados relativos aos itens III, IV e X do art. 16, do
+Decreto nº 5773, de 2006, que trata do PDI.
+§ 2º Os arquivos e registros digitais serão válidos para todos os efeitos legais e
+permanecerão à disposição das auditorias internas e externas do Ministério da Educação
+(MEC).
+Art. 4º O e-MEC será implantado em ambiente acessível pela internet, de modo
+a permitir informação ao público sobre o andamento dos processos, bem como a relação de
+instituições credenciadas e de cursos autorizados e reconhecidos, além dos dados sobre os
+atos autorizativos e os elementos relevantes da instrução processual.
+3
+§ 1º O sistema gerará e manterá atualizadas relações de instituições
+credenciadas e recredenciadas no e-MEC, informando credenciamento específico para
+educação à distância (EAD), e cursos autorizados, reconhecidos ou com reconhecimento
+renovado, organizadas no Cadastro e-MEC, nos termos do art. 61-A. (NR)
+§ 2º O sistema possibilitará a geração de relatórios de gestão, que subsidiarão
+as atividades decisórias e de acompanhamento e supervisão dos órgãos do MEC (MEC).
+Art. 5º Os documentos a serem apresentados pelas instituições poderão, a
+critério do MEC, ser substituídos por consulta eletrônica aos sistemas eletrônicos oficiais de
+origem, quando disponíveis.
+Art. 6º Os dados informados e os documentos produzidos eletronicamente, com
+origem e signatário garantidos por certificação eletrônica, serão considerada válida e
+íntegra, para todos os efeitos legais, ressalvada a alegação fundamentada de adulteração,
+que será processada na forma da legislação aplicável.
+CAPÍTULO II
+DAS COMPETÊNCIAS SOBRE O E-MEC
+Art. 7º A coordenação do e-MEC caberá a pessoa designada pelo Ministro da
+Educação, competindo às Diretorias de Tecnologia da Informação do MEC e do Instituto
+Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) sua execução
+operacional. (NR)
+§ 1º Após a fase de implantação, o desenvolvimento ulterior do sistema será
+orientado por Comissão de Acompanhamento, integrada por representantes dos seguintes
+órgãos:
+I - Gabinete do Ministro (GM);
+II - Diretoria de Tecnologia da Informação (DTI); (NR)
+III - Secretaria de Educação Superior (SESu);
+IV - Secretaria de Educação Profissional e Tecnológica (SETEC);
+V - Secretaria de Educação a Distância (SEED);
+VI - INEP, por suas Diretorias de Avaliação da Educação Superior (DAES) e de
+Tecnologia e Desenvolvimento de Informação Educacional; (NR)
+VII - Conselho Nacional de Educação (CNE);
+VIII - Consultoria Jurídica (CONJUR).
+§ 2º Compete à Comissão apreciar as alterações do sistema necessárias à sua
+operação eficiente, bem como à sua atualização e aperfeiçoamento.
+§ 3º Os órgãos referidos nos incisos II, III, e VI do § 1º organizarão serviços de
+apoio ao usuário do e-MEC visando solucionar os problemas que se apresentem à plena
+operabilidade do sistema.
+4
+CAPÍTULO III
+DAS DISPOSIÇÕES COMUNS AOS PROCESSOS DE CREDENCIAMENTO
+DE INSTITUIÇÃO E AUTORIZAÇÃO DE CURSO
+Art. 8º O protocolo do pedido de credenciamento de instituição ou
+autorização de curso será obtido após o cumprimento dos seguintes requisitos:
+I - pagamento da taxa de avaliação, prevista no art. 3º, caput, da Lei nº 10.870,
+de 19 de maio de 2004, exceto para instituições de educação superior públicas isenta nos
+termos do art. 3º, § 5º, da mesma lei, mediante documento eletrônico, gerado pelo sistema;
+II - preenchimento de formulário eletrônico;
+III - apresentação dos documentos de instrução referidos no Decreto nº 5.773,
+de 2006, em meio eletrônico, ou as declarações correspondentes, sob as penas da lei.
+§ 1º O pedido de credenciamento deve ser acompanhado do pedido de
+autorização de pelo menos um curso, nos termos do art. 67 do Decreto nº 5.773, de 2006, e
+de no máximo 5 (cinco) cursos. (NR)
+§ 2º O sistema não aceitará alteração nos formulários ou no boleto após o
+protocolo do processo.
+§ 3º Os pedidos de credenciamento de centro universitário ou universidade
+deverão ser instruídos com os atos autorizativos em vigor da instituição proponente e com
+os demais documentos específicos, não se lhes aplicando o disposto no § 1º.
+§ 4º O credenciamento para EAD, nos termos do art. 80 da Lei nº 9.394, de
+1996, obedecerá a procedimento específico, observado o Decreto nº 5.622, de 2005, e as
+disposições desta Portaria Normativa, cabendo à SEED a apreciação dos requisitos próprios
+para oferta dessa modalidade de educação.
+§ 5º O protocolo do pedido não se completará até o pagamento da taxa,
+observado o art. 14-A, podendo o formulário respectivo ficar aberto pelo prazo máximo de
+60 dias, após o quê perderá efeito.
+Art. 9º A instituição ou o curso terá uma identificação perante o MEC, que será a
+mesma nas diversas etapas de sua existência legal e também nos pedidos de aditamento
+ao ato autorizativo.
+§ 1º A instituição integrante do sistema federal de educação superior manterá a
+identificação nos processos de credenciamento para EAD.
+§ 2º As instituições dos sistemas estaduais que solicitarem credenciamento para
+EAD terão identificação própria.
+§ 3º O descredenciamento ou o cancelamento da autorização, resultantes de
+pedido da instituição ou de decisão definitiva do MEC, resultará na baixa do código de
+identificação, após a expedição dos diplomas ou documentos de transferência dos últimos
+alunos, observado o dever de conservação do acervo escolar. (NR)
+5
+Seção I
+Da análise documental
+Art. 10. Após o protocolo, os documentos serão submetidos à análise.
+§ 1º A análise dos documentos fiscais e das informações sobre o corpo dirigente
+e o imóvel, bem como do Estatuto ou Regimento, será realizada pela Secretaria
+competente. (NR)
+§ 2º Caso os documentos sejam omissos ou insuficientes à apreciação
+conclusiva, o órgão poderá determinar ao requerente a realização de diligência, a qual se
+prestará unicamente a esclarecer ou sanar o aspecto apontado.
+§ 3º A diligência deverá ser atendida no prazo de 30 (trinta) dias, sob pena de
+arquivamento do processo.
+§ 4º O atendimento à diligência restabelece imediatamente o fluxo do processo.
+§ 5º O não atendimento da diligência, no prazo, ocasiona o arquivamento do
+processo, nos termos do art. 11, § 3º.
+§ 6º As diligências serão concentradas em uma única oportunidade em cada
+fase do processo, exceto na fase de avaliação, em que não caberá a realização de
+diligência, a fim de assegurar objetividade e celeridade processual.
+Art. 11. Concluída a análise dos documentos, o processo seguirá ao Diretor de
+Regulação competente, para apreciar a instrução, no seu conjunto, e determinar a correção
+das irregularidades sanáveis, se couber, ou o arquivamento do processo, quando a
+insuficiência de elementos de instrução impedir o seu prosseguimento. (NR)
+§ 1º Não serão aceitas alterações do pedido após o protocolo.
+§ 2º Em caso de alteração relevante de qualquer dos elementos de instrução do
+pedido de ato autorizativo, o requerente deverá solicitar seu arquivamento, nos termos do §
+3º, e protocolar novo pedido, devidamente alterado.
+§ 3º O arquivamento do processo, nos termos do caput ou do § 2º não enseja o
+efeito do art. 68, § 1º, do Decreto nº 5.773, de 2006, e gera, em favor da requerente, crédito
+do valor da taxa de avaliação recolhida correspondente ao pedido arquivado, a ser restituído
+na forma do art. 14, § 3º.
+§ 4º Caso o arquivamento venha a ocorrer depois de iniciada a fase de
+avaliação, em virtude de qualquer das alterações referidas no § 2º, não haverá restituição do
+valor da taxa, observado o art. 14-B. (NR)
+Art. 11-A Nos pedidos de autorização de cursos presenciais, a avaliação in loco
+poderá ser dispensada, por decisão do Diretor de Regulação competente, após análise
+documental, mediante despacho fundamentado, condicionada ao Conceito Institucional (CI)
+e Índice Geral de Cursos Avaliados da Instituição (IGC) da Instituição mais recentes iguais
+ou superiores a 3 (três), cumulativamente.
+§ 1º O disposto no caput não se aplica aos pedidos de autorização dos cursos
+referidos no art. 28, § 2º, do Decreto nº 5.773, de 9 de maio de 2006.
+§ 2º Na hipótese de CI ou IGC inferiores a 3 (três), em vista da análise dos
+elementos de instrução do processo e da situação da instituição, a autorização de cursos
+poderá ser indeferida, motivadamente, independentemente de visita de avaliação in loco.
+6
+§ 3º A reduzida proporção, correspondente a menos de 50% (cinquenta por
+cento), de cursos reconhecidos em relação aos cursos autorizados e solicitados é
+fundamento suficiente para o arquivamento do processo.
+§ 4º Na ausência de CI, poderá ser considerado apenas o IGC da instituição.
+Art. 11-B Nos pedidos de autorização de cursos em EAD, a aplicação da regra
+do art. 11-A é condicionada ao CI e IGC da instituição mais recente igual ou superiores a 4
+(quatro), cumulativamente.
+§ 1º Nos pedidos de credenciamento de pólos de apoio presencial poderá ser
+adotada a visita de avaliação in loco por amostragem, após análise documental, mediante
+despacho fundamentado, condicionada aos indicadores referidos no caput, observadas as
+proporções do art. 55, § 2º.
+§ 2º Na hipótese de CI ou IGC inferiores a 3 (três), em vista da análise dos
+elementos de instrução do processo e da situação da instituição, os pedidos de
+credenciamento institucional para a modalidade de EAD, credenciamento de novos pólos de
+apoio presencial e de autorização de cursos nessa modalidade poderão ser indeferidos,
+motivadamente, independentemente de visita de avaliação in loco.
+Art. 12. Do despacho de arquivamento caberá recurso ao Secretário competente
+no prazo de dez dias.
+Parágrafo único. A decisão do Secretário referida no caput é irrecorrível.
+Art. 13. Encerrada a fase de instrução documental, com o despacho do Diretor
+ou do Secretário, conforme o caso, o processo seguirá ao INEP, para realização da
+avaliação in loco.
+Parágrafo único. Na hipótese de múltiplos endereços, a avaliação in loco poderá
+ser feita por amostragem, a juízo da Diretoria de Regulação competente, a quem competirá
+assinalar os locais a serem visitados pelo INEP.
+Seção II
+Da avaliação pelo INEP
+Subseção I
+Da tramitação do processo na fase de avaliação
+Art. 13-A A atividade de avaliação, sob responsabilidade do INEP, para fins de
+instrução dos processos de autorização e reconhecimento de cursos, bem como
+credenciamento de instituições, e suas respectivas renovações, terá início a partir do
+despacho saneador satisfatório ou parcialmente satisfatório da Secretaria competente, nos
+termos do art. 13, e se concluirá com a inserção do relatório de avaliação, após a
+apreciação pela Comissão Técnica de Acompanhamento da Avaliação (CTAA), nas
+hipóteses de impugnação.
+Parágrafo único. As decisões sobre os procedimentos de avaliação de
+responsabilidade do INEP cabem à DAES.
+Art. 14. A tramitação do processo no INEP se iniciará com a geração de código
+de avaliação no sistema e-MEC e abertura de formulário eletrônico de avaliação para
+preenchimento pela instituição. (NR)
+§ 1º As Comissões de Avaliação in loco de instituições serão compostas por três
+avaliadores e as de curso, por dois avaliadores, sorteados pelo sistema e-MEC dentre os 
+7
+integrantes do Banco de Avaliadores do Sistema Nacional de Avaliação da Educação
+Superior- SINAES (Basis), observados os arts. 17-A a 17-H. (NR)
+§ 2º Caso necessário, o requerente efetuará o pagamento do complemento da
+taxa de avaliação (NR).
+§ 3º O não pagamento do complemento da taxa de avaliação após o vencimento
+do prazo do boleto enseja o arquivamento do processo, nos termos do art. 11. (NR)
+§ 4º [revogado]
+Art. 14-A Deverá ser paga uma taxa de avaliação para cada processo aberto no
+sistema e-MEC, observado o art. 14-B.
+§ 1º O valor da taxa básica de avaliação in loco é de R$6.960,00 (seis mil
+novecentos e sessenta reais), nos processos de autorização e reconhecimento de cursos, e
+R$ 10.440,00 (dez mil quatrocentos e quarenta reais), nos processos de credenciamento, e
+nas respectivas renovações.
+§ 2º O valor da taxa para credenciamento de pólo de apoio presencial de EAD é
+de R$ 6.960,00 (seis mil novecentos e sessenta reais) por pólo.
+§ 3º As receitas obtidas com a taxa de avaliação in loco serão aplicadas
+exclusivamente no custeio das despesas com as Comissões de Avaliação.
+Art. 14-B O arquivamento do processo ou dispensa de avaliação in loco, nos
+termos dos arts. 11, 11-A, 11-B, 35 e 35-A desta Portaria Normativa poderá gerar em favor
+do requerente crédito do valor da taxa de avaliação correspondente, caso não tenham sido
+efetuadas despesas de custeio pelo INEP.
+§ 1º O crédito gerado na forma do caput, após o encerramento do processo,
+poderá ser reaproveitado no sistema e-MEC em outra avaliação da instituição ou de seus
+cursos.
+§ 2º O módulo Taxa de Avaliação do sistema e-MEC registrará o histórico de
+pagamento dos processos e a situação da instituição, indicando quitação ou pendência e
+saldo eventualmente existente.
+§ 3º Havendo crédito, o reaproveitamento deverá ser requerido no sistema, com
+indicação do número do processo cedente e do beneficiário, esse em fase de protocolo.
+§ 4º Havendo pendência, ficará suspenso o fluxo processual pelo prazo de 30
+(trinta) dias, após o quê, não havendo quitação, o processo será arquivado.
+§ 5º Realizada avaliação in loco, não caberá ressarcimento de valores,
+independentemente do número de avaliadores designados.
+§ 6º Nas hipóteses de unificação de mantidas ou transferência de mantença,
+poderão ser reaproveitados os créditos, considerada a nova situação da instituição.
+§ 7º Quando não houver interesse em reaproveitar crédito eventualmente
+existente para outras avaliações dentro do sistema, o ressarcimento do valor poderá ser
+requerido à DAES, por ofício da instituição firmado por seu representante legal.
+Art. 14-C As avaliações in loco durarão, em regra, 2 (dois) dias, para subsidiar
+atos de autorização, reconhecimento de curso e credenciamento de pólo de apoio
+presencial para EAD, e 3 (três) dias, para atos de credenciamento, excluídos os dias de
+deslocamento, e idêntico prazo nas respectivas renovações, quando for o caso.
+8
+Parágrafo único. A avaliação in loco deverá ocorrer no endereço constante do
+processo eletrônico de solicitação do ato autorizativo, observado o parágrafo único do art.
+13.
+Art. 15. A Comissão de Avaliadores procederá à avaliação in loco, utilizando o
+instrumento de avaliação previsto art. 7º, V, do Decreto nº 5.773, de 2006, e respectivos
+formulários de avaliação.
+§ 1º O requerente deverá preencher os formulários eletrônicos de avaliação,
+disponibilizados no sistema do INEP.
+§ 2º O não preenchimento do formulário de avaliação de cursos no prazo de 15
+(quinze) dias e de instituições, no prazo de 30 (trinta) dias ensejará o arquivamento do
+processo, nos termos do art. 11, § 2º.
+§ 3º O INEP informará no e-MEC a data designada para a visita.
+§ 4º O trabalho da Comissão de Avaliação deverá ser pautado pelo registro fiel e
+circunstanciado das condições concretas de funcionamento da instituição ou curso, incluídas
+as eventuais deficiências, em relatório que servirá como referencial básico à decisão das
+Secretarias competentes ou do CNE, conforme o caso.
+§ 5º A Comissão de Avaliação, na realização da visita in loco, aferirá a exatidão
+dos dados informados pela instituição, com especial atenção ao Plano de Desenvolvimento
+Institucional (PDI), quando se tratar de avaliação institucional, ou Projeto Pedagógico de
+Curso (PPC), quando se tratar de avaliação de curso.
+§ 6º É vedado à Comissão de Avaliação fazer recomendações ou sugestões às
+instituições avaliadas, ou oferecer qualquer tipo de aconselhamento que influa no resultado
+da avaliação, sob pena de nulidade do relatório, além de medidas específicas de exclusão
+dos avaliadores do banco, a juízo do INEP.
+§ 7º Do arquivamento do processo por não preenchimento do formulário
+eletrônico caberá recurso à Secretaria competente, no prazo de 10 (dez) dias, a partir da
+notificação pelo sistema.
+§ 8º Sendo o recurso provido, o processo receberá novo código de avaliação, na
+fase correspondente.
+Art. 16. Realizada a visita à instituição, a Comissão de Avaliadores elaborará
+relatório, atribuindo conceito de avaliação. (NR)
+§ 1º O relatório será produzido pela Comissão no sistema e-MEC e o INEP
+notificará a instituição e simultaneamente a Secretaria competente. (NR)
+§ 2º A instituição e as Secretarias terão prazo comum de 60 dias para impugnar
+o resultado da avaliação.
+§ 3º Havendo impugnação, será aberto prazo comum de 20 dias para contrarazões
+das Secretarias ou da instituição, conforme o caso.
+§ 4º Após o recebimento do relatório, a DAES atestará o trabalho realizado para
+fins de encaminhamento do pagamento do Auxílio Avaliação Educacional (AAE) a que faz
+jus o avaliador, nos termos da Lei 11.507, de 20 de julho de 2007.
+Art. 17. Havendo impugnação, o processo será submetido à CTAA, instituída
+nos termos da Portaria nº 1.027, de 15 de maio de 2006, que apreciará conjuntamente as
+manifestações da instituição e das Secretarias competentes, e decidirá, motivadamente, por
+uma dentre as seguintes formas:
+9
+I - manutenção do parecer da Comissão de Avaliação;
+II - reforma do parecer da Comissão de Avaliação, com alteração do conceito,
+para mais ou para menos, conforme se acolham os argumentos da instituição ou da
+Secretaria competente; (NR)
+III - anulação do relatório e parecer, com base em falhas na avaliação,
+determinando a realização de nova visita, na forma do art.15.
+§ 1º A CTAA não efetuará diligências nem verificação in loco, em nenhuma
+hipótese.
+§ 2º A decisão da CTAA é irrecorrível, na esfera administrativa, e encerra a fase
+da avaliação.
+§ 3º Somente serão apreciadas pela CTAA as manifestações regularmente
+inseridas no sistema e-MEC.
+Subseção II
+Dos avaliadores e instrumentos de avaliação
+Art. 17-A O avaliador é um docente da educação superior, membro da
+comunidade universitária que, em nome de seus pares e por delegação do MEC, afere a
+qualidade de instituições e cursos da educação superior.
+Parágrafo único. As avaliações in loco destinam-se a conhecimento e registro
+das condições concretas em que se desenvolvem as atividades educacionais, não tendo o
+avaliador delegação do INEP ou de qualquer órgão do MEC para aconselhar ou orientar a
+instituição em relação à atividade educacional.
+Art. 17-B Os avaliadores integrarão o Banco de Avaliadores do SINAES (Basis),
+instituído pela Portaria n° 1.027, de 15 de maio de 2006, cadastro nacional, único e público
+de avaliadores da educação superior, selecionados e capacitados pelo INEP.
+Parágrafo único. A administração do Basis caberá à DAES, que procederá às
+inclusões e exclusões pertinentes, ouvida a CTAA, nos termos desta Portaria Normativa.
+Art. 17-C São requisitos para candidatar-se ao Basis:
+I - ser docente inscrito no Cadastro Nacional de Docentes, instituído pela
+Portaria n° 327, de 1º de fevereiro de 2005, portador de titulação universitária não inferior a
+mestre;
+II - comprovar exercício da docência, em nível superior, de pelo menos 3 (três)
+anos, em instituição e curso regulares conforme o Cadastro e-MEC;
+III - possuir produção científica nos últimos 3 (três) anos, registrada no currículo
+Lattes;
+IV - ter disponibilidade para participar de pelo menos três avaliações anuais; e
+V - não ter pendências junto às autoridades tributárias e previdenciárias.
+Art. 17-D A inscrição de docentes para o Basis será voluntária e se fará em
+módulo próprio do sistema e-MEC.
+§ 1º O candidato a avaliador indicará a sua formação em nível de graduação e
+de pós-graduação stricto sensu, nos termos das informações contidas no Cadastro Nacional 
+10
+de Docentes, que se considera apto a avaliar, assinalando, quando a formação ou
+experiência permitirem, a modalidade à distância ou os cursos superiores de tecnologia.
+§ 2º A DAES selecionará os candidatos inscritos no sistema, de acordo os perfis
+de avaliadores necessários ao atendimento da demanda de avaliação de instituições e
+cursos.
+§ 3º Os candidatos selecionados serão convocados para capacitação presencial
+inicial pelo INEP.
+§ 4º A capacitação será voltada à aplicação dos instrumentos de avaliação,
+devendo ser atualizada na hipótese de modificações substanciais no conteúdo desses.
+§ 5º Ao final do processo de capacitação, o candidato, se convocado pelo INEP,
+firmará o Termo de Compromisso previsto na Portaria nº 156, de 14 de janeiro de 2005,
+devendo observá-lo enquanto perdurar sua participação no Basis.
+§ 6º Após a assinatura do Termo de Compromisso, o docente será admitido
+como avaliador e inserido no Basis, por ato da DAES, homologado pela CTAA e
+devidamente publicado.
+Art. 17-E O avaliador deve observar conduta ética, especialmente em relação
+aos seguintes deveres:
+I - comparecer à instituição na data designada e cumprir rigorosamente os
+cronogramas de avaliação, apresentando relatórios claros, objetivos e suficientemente
+densos;
+II - manter sob sua responsabilidade as senhas de acesso aos sistemas de
+informação do MEC, pessoais e intransferíveis;
+III - manter sigilo sobre as informações obtidas em função da avaliação in loco,
+disponibilizando-as exclusivamente ao MEC;
+IV - reportar ao INEP quaisquer dificuldades ou embaraços encontrados na
+avaliação in loco;
+V - participar, sempre que convocado, de atividades de capacitação no âmbito
+do SINAES, promovidas pelo INEP;
+VI - atuar com urbanidade, probidade, idoneidade, comprometimento, seriedade
+e responsabilidade.
+Art. 17-F São vedadas ao avaliador as seguintes condutas, cuja prática ensejará
+a exclusão do Basis:
+I - receber valores, presentes ou qualquer forma de ajuda de custo ou apoio da
+instituição avaliada;
+II - fazer recomendações ou qualquer forma de aconselhamento à instituição;
+III - promover atividades de consultoria e assessoria educacional, eventos,
+cursos e palestras, bem como produzir materiais de orientação sobre os procedimentos de
+avaliação do INEP;
+IV - realizar avaliações em situação de impedimento, suspeição ou conflito de
+interesses.
+11
+§ 1º Caracterizam impedimento e suspeição as hipóteses previstas nos arts. 18
+a 21 da Lei nº 9.784, de 1999, e, subsidiariamente nos arts. 134 a 138 do Código de
+Processo Civil.
+§ 2º Caracterizam conflito de interesse as situações definidas na Resolução nº
+08, de 25 de setembro de 2003, da Comissão de Ética Pública, sem prejuízo de outras que
+a complementem.
+§ 3º A participação do avaliador em qualquer atividade remunerada pela
+instituição ou curso por ele avaliado, desde um ano antes e até um ano depois da realização
+da avaliação, implica a nulidade do relatório para todos os fins, além de descumprimento
+dos deveres éticos, com a conseqüência de exclusão do Basis, nos termos desta Portaria
+Normativa, sem prejuízo de outras medidas penais e civis previstas na legislação própria.
+Art. 17-G O avaliador será excluído do Basis, por decisão da CTAA, nas
+seguintes hipóteses:
+I - voluntariamente, a pedido do avaliador;
+II - em casos de inadequação reiterada dos relatórios às diretrizes de avaliação
+aplicáveis;
+III - para conformidade com as exigências pertinentes à atividade de avaliação,
+observadas as diretrizes desta Portaria Normativa; ou
+IV - pelo descumprimento de deveres, ou do Termo de Compromisso, ou
+inobservância de vedações referidas no art. 17-F desta Portaria Normativa, assegurados
+defesa e contraditório.
+§ 1º Caberá à DAES processar as denúncias ou manifestações circunstanciadas
+que cheguem ao seu conhecimento a respeito dos integrantes do Basis.
+§ 2º Na hipótese do inciso II, a CTAA poderá optar pela recapacitação do
+avaliador, uma única vez.
+§ 3º A exclusão do avaliador com base no inciso IV perdurará pelo prazo mínimo
+de 3 (três) anos e impedirá sua participação na Comissão Própria de Avaliação (CPA) de
+instituição pelo mesmo período.
+Art. 17-H A designação de avaliadores para composição da Comissão de
+Avaliação será feita por sorteio eletrônico e será orientada pela diretriz da avaliação por
+pares, assegurando:
+I - a aplicação dos seguintes parâmetros de mérito:
+a) na avaliação de cursos, os avaliadores devem ter formação correspondente
+ao curso avaliado, com referência nas Diretrizes Curriculares Nacionais e no Catálogo de
+Cursos Superiores de Tecnologia, além de critérios usualmente adotados pela comunidade
+acadêmica;
+b) na avaliação de cursos e instituições de EAD, os avaliadores devem ter
+experiência de pelo menos um ano nessa modalidade de educação;
+c) na avaliação de cursos superiores de tecnologia, os avaliadores devem ter
+pelo menos três anos de experiência acadêmica na área específica do curso a ser avaliado;
+d) na avaliação institucional, os avaliadores devem ter experiência em gestão
+acadêmica de, no mínimo, um ano;
+12
+e) na avaliação institucional de universidades, a Comissão de Avaliação deverá
+ser composta por pelo menos um avaliador oriundo de universidade;
+II - a aplicação dos seguintes critérios eliminatórios operacionais aos
+avaliadores:
+a) não possuir qualquer vínculo com a IES a ser avaliada;
+b) residir em estado distinto do local de oferta a ser avaliado;
+c) não ter pendência com a Receita Federal;
+d) ter sido capacitado no instrumento a ser utilizado na avaliação;
+e) não participar de mais de uma Comissão de Avaliação simultaneamente;
+f) não exceder o número máximo de avaliações anuais fixado pelo INEP;
+III - a aplicação de critérios classificatórios entre os avaliadores:
+a) avaliadores com maior titulação;
+b) avaliadores que possuem menor número de avaliações no ano corrente;
+c) avaliadores que residem na mesma região da avaliação, mas em estados
+diferentes.
+Parágrafo único. Nas áreas em que haja carência de docentes para capacitação
+como avaliadores, será admitida a composição da Comissão de Avaliação por professores
+com formação afim.
+Art. 17-I O avaliador deverá, a cada designação, firmar Termo de Aceitação da
+Designação, no qual:
+I - confirmará sua disponibilidade para participar da visita no dia e hora fixados;
+II - atestará a inexistência de impedimento, suspeição ou qualquer razão que
+caracterize conflito de interesses;
+III - declarará estar ciente da proibição de receber, a qualquer título, benefícios
+adicionais, pecuniários ou não, providos pelas instituições ou cursos em processo de
+avaliação.
+IV - declarará estar ciente dos deveres éticos e das vedações relacionadas no
+art. 17-F desta Portaria Normativa.
+§ 1º Caso não seja firmado o Termo de Aceitação da Designação no prazo de
+48h (quarenta e oito horas) da designação, será realizado novo sorteio.
+§ 2º Caso a avaliação in loco venha a ser cancelada após a assinatura do Termo
+de Aceitação, os motivos deverão ser formalizados, para registro e processamento das
+medidas operacionais devidas.
+Art. 17-J A atividade da Comissão de Avaliação será orientada pelos indicadores
+de avaliação referidos no art. 33-B, quando disponíveis, e por instrumentos de avaliação
+elaborados segundo diretrizes da CONAES.
+§ 1º Os formulários de avaliação extraídos dos instrumentos conterão espaço
+para o processamento de dados quantitativos e outro, para a apreciação qualitativa dos
+avaliadores.
+13
+§ 2º Os dados quantitativos precisamente exigíveis sempre que possível serão
+processados eletronicamente pelo sistema, com base nas informações apresentadas pelas
+instituições.
+§ 3º As demais informações serão inseridas nos formulários de avaliação pela
+instituição e verificadas pela Comissão de Avaliação.
+§ 4º A avaliação qualitativa será elaborada pela Comissão de Avaliação, com
+base na apreciação dos dados colhidos na avaliação in loco.
+Art. 17-K Deverão estar disponíveis para análise pela Comissão de Avaliação
+previamente à realização da visita, além do formulário eletrônico de avaliação, outros
+documentos, que permitam considerar a instituição ou curso no conjunto, tais como:
+I - relatórios parciais e finais do processo de auto-avaliação da instituição;
+II - relatórios de avaliação dos cursos da instituição disponíveis;
+III - informações sobre protocolos de compromisso e termos de saneamento de
+deficiências e seus relatórios de acompanhamento, bem como sobre os planos de melhorias
+referidos no art. 35-C, I, quando for o caso;
+IV - dados de avaliação dos programas de pós-graduação da instituição pela
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), quando houver;
+V - informações sobre o credenciamento e o último recredenciamento da
+instituição, considerando especialmente o seu PDI;
+VI - indicadores de qualidade da instituição de seus cursos e do desempenho de
+seus estudantes no ENADE;
+VII - os dados do questionário socioeconômico preenchido pelos estudantes,
+disponíveis no momento da avaliação;
+VIII - os dados atualizados do Censo da Educação Superior e do Cadastro eMEC;
+e
+IX - outros considerados pertinentes pela CONAES.
+Parágrafo único. Ao final da avaliação, será facultado à instituição informar sobre
+a atuação da Comissão de Avaliação, em campo próprio do sistema.
+Seção III
+Da análise de mérito e decisão
+Art. 18. O processo seguirá à apreciação da Secretaria competente, que
+analisará os elementos da instrução documental, a avaliação do INEP e o mérito do pedido
+e preparará o parecer do Secretário, pelo deferimento ou indeferimento do pedido, bem
+como a minuta do ato autorizativo, se for o caso. (NR)
+§ 1º Caso a Diretoria de Regulação competente considere necessária a
+complementação de informação ou esclarecimento de ponto específico poderá baixar o
+processo em diligência, observado o art. 10, §§ 2º a 6º, vedada a reabertura da fase de
+avaliação. (NR)
+§ 2º Exarado o parecer do Secretário, o processo seguirá ao CNE, na hipótese
+de pedido de credenciamento, acompanhados dos pedidos de autorização que o instruem,
+na forma do art. 8°, § 1°, devidamente apreciados pelas Secretarias competentes. (NR)
+14
+§ 3º No caso de pedido de autorização, formalizada a decisão pelo Secretário
+competente, o ato autorizativo será encaminhado à publicação no Diário Oficial.
+§ 4º No caso de pedido de autorização relacionado a pedido de credenciamento,
+após a homologação, pelo Ministro, do parecer favorável ao credenciamento, expedido o ato
+respectivo, a Secretaria competente encaminhará à publicação a portaria de autorização do
+curso.
+§ 5º Indeferido o pedido de credenciamento, o pedido de autorização relacionado
+será arquivado.
+Art. 19. Após a expedição do ato autorizativo a instituição deverá manter, no
+mínimo, as condições informadas ao MEC e verificadas por ocasião da avaliação in loco.
+§ 1º Qualquer alteração relevante nos pressupostos de expedição do ato
+autorizativo deve ser processada na forma de pedido de aditamento, observando-se os arts.
+55 e seguintes.
+§ 2º A inobservância do disposto neste artigo caracteriza irregularidade, nos
+termos do art. 11 do Decreto nº 5.773, de 2006.
+Seção IV
+Do processo no CNE
+Art. 20. Na hipótese de recurso, o processo seguirá seu fluxo, no CNE, com o
+sorteio eletrônico de Conselheiro relator, necessariamente integrante da Câmara de
+Educação Superior (CES/CNE), observada a equanimidade de distribuição entre os
+Conselheiros, no que diz respeito aos processos que tramitam pelo e-MEC, nos termos do
+Regimento Interno do CNE. (NR)
+Art. 21. O relator poderá manifestar-se pelo impedimento ou suspeição, nos
+termos dos arts. 18 a 21 da Lei nº 9.784, de 1999, ou, subsidiariamente dos arts. 134 a 138
+do Código de Processo Civil, ou ainda pela modificação da competência, também por
+aplicação analógica do Código de Processo Civil, arts. 103 a 106.
+§ 1º Outras hipóteses de modificação de competência serão decididas pela
+CES/CNE.
+§ 2º O impedimento ou a suspeição de qualquer Conselheiro não altera o
+quorum, para fins do sistema e-MEC.
+Art. 22. O relator inserirá minuta de parecer no sistema, com acesso restrito aos
+membros da Câmara e pessoas autorizadas, podendo solicitar revisão técnica, e submeterá
+o processo à apreciação da CES/CNE.
+Parágrafo único. O sistema informará a data de apreciação do processo pela
+CES/CNE, conforme calendário das sessões e inclusão em pauta pelo Presidente da
+Câmara.
+Art. 23. A CES/CNE apreciará o parecer do Conselheiro relator e proferirá sua
+decisão, nos termos do Regimento Interno.
+§ 1º O processo poderá ser baixado em diligência, para a apresentação de
+esclarecimentos ou informações relevantes, observado o art. 10, §§ 4º a 6º, nos termos do
+Regimento Interno.
+§ 2º O prazo para atendimento da diligência será de 30 dias.
+§ 3º Não caberá a realização de diligência para revisão da avaliação.
+15
+§ 4º Os integrantes da CES/CNE poderão pedir vista do processo, pelo prazo
+regimental.
+Art. 24. Da deliberação caberá recurso ao Conselho Pleno (CP/CNE), nos
+termos do Regimento Interno do CNE.
+§ 1º Havendo recurso, o processo será distribuído a novo relator, observado o
+art. 20, para apreciação quanto à admissibilidade e, se for o caso, quanto ao mérito,
+submetendo a matéria ao CP/CNE.
+§ 2º O recurso das decisões denegatórias de autorização, reconhecimento e
+renovação de reconhecimento de curso será julgado em instância única, pela CES/CNE e
+sua decisão será irrecorrível, na esfera administrativa.
+Art. 25. A deliberação da CES/CNE ou do CP/CNE será encaminhada ao
+Gabinete do Ministro, para homologação.
+§ 1º O Gabinete do Ministro poderá solicitar nota técnica à Secretaria
+competente e parecer jurídico à Consultoria Jurídica, a fim de instruir a homologação.
+§ 2º O Ministro poderá devolver o processo ao CNE para reexame,
+motivadamente.
+§ 3º No caso do parágrafo 2º, a CES/CNE ou o CP/CNE reexaminará a matéria.
+§ 4º O processo retornará ao Gabinete, a fim de que o Ministro homologue o
+parecer e, se for o caso, expeça o ato autorizativo, que será encaminhado ao Diário Oficial
+da União, para publicação.
+§ 5º Expedido o ato autorizativo ou denegado, motivadamente e de forma
+definitiva, o pedido, e informada no sistema a data de publicação no DOU, encerra-se o
+processo na esfera administrativa.
+CAPÍTULO IV
+DAS DISPOSIÇÕES PECULIARES AOS PROCESSOS DE
+AUTORIZAÇÃO OU RECONHECIMENTO DE CURSO
+Art. 26. Para a solicitação de autorização ou reconhecimento, é indispensável
+que o curso conste de PDI já submetido à apreciação dos órgãos competentes do MEC, por
+ocasião do credenciamento ou recredenciamento da instituição, ou por aditamento, nos
+termos do art. 57, V. (NR)
+§ 1º [revogado]
+§ 2º [revogado]
+Art. 27. O pedido de autorização deverá ser instruído com a relação de docentes
+comprometidos com a instituição para a oferta de curso, no Cadastro Nacional de Docentes.
+(NR)
+Parágrafo único O pedido de reconhecimento deverá ser instruído com a relação
+de docentes efetivamente contratados para oferta do curso, devidamente cadastrados no
+Cadastro Nacional de Docentes.( NR)
+Art. 28. Nos processos de autorização ou reconhecimento de cursos superiores
+de tecnologia o requerente informará se o pedido tem por base o catálogo instituído pela
+Portaria nº 10, de 28 de julho de 2006, com base no art. 42 do Decreto nº 5.773, de 2006, ou
+tem caráter experimental, nos termos do art. 81 da Lei nº 9.394, de 1996.
+16
+Parágrafo único. Os cursos experimentais sujeitam-se a consulta prévia à
+SETEC, que, ao deferir a tramitação do pedido com esse caráter indicará a área do curso,
+para efeito de definição do perfil da Comissão de Avaliação pelo INEP. (NR)
+Art. 29. Os pedidos de autorização de cursos de Direito, Medicina, Odontologia e
+os demais referidos no art. 28, § 2º do Decreto nº 5.773, de 2006, sujeitam-se a tramitação
+própria, nos termos desta Portaria Normativa. (NR)
+§ 1º Nos pedidos de autorização e reconhecimento de curso de graduação em
+Direito, será aberta vista para manifestação do Conselho Federal da Ordem dos Advogados
+do Brasil (OAB), pelo prazo de 60 dias, prorrogável por igual período, a requerimento da
+OAB.
+§ 2º Nos pedidos de autorização de cursos de graduação em Medicina,
+Odontologia e os demais referidos no art. 28, § 2º do Decreto nº 5.773, de 2006, será aberta
+vista para manifestação do Conselho Nacional de Saúde (CNS), pelo prazo de 60 dias,
+prorrogável por igual período, a requerimento do CNS. (NR)
+§ 3º Nos pedidos de autorização e reconhecimento de curso correspondente a
+profissão regulamentada, será aberta vista para que o respectivo órgão de regulamentação
+profissional, de âmbito nacional, querendo, ofereça subsídios à decisão da Secretaria
+competente, no prazo de 60 dias, nos termos do art. 37 do Decreto nº 5.773, de 2006. (NR)
+§ 4º Nos pedidos de reconhecimento dos cursos de licenciatura, o Conselho
+Técnico Científico da Educação Básica, da CAPES, poderá se manifestar, aplicando-se, no
+que couberem, as disposições procedimentais que regem a manifestação dos conselhos de
+regulamentação profissional.
+§ 5º O processo no MEC tramitará de forma independente e simultânea à análise
+pelos entes referidos nos §§ 1º a 4º, conforme o caso, cuja manifestação subsidiará a
+apreciação de mérito da Secretaria competente, por ocasião da impugnação ao parecer da
+Comissão de Avaliação do INEP. (NR)
+§ 6º Caso a manifestação da OAB ou CNS, referida nos §§ 1º ou 2º, observado o
+limite fixado no Decreto nº 5.773, de 2006, extrapole o prazo de impugnação da Secretaria,
+este último ficará sobrestado até o fim do prazo dos órgãos referidos e por mais dez dias, a
+fim de que a Secretaria competente possa considerar as informações e elementos por eles
+referidos.
+§ 7º Nos pedidos de autorização de curso de Direito sem parecer favorável da
+OAB ou de Medicina, Odontologia e os demais referidos no art. 28, § 2º do Decreto nº 5.773,
+de 2006, sem parecer favorável do CNS, quando o conceito da avaliação do INEP for
+satisfatório, a SESu impugnará, de ofício, à CTAA.(NR)
+§ 8º Os pedidos de autorização de cursos de Medicina deverão ser instruídos
+com elementos específicos de avaliação, que possam subsidiar a decisão administrativa em
+relação aos seguintes aspectos:
+I - demonstração da relevância social, com base na demanda social e sua
+relação com a ampliação do acesso à educação superior, observados parâmetros de
+qualidade;
+II - demonstração da integração do curso com a gestão local e regional do
+Sistema Único de Saúde - SUS;
+III - comprovação da disponibilidade de hospital de ensino, próprio ou
+conveniado por período mínimo de dez anos, com maioria de atendimentos pelo SUS;
+17
+IV - indicação da existência de um núcleo docente estruturante, responsável pela
+formulação do projeto pedagógico do curso, sua implementação e desenvolvimento,
+composto por professores:
+a) com titulação em nível de pós-graduação stricto sensu;
+b) contratados em regime de trabalho que assegure preferencialmente
+dedicação plena ao curso; e
+c) com experiência docente.
+§ 9º Os pedidos de autorização de cursos de Direito deverão ser instruídos com
+elementos específicos de avaliação, que possam subsidiar a decisão administrativa em
+relação aos seguintes aspectos:
+I - a demonstração da relevância social, com base na demanda social e sua
+relação com a ampliação do acesso à educação superior, observados parâmetros de
+qualidade;
+II - indicação da existência de um núcleo docente estruturante, responsável pela
+formulação do projeto pedagógico do curso, sua implementação e desenvolvimento,
+composto por professores:
+a) com titulação em nível de pós-graduação stricto sensu;
+b) contratados em regime de trabalho que assegure preferencialmente
+dedicação plena ao curso; e
+c) com experiência docente na instituição e em outras instituições.
+Art. 30. A instituição informará a época estimada para reconhecimento do curso,
+aplicando a regra do art. 35, caput, do Decreto nº 5.773, de 2006, ao tempo fixado de
+conclusão do curso.
+§ 1º A portaria de autorização indicará o prazo máximo para pedido de
+reconhecimento.
+§ 2º Até 30 dias após o início do curso, a instituição informará a data da oferta
+efetiva.
+Art. 31. Aplicam-se ao processo de reconhecimento, no que couberem, as
+disposições pertinentes ao processo de autorização de curso, observadas as disposições
+deste artigo.
+§ 1º Os cursos oferecidos por instituições autônomas, não sujeitos a autorização,
+serão informados no Cadastro e-MEC, no prazo de até 30 (trinta) dias da aprovação pelo
+Conselho Superior competente da instituição, acompanhados do respectivo PPC, na forma
+do art. 61-C, e receberão código de identificação, que será utilizado no reconhecimento e
+nas demais funcionalidades do cadastro. (NR)
+§ 2º Na hipótese de insuficiência de documentos, na fase de instrução
+documental, a decisão de arquivamento do processo, exaurido o recurso implicará o
+reconhecimento do curso apenas para fim de expedição e registro de diploma, vedado o
+ingresso de novos alunos, ou o indeferimento do pedido de reconhecimento, com a
+determinação da transferência de alunos.
+§ 3º A avaliação realizada por ocasião do reconhecimento do curso aferirá a
+permanência das condições informadas por ocasião da autorização, bem como o 
+18
+atendimento satisfatório aos requisitos de qualidade definidos no instrumento de avaliação
+apropriado.
+§ 4º Na hipótese de avaliação insatisfatória, observar-se-á o disposto no § 2°
+deste artigo. (NR)
+§ 5º À decisão desfavorável do Secretário competente ao pedido de autorização
+ou reconhecimento se seguirá a abertura do prazo de 30 dias para recurso ao CNE.
+§ 6º O recurso das decisões denegatórias de autorização ou reconhecimento de
+curso será julgado, em instância única, pela Câmara de Educação Superior do CNE e sua
+decisão será irrecorrível, na esfera administrativa, sendo submetida à homologação do
+Ministro, na forma do art. 25.
+§ 7º Mantido o entendimento desfavorável pela CES/CNE, com a homologação
+ministerial, a decisão importará indeferimento do pedido de autorização ou reconhecimento
+e, neste caso, de transferência dos alunos ou deferimento para efeito de expedição de
+diplomas, vedado, em qualquer caso, o ingresso de novos alunos.
+§ 8º Aplicam-se à renovação de reconhecimento, no que couberem, as
+disposições relativas ao reconhecimento.
+Art. 32. Após a autorização do curso, a instituição compromete- se a observar,
+no mínimo, o padrão de qualidade e as condições em que se deu a autorização, as quais
+serão verificadas por ocasião do reconhecimento e das renovações de reconhecimento.
+§ 1º A instituição deverá afixar em local visível junto à Secretaria de alunos, as
+condições de oferta do curso, informando especificamente o seguinte:
+I - ato autorizativo expedido pelo MEC, com a data de publicação no Diário
+Oficial da União;
+II - dirigentes da instituição e coordenador de curso efetivamente em exercício;
+III - relação dos professores que integram o corpo docente do curso, com a
+respectiva formação, titulação e regime de trabalho;
+IV - matriz curricular do curso;
+V - resultados obtidos nas últimas avaliações realizadas pelo MEC, quando
+houver;
+VI - valor corrente dos encargos financeiros a serem assumidos pelos alunos,
+incluindo mensalidades, taxas de matrícula e respectivos reajustes e todos os ônus
+incidentes sobre a atividade educacional.
+§ 2º A instituição manterá em página eletrônica própria, e também na biblioteca,
+para consulta dos alunos ou interessados, registro oficial devidamente atualizado das
+informações referidas no § 1º, além dos seguintes elementos:
+I - projeto pedagógico do curso e componentes curriculares, sua duração,
+requisitos e critérios de avaliação;
+II - conjunto de normas que regem a vida acadêmica, incluídos o Estatuto ou
+Regimento que instruíram os pedidos de ato autorizativo junto ao MEC;
+III - descrição da biblioteca quanto ao seu acervo de livros e periódicos,
+relacionada à área do curso, política de atualização e informatização, área física disponível
+e formas de acesso e utilização;
+19
+IV - descrição da infra-estrutura física destinada ao curso, incluindo laboratórios,
+equipamentos instalados, infra-estrutura de informática e redes de informação.
+§ 3º O edital de abertura do vestibular ou processo seletivo do curso, a ser
+publicado no mínimo 15 (quinze) dias antes da realização da seleção deverá conter pelo
+menos as seguintes informações:
+I - denominação de cada curso abrangido pelo processo seletivo; (NR)
+II - ato autorizativo de cada curso, informando a data de publicação no Diário
+Oficial da União, observado o regime da autonomia, quando for o caso;
+III - número de vagas autorizadas, por turno de funcionamento, de cada curso,
+observado o regime da autonomia, quando for o caso; (NR)
+IV - número de alunos por turma;
+V - local de funcionamento de cada curso;
+VI - normas de acesso;
+VII - prazo de validade do processo seletivo.
+§ 4º A expedição do diploma e histórico escolar final considera-se incluída nos
+serviços educacionais prestados pela instituição, não ensejando a cobrança de qualquer
+valor, ressalvada a hipótese de apresentação decorativa, com a utilização de papel ou
+tratamento gráfico especiais, por opção do aluno.
+CAPÍTULO V
+DO CICLO AVALIATIVO E DAS DISPOSIÇÕES PECULIARES AOS
+PROCESSOS DE RECREDENCIAMENTO DE INSTITUIÇÕES E RENOVAÇÃO
+DE RECONHECIMENTO DE CURSOS
+Seção I
+Da periodicidade do ciclo, dos indicadores de qualidade e conceitos de
+avaliação
+Art. 33. O ciclo avaliativo compreende a realização periódica de avaliação de
+instituições e cursos superiores, com referência nas avaliações trienais de desempenho de
+estudantes, as quais subsidiam, respectivamente, os atos de recredenciamento e de
+renovação de reconhecimento. (NR)
+§ 1º Os atos de credenciamento de instituições, autorização e reconhecimento
+de cursos superiores são considerados atos de entradano sistema e se sujeita a avaliação
+específica, não condicionada elas normas que regem o ciclo avaliativo, salvo disposição
+expressa nesse sentido. (NR)
+§ 2º O retardamento do pedido de recredenciamento ou renovação de
+reconhecimento caracteriza irregularidade administrativa, nos termos do art. 11 do Decreto
+nº 5.773, de 2006, sendo vedada a admissão de novos estudantes até o saneamento da
+irregularidade. (NR)
+§ 3º As hipóteses de dispensa de avaliação in loco referidas nesta Portaria
+Normativa não excluem a visita para fins de supervisão, quando pertinente. (NR)
+Art. 33-A As avaliações do ciclo avaliativo serão orientadas por indicadores de
+qualidade e gerarão conceitos de avaliação de instituições e cursos superiores, expedidos 
+20
+periodicamente pelo INEP, em cumprimento à Lei n° 10.861, de 2004, na forma desta
+Portaria Normativa.
+§ 1º Os conceitos de avaliação serão expressos numa escala de cinco níveis,
+em que os níveis iguais ou superiores a 3 (três) indicam qualidade satisfatória.
+§ 2º Os indicadores de qualidade serão expressos numa escala de cinco níveis,
+em que os níveis iguais ou superiores a 3 (três) indicam qualidade satisfatória e, no caso de
+instituições também serão apresentados em escala contínua.
+Art. 33-B São indicadores de qualidade, calculados pelo INEP, com base nos
+resultados do ENADE e demais insumos constantes das bases de dados do MEC, segundo
+metodologia própria, aprovada pela CONAES, atendidos os parâmetros da Lei nº 10.861, de
+2004:
+I - de cursos superiores: o Conceito Preliminar de Curso (CPC), instituído pela
+Portaria Normativa nº 4, de 05 de agosto de 2008;
+II - de instituições de educação superior: o Índice Geral de Cursos Avaliados da
+Instituição (IGC), instituído pela Portaria Normativa n º 12, de 05 de setembro de 2008;
+III - de desempenho de estudantes: o conceito obtido a partir dos resultados do
+ENADE;
+§ 1º O CPC será calculado no ano seguinte ao da realização do ENADE de cada
+área, observado o art. 33-E, com base na avaliação de desempenho de estudantes, corpo
+docente, infra-estrutura, recursos didático-pedagógicos e demais insumos, conforme
+orientação técnica aprovada pela CONAES.
+§ 2º O IGC será calculado anualmente, considerando:
+I - a média dos últimos CPCs disponíveis dos cursos avaliados da instituição no
+ano do cálculo e nos dois anteriores, ponderada pelo número de matrículas em cada um dos
+cursos computados;
+II - a média dos conceitos de avaliação dos programas de pós-graduação stricto
+sensu atribuídos pela CAPES na última avaliação trienal disponível, convertida para escala
+compatível e ponderada pelo número de matrículas em cada um dos programas de pósgraduação
+correspondentes;
+III - a distribuição dos estudantes entre os diferentes níveis de ensino, graduação
+ou pós-graduação stricto sensu, excluindo as informações do inciso II para as instituições
+que não oferecerem pós graduação stricto sensu.
+§ 3º O ENADE será realizado todos os anos, aplicando-se aos estudantes de
+cada área por triênios, conforme descrito no art. 33-E.
+§ 4º Nos anos em que o IGC da instituição não incorporar CPC de cursos novos,
+será informada a referência do último IGC atualizado.
+§ 5º O IGC será calculado e divulgado na forma desta Portaria Normativa,
+independentemente do número de cursos avaliados.
+§ 6º O CPC dos cursos com oferta nas modalidades presencial e a distância
+será divulgado de maneira unificada, considerando a soma dos estudantes das duas
+modalidades e seus respectivos resultados.
+§ 7º Nas hipóteses de unificação de mantidas, transferência de mantença ou
+outras ocorrências que possam interferir no cálculo do IGC, serão considerados, para efeito 
+21
+de cálculo, os cursos que integrem a instituição até a data de referência, considerada essa
+como o prazo final de inscrição de alunos no ENADE.
+Art. 33-C São conceitos de avaliação, os resultados após avaliação in loco
+realizada por Comissão de Avaliação do INEP:
+I - de curso: o Conceito de Curso (CC), consideradas, em especial, as condições
+relativas ao perfil do corpo docente, à organização didático-pedagógica e às instalações
+físicas;
+II - de instituição, o Conceito de Instituição (CI), consideradas as dimensões
+analisadas na avaliação institucional externa.
+Parágrafo único. As Comissões de Avaliação utilizarão o CPC e o IGC como
+referenciais orientadores das avaliações in loco de cursos e instituições, juntamente com os
+instrumentos referidos no art. 17-J e demais elementos do processo.
+Seção II
+Do ENADE
+Art. 33-D O ENADE aferirá o desempenho dos estudantes em relação aos
+conteúdos programáticos previstos nas diretrizes curriculares do respectivo curso de
+graduação, e as habilidades e competências adquiridas em sua formação.
+§ 1º O ENADE será realizado pelo INEP, sob a orientação da CONAES, e
+contará com o apoio técnico de Comissões Assessoras de Área.
+§ 2º O INEP constituirá um banco de itens, elaborados por um corpo de
+especialistas, conforme orientação das Comissões Assessoras de Área, para composição
+das provas do ENADE.
+Art. 33-E O ENADE será realizado todos os anos, aplicando-se trienalmente a
+cada curso, de modo a abranger, com a maior amplitude possível, as formações objeto das
+Diretrizes Curriculares Nacionais, da legislação de regulamentação do exercício profissional
+e do Catálogo de Cursos Superiores de Tecnologia.
+§ 1º O calendário para as áreas observará as seguintes referências:
+a) Ano I- saúde, ciências agrárias e áreas afins;
+b) Ano II- ciências exatas, licenciaturas e áreas afins;
+c) Ano III- ciências sociais aplicadas, ciências humanas e áreas afins
+§ 2º O calendário para os eixos tecnológicos observará as seguintes referências:
+a) Ano I- Ambiente e Saúde, Produção Alimentícia, Recursos Naturais, Militar e
+Segurança;
+b) Ano II- Controle e Processos Industriais, Informação e Comunicação, Infraestrutura,
+Produção Industrial;
+c) Ano III- Gestão e Negócios, Apoio Escolar, Hospitalidade e Lazer, Produção
+Cultural e Design.
+§ 3º A relação de cursos que compõem o calendário anual de provas do ENADE,
+com base nas áreas constantes do § 1º poderá ser complementada ou alterada, nos termos
+do art. 6º, V, da Lei nº 10.861, de 2004, por decisão da CONAES, ouvido o INEP, mediante 
+22
+ato homologado pelo Ministro da Educação, considerando como critérios, entre outros, a
+abrangência da oferta e a quantidade de alunos matriculados.
+Art. 33-F O ENADE será aplicado aos estudantes ingressantes e concluintes de
+cada curso a ser avaliado, conforme lançados no Cadastro e-MEC, observados os
+respectivos códigos e os locais de oferta informados.
+§ 1º O ENADE será composto de uma prova geral de conhecimentos e uma
+prova específica de cada área, voltada a aferir as competências, habilidades e conteúdos
+agregados durante a formação.
+§ 2º Os alunos ingressantes participarão apenas da prova geral, que será
+elaborada com base na matriz de referência do Exame Nacional do Ensino Médio (ENEM).
+§ 3º Os alunos ingressantes que tiverem realizado o ENEM, aplicado com
+metodologia que permita comparação de resultados entre edições do exame, poderão ser
+dispensados de realizar a prova geral do ENADE, mediante apresentação do resultado
+válido.
+§ 4º Os alunos concluintes realizarão a prova geral de conhecimentos e a prova
+específica da área.
+Art. 33-G O ENADE é componente curricular obrigatório dos cursos superiores,
+devendo constar do histórico escolar de todo estudante a participação ou dispensa da prova,
+nos termos desta Portaria Normativa.
+§ 1º O estudante que tenha participado do ENADE terá registrado no histórico
+escolar a data de realização da prova.
+§ 2º O estudante cujo ingresso ou conclusão no curso não coincidir com os anos
+de aplicação do ENADE respectivo, observado o calendário referido no art. 33-E terá no
+histórico escolar a menção, "estudante dispensado de realização do ENADE, em razão do
+calendário trienal".
+§ 3º O estudante cujo curso não participe do ENADE, em virtude da ausência de
+Diretrizes Curriculares Nacionais ou motivo análogo, terá no histórico escolar a menção
+"estudante dispensado de realização do ENADE, em razão da natureza do curso".
+§ 4º O estudante que não tenha participado do ENADE por motivos de saúde,
+mobilidade acadêmica ou outros impedimentos relevantes de caráter pessoal, devida e
+formalmente justificados perante a instituição, terá no histórico escolar a menção "estudante
+dispensado de realização do ENADE, por razão de ordem pessoal".
+§ 5º O estudante que não tiver sido inscrito no ENADE por ato de
+responsabilidade da instituição terá inscrito no histórico escolar a menção "estudante não
+participante do ENADE, por ato da instituição de ensino."
+§ 6º A situação do estudante em relação ao ENADE constará do histórico
+escolar ou atestado específico, a ser fornecido pela instituição na oportunidade da
+conclusão do curso, de transferência ou quando solicitado.
+§ 7º A ausência de informação sobre o ENADE no histórico escolar ou a
+indicação incorreta de dispensa caracteriza irregularidade da instituição, passível de
+supervisão, observado o disposto no art. 33-H.
+§ 8º A soma dos estudantes concluintes dispensados de realização do ENADE
+nas situações referidas nos §§ 4º e 5º deverá ser informada anualmente ao INEP e caso
+ultrapasse a proporção de 2% (dois por cento) dos concluintes habilitados por curso, ou o
+número de 10 (dez) alunos, caracterizará irregularidade, de responsabilidade da instituição.
+23
+Art. 33-H A inscrição dos estudantes habilitados a participar do ENADE é
+responsabilidade do dirigente da instituição de educação superior.
+§ 1º Devem ser inscritos na condição de ingressantes todos os estudantes que
+tenham iniciado o curso com matrícula no ano de realização do ENADE.
+§ 2º Devem ser inscritos na condição de concluintes todos os estudantes que
+tenham expectativa de conclusão do curso no ano de realização do ENADE, além daqueles
+que tenham completado mais de 80% (oitenta por cento) da carga horária do curso.
+Art. 33-I A instituição deverá divulgar amplamente junto ao corpo discente de
+cada curso a realização do ENADE respectivo, a fim de que o processo de inscrição abranja
+todos os estudantes habilitados.
+§ 1º A instituição efetuará as inscrições de seus alunos em sistema eletrônico
+próprio do INEP, disponível por 10 (dez) dias após o encerramento do período regular de
+inscrições, para consulta dos estudantes.
+§ 2º No período previsto no § 1º, o estudante que não identificar seu nome na
+lista de inscritos sem estar incluído nas situações de dispensa referidas no art. 33-G, poderá
+solicitar à instituição que envie pedido de inscrição ao INEP.
+§ 3º Após período para verificação e retificação de dados, compreendendo as
+inclusões referidas no § 2º, o INEP divulgará a relação definitiva de inscrições e os locais de
+prova.
+§ 4º O sistema eletrônico de inscrição no ENADE será orientado pela
+interoperabilidade com as bases de dados do Censo da Educação Superior e do ENEM,
+visando a simplificação do processo de inscrição pelas instituições.
+Art. 33-J O INEP disponibilizará, em meio eletrônico, questionários destinados a
+conhecimento do perfil dos estudantes inscritos, como subsídio para melhor compreensão
+dos resultados, conforme diretrizes definidas pela CONAES.
+§ 1º O preenchimento dos questionários pelos estudantes é obrigatório e deve
+ser realizado no prazo de 30 (trinta) dias que antecedem a realização do ENADE.
+§ 2º Os coordenadores de cursos informados no Cadastro e-MEC preencherão
+questionários próprios, destinados às informações gerais sobre o curso, no prazo de até 15
+dias após a realização da prova.
+§ 3º Os coordenadores de curso poderão consultar relatório gerencial no
+sistema, acompanhando o número de questionários de estudantes em aberto ou já
+finalizados para envio ao INEP.
+Art. 33-K O estudante fará o ENADE no município de funcionamento do curso,
+conforme constar do Cadastro e-MEC.
+§ 1º O estudante de curso na modalidade de EAD realizará o exame no
+município do pólo de apoio presencial ao qual esteja vinculado.
+§ 2º A indicação do município para realização do exame, na hipótese do § 1º, é
+de responsabilidade da instituição.
+Art. 33-L Os resultados do ENADE serão expressos numa escala de cinco níveis
+e divulgados na forma do art. 34, passando a integrar o conjunto das dimensões avaliadas
+quando da avaliação dos cursos de graduação e dos processos de auto-avaliação.
+24
+Parágrafo único. A informação dos resultados individuais aos estudantes será
+feita em boletim de acesso reservado, nos termos do § 9º do art. 6º da Lei nº 10.861, de
+2004.
+Art. 33-M Os estudantes habilitados que não tenham sido inscritos ou não
+tenham realizado o ENADE fora das hipóteses de dispensa referidas nesta Portaria
+Normativa estarão em situação irregular, não podendo receber o histórico escolar final.
+§ 1º Após a realização do ENADE, o estudante inscrito que não tenha
+participado do ENADE pelos motivos previstos no art. 33- G, § 4º, terá 10 (dez) dias para
+apresentar no sistema a justificativa de ausência.
+§ 2º O INEP analisará a justificativa e comunicará à instituição o deferimento ou
+indeferimento da dispensa, para os efeitos do art. 33-G, § 4º.
+§ 3º O estudante que permanecer em situação irregular deverá ser inscritos no
+ENADE no ano seguinte, nesta condição.
+§ 4º Quando a responsabilidade pela não inscrição for da instituição, extrapolado
+o limite previsto no art. 33-G, § 8º, a instituição estará sujeita à suspensão do processo
+seletivo, com fundamento no art. 10, § 2º da Lei nº 10.861, de 2004, nos termos do art. 5º, §
+7º da mesma lei.
+§ 5º No caso das instituições públicas, os responsáveis pela não inscrição
+sujeitam-se a processo administrativo disciplinar, nos termos do art. 10, § 2º, III, da Lei nº
+10.861, de 2004.
+§ 6º Quando a responsabilidade pela não realização do exame for do estudante,
+esse deve requerer a regularização de sua situação, mediante a realização da prova geral
+de conhecimentos no ano seguinte.
+§ 7º Os estudantes em situação irregular não serão considerados para o cálculo
+do indicador baseado no ENADE.
+Seção III
+Da divulgação dos indicadores e conceitos
+Art. 34. O procedimento de divulgação dos indicadores de qualidade e conceitos
+de avaliação às instituições e ao público observará o disposto neste artigo.(NR)
+§ 1º O CPC e o IGC serão calculados por sistema informatizado do INEP,
+considerando os insumos coletados nas bases de dados oficiais do INEP e do MEC,
+associados aos respectivos códigos de cursos e instituições, bem como locais de oferta,
+quando pertinente, e informados às instituições por meio do sistema eletrônico.
+§ 2º Na hipótese de questionamento sobre a exatidão dos indicadores, poderá
+ser requerida a sua retificação, em campo próprio do sistema e-MEC, no prazo de até 10
+(dez) dias da ciência.
+§ 3º Inexistindo pedido de retificação, o INEP publicará os indicadores no
+Cadastro e-MEC e no Diário Oficial da União.
+§ 4º Quando houver pedido de retificação, o INEP fará a análise devida,
+publicando, se for o caso, o indicador retificado, que passará a ser exibido em lugar do
+original.
+§ 5º Após a etapa de avaliação in loco, o relatório de avaliação bem como os
+conceitos CC e CI serão disponibilizados para a exibição no Cadastro e-MEC.
+25
+§ 6º Ocorrendo revisão do conceito, por decisão da CTAA, o CC ou CI revisto
+deverá ser lançado pela DAES no Cadastro e-MEC, passando a ser exibido.
+§ 7º Nas hipóteses de dispensa da avaliação in loco previstas nesta Portaria
+Normativa, com base em CPC ou IGC satisfatórios, o Cadastro e-MEC exibirá a menção
+"dispensado" nos campos correspondentes ao CC ou CI, respectivamente.
+Seção IV
+Da avaliação de cursos e instituições no ciclo avaliativo, como referencial
+para os processos de renovação de reconhecimento e recredenciamento
+Art. 35. [revogado]
+Art. 35-A Em cada ciclo avaliativo, por deliberação da CONAES, homologada
+pelo Ministro da Educação, poderá ser prorrogada a validade dos atos de recredenciamento
+de instituição, reconhecimento ou renovação de reconhecimento de curso em vigor, desde
+que observados os seguintes requisitos, cumulativamente:
+I - indicador satisfatório; no caso de cursos, o CPC, e de instituição, os IGCs dos
+três anos que integram o ciclo;
+II - ato autorizativo válido;
+III - inexistência de medida de supervisão em vigor.
+§ 1º A CONAES poderá, ouvido o INEP, definir critérios de seleção de grupos de
+cursos ou instituições para submeterem-se a renovação do ato autorizativo naquele ciclo,
+que se acrescerão às hipóteses de renovação obrigatória referidas nos arts. 35-B e 35-C.
+§ 2 º Na hipótese de IGC insatisfatório em qualquer ano do ciclo, fica sem efeito
+a prorrogação referida no caput, devendo ser protocolado pedido de recredenciamento, na
+forma do art. 35-C.
+Art. 35-B Os cursos sem CPC deverão requerer renovação de reconhecimento,
+no prazo de até 30 (trinta) dias da publicação dos indicadores das grandes áreas correlatas
+do ENADE, conforme art. 33-E.
+§ 1º Os cursos com CPC igual a 3 (três) ou 4 (quatro) poderão requerer
+avaliação in loco, protocolando pedido de renovação de reconhecimento no prazo do caput,
+acompanhado da taxa respectiva, de que resultará atribuição de CC, maior ou menor que o
+CPC, cabendo impugnação à CTAA, na forma do art. 17.
+§ 2º Os cursos referidos no § 1o que venham a obter CC insatisfatório
+submetem-se ao disposto nos arts. 36 e 37.
+Art. 35-C Os cursos com CPC insatisfatório e as instituições com IGC
+insatisfatório em qualquer dos anos do ciclo deverão requerer renovação de reconhecimento
+ou recredenciamento, respectivamente, no prazo de até 30 (trinta) dias da publicação do
+indicador, na forma do art. 34, instruído com os seguintes documentos:
+I - plano de melhorias acadêmicas, contendo justificativa sobre eventuais
+deficiências que tenham dado causa ao indicador insatisfatório, bem como medidas capazes
+de produzir melhora efetiva do curso ou instituição, em prazo não superior a um ano,
+aprovado pela Comissão Própria de Avaliação (CPA) da instituição, prevista no art. 11 da
+Lei n° 10.861, de 14 de abril de 2004;
+II - comprovante de recolhimento da taxa de avaliação in loco, ressalvadas as
+hipóteses legais de isenção.
+26
+§ 1º Não recolhida a taxa de avaliação in loco ou não preenchido o formulário
+eletrônico de avaliação no prazo regulamentar, o CC ou CI reproduzirá o valor do CPC ou
+IGC insatisfatório, respectivamente, adotando-se o procedimento descrito no art. 34, § 9º.
+§ 2º Realizada avaliação in loco, será expedido o CC ou CI, informado à
+instituição por meio do sistema eletrônico, com a possibilidade de impugnação, na forma do
+art. 16.
+Art. 36. Na hipótese de CC ou CI insatisfatório, exaurido o recurso cabível, em
+até 30 (trinta) dias da notificação deverá ser apresentado à Secretaria competente protocolo
+de compromisso, aprovado pela CPA da instituição, cuja execução deverá ter início
+imediatamente. (NR)
+§ 1º A Secretaria competente poderá se manifestar sobre o protocolo de
+compromisso e validar seu prazo e condições ou determinar alterações, considerando o
+relatório da Comissão de Avaliação ou outros elementos de instrução relevantes. (NR)
+§ 2º Não havendo manifestação da Secretaria, presumem-se aceitas as
+condições fixadas no protocolo de compromisso, cujo resultado será verificado na
+reavaliação in loco prevista no art. 37. (NR)
+§ 3º A celebração do protocolo de compromisso suspende o processo de
+recredenciamento ou de renovação de reconhecimento em tramitação. (NR)
+§ 4º Na vigência de protocolo de compromisso poderá ser suspensa,
+cautelarmente, a admissão de novos alunos, dependendo da gravidade das deficiências,
+nos termos do no art. 61, § 2º, do Decreto nº 5.773, de 2006, a fim de evitar prejuízo aos
+alunos.
+§ 5º [revogado]
+§ 6º Na hipótese da medida cautelar, caberá recurso, sem efeito suspensivo, à
+CES/CNE, em instância única e irrecorrível, no prazo de 30 dias.
+§ 7º O recurso será recebido pela Secretaria competente, que, em vista das
+razões apresentadas, poderá reconsiderar a decisão, no todo ou em parte.
+Art. 37. Ao final do prazo do protocolo de compromisso, deverá ser requerida
+reavaliação, acompanhada de relatório de cumprimento do protocolo de compromisso até o
+momento, ainda que parcial, aprovado pela CPA da instituição e do recolhimento da taxa
+respectiva. (NR)
+§ 1º A reavaliação adotará o mesmo instrumento aplicável às avaliações do
+curso ou instituição e atribuirá CC ou CI reavaliados, destacando os pontos constantes no
+protocolo de compromisso e na avaliação precedente, sem se limitar a eles, considerando a
+atividade educacional globalmente.
+§ 2º Não requerida reavaliação, ao final do prazo do protocolo de compromisso,
+considerar-se-á mantido o conceito insatisfatório, retomando-se o andamento do processo,
+na forma do art. 38. (NR)
+Art. 38. A manutenção do conceito insatisfatório, exaurido o recurso cabível,
+enseja a instauração de processo administrativo para aplicação das penalidades previstas
+no art. 10, § 2º, da Lei nº 10.861, de 2004.
+Art. 39. A instituição será notificada da instauração do processo e terá prazo de
+10 dias para apresentação da defesa.
+27
+Art. 40. Recebida a defesa, a Secretaria competente apreciará os elementos do
+processo e elaborará parecer, encaminhando o processo à Câmara de Educação Superior
+do CNE, nos termos do art. 10, § 3º da Lei nº 10.861, de 2004, com a recomendação de
+aplicação de penalidade, ou de arquivamento do processo administrativo, se considerada
+satisfatória a defesa.
+§ 1º No caso de recredenciamento, diante de conceito insatisfatório ou
+deficiências que persistam, a Secretaria competente emitirá parecer pelo
+descredenciamento da instituição, encaminhando o processo à decisão da CES/CNE.
+§ 2º Em se tratando de limitações de menor gravidade, no caso de centro
+universitário, a Secretaria poderá opinar pelo credenciamento como faculdade, e no caso de
+universidade, como centro universitário ou faculdade.
+§ 3º A CES/CNE decidirá sobre o processo de recredenciamento, não cabendo a
+concessão de novo prazo, assinatura de novo protocolo de compromisso ou termo de
+saneamento de deficiências
+Art. 41. Recebido o processo na CES/CNE, será sorteado relator dentre os
+membros da CES/CNE e observado o rito dos arts. 20 e seguintes.
+Parágrafo único. Não caberá a realização de diligência para revisão da
+avaliação.
+Art. 42. A decisão de aplicação de penalidade ensejará a expedição de Portaria
+específica pelo Ministro.
+Art. 43. A obtenção de conceito satisfatório, após a reavaliação in loco,
+provocará o restabelecimento do fluxo processual sobrestado, na forma do art. 36.
+CAPÍTULO VI
+DAS DISPOSIÇÕES PECULIARES AOS PROCESSOS DE
+CREDENCIAMENTO, AUTORIZAÇÃO E RECONHECIMENTO PARA OFERTA DE
+EDUCAÇÃO A DISTÂNCIA
+Seção I
+Disposições gerais
+Art. 44. O credenciamento de instituições para oferta de educação na
+modalidade a distância deverá ser requerido por instituições de educação superior já
+credenciadas no sistema federal ou nos sistemas estaduais e do Distrito Federal, conforme
+art. 80 da Lei nº 9.394 de 20 de dezembro de 1996 e art. 9º do Decreto n° 5.622, de 19 de
+dezembro de 2005.
+§ 1º O pedido de credenciamento para EAD observará, no que couber, as
+disposições processuais que regem o pedido de credenciamento.
+§ 2º O pedido de credenciamento para EAD tramitará em conjunto com o pedido
+de autorização de pelo menos um curso superior na modalidade a distância, nos termos do
+art. 67 do Decreto nº 5.773, de 2006.
+§ 3º O recredenciamento para EAD tramitará em conjunto com o pedido de
+recredenciamento de instituições de educação superior.
+§ 4º O credenciamento de instituições para oferta de cursos e programas de
+mestrado e doutorado na modalidade a distância sujeita-se à competência normativa da
+CAPES e à expedição de ato autorizativo específico.
+28
+Art. 45. O ato de credenciamento para EAD considerará como abrangência
+geográfica para atuação da instituição de ensino superior na modalidade de educação a
+distância, para fim de realização das atividades presenciais obrigatórias, a sede da
+instituição acrescida dos pólos de apoio presencial.
+§ 1º Pólo de apoio presencial é a unidade operacional para o desenvolvimento
+descentralizado de atividades pedagógicas e administrativas relativas aos cursos e
+programas ofertados a distância, conforme dispõe o art. 12, X, c, do Decreto nº 5.622, de
+2005.
+§ 2º As atividades presenciais obrigatórias, compreendendo avaliação, estágios,
+defesa de trabalhos ou prática em laboratório, conforme o art. 1º, § 1º, do Decreto nº 5.622,
+de 2005, serão realizados na sede da instituição ou nos pólos de apoio presencial
+credenciados.
+§ 3º Caso a sede da instituição venha a ser utilizada para a realização da parte
+presencial dos cursos a distância, deverá submeter-se a avaliação in loco, observados os
+referenciais de qualidade exigíveis dos pólos.
+§ 4º As atividades presenciais obrigatórias dos cursos de pós graduação lato
+sensu a distância poderão ser realizadas em locais distintos da sede ou dos pólos
+credenciados.
+Seção II
+Do processo de credenciamento para educação a distância
+Art. 46. O pedido de credenciamento para EAD será instruído de forma a
+comprovar a existência de estrutura física e tecnológica e recursos humanos adequados e
+suficientes à oferta da educação superior a distância, conforme os requisitos fixados pelo
+Decreto nº 5.622, de 2005 e os referenciais de qualidade próprios, com os seguintes
+documentos:
+I - ato autorizativo de credenciamento para educação superior presencial;
+II - comprovante eletrônico de pagamento da taxa de avaliação, gerado pelo
+sistema, considerando a sede e os pólos de apoio presencial, exceto para instituições de
+educação superior públicas;
+III - formulário eletrônico de PDI, no qual deverão ser informados os pólos de
+apoio presencial, acompanhados dos elementos necessários à comprovação da existência
+de estrutura física, tecnológica e de recursos humanos adequados e suficientes à oferta de
+cursos na modalidade a distância, conforme os requisitos fixados pelo Decreto nº 5.622, de
+2005, e os referenciais de qualidade próprios.
+§ 1º As instituições integrantes do sistema federal de educação já credenciadas
+ou recredenciadas no e-MEC poderão ser dispensadas de apresentação do documento
+referido no inciso I.
+§ 2º O pedido de credenciamento para EAD deve ser acompanhado do pedido
+de autorização de pelo menos um curso superior na modalidade.
+§ 3º O cálculo da taxa de avaliação deverá considerar as comissões necessárias
+para a verificação in loco de cada pólo presencial requerido.
+29
+Seção III
+Do credenciamento especial para oferta de pós-graduação lato sensu a
+distância
+Art. 47. As instituições de pesquisa científica e tecnológica credenciadas para a
+oferta de cursos de pós-graduação lato sensu poderão requerer credenciamento específico
+para EAD, observadas as disposições desta Portaria, além das normas que regem os
+cursos de especialização.
+Art. 48. O credenciamento para EAD que tenha por base curso de pósgraduação
+lato sensu ficará limitado a esse nível.
+Parágrafo único. A ampliação da abrangência acadêmica do ato autorizativo
+referido no caput, para atuação da instituição na modalidade EAD em nível de graduação,
+dependerá de pedido de aditamento, instruído com pedido de autorização de pelo menos
+um curso de graduação na modalidade a distância.
+Seção IV
+Do credenciamento de instituições de educação superior integrantes dos
+sistemas estaduais para oferta de educação a distância.
+Art. 49. Os pedidos de credenciamento para EAD de instituições que integram
+os sistemas estaduais e do Distrito Federal de educação superior serão instruídos com a
+comprovação do ato de credenciamento pelo sistema competente, além dos documentos e
+informações previstos no art. 46. (NR)
+Art. 50. A oferta de curso na modalidade a distância por instituições integrantes
+dos sistemas estaduais e do Distrito Federal sujeita-se a credenciamento prévio da
+instituição pelo MEC, que se processará na forma desta Portaria, acompanhado do pedido
+de autorização de pelo menos um curso perante o sistema federal, cujos elementos
+subsidiarão a decisão do MEC sobre o pedido de credenciamento. (NR)
+§ 1º O curso de instituição integrante do sistema estadual que acompanhar o
+pedido de credenciamento em EAD receberá parecer opinativo do MEC sobre autorização, o
+qual poderá subsidiar a decisão das instâncias competentes do sistema estadual. (NR)
+§ 2º A supervisão da instituição credenciada na forma do caput caberá à
+autoridade competente do sistema federal.
+Art. 51. Os pedidos de autorização, reconhecimento e renovação de
+reconhecimento de cursos superiores na modalidade a distância de instituições integrantes
+dos sistemas estaduais e do Distrito Federal, nos termos do art. 17, I e II, da Lei nº 9.394, de
+1996, devem tramitar perante os órgãos estaduais e do Distrito Federal competentes, aos
+quais caberá a respectiva supervisão. (NR)
+Parágrafo único. Os cursos referidos no caput cuja parte presencial for
+executada fora da sede, em pólos de apoio presencial, devem requerer o credenciamento
+prévio do pólo, com a demonstração de suficiência da estrutura física e tecnológica e de
+recursos humanos para a oferta do curso, pelo sistema federal.
+Art. 52. Os cursos das instituições integrantes dos sistemas estaduais e do
+Distrito Federal cujas atividades presenciais obrigatórias forem realizadas em pólos
+localizados fora da unidade da federação sujeitam-se a autorização, reconhecimento e
+renovação de reconhecimento e supervisão pelas autoridades do sistema federal, sem
+prejuízo dos atos autorizativos de competência das autoridades do sistema estadual. (NR)
+30
+Seção V
+Da autorização e reconhecimento de cursos de educação a distância
+Art. 53. A oferta de cursos superiores na modalidade a distância, por instituições
+devidamente credenciadas para a modalidade, sujeita-se a pedido de autorização,
+reconhecimento e renovação de reconhecimento, dispensada a autorização para instituições
+que gozem de autonomia, exceto para os cursos referidos no art. 28, § 2º, do Decreto nº
+5.773, de 2006, na forma da legislação. (NR)
+§ 1º Os pedidos de autorização, reconhecimento e renovação de
+reconhecimento de cursos superiores na modalidade a distância de instituições integrantes
+do sistema federal devem tramitar perante os órgãos próprios do MEC.
+§ 2º A existência de cursos superiores reconhecidos na modalidade presencial,
+ainda que análogos aos cursos superiores a distância ofertados pela IES, não exclui a
+necessidade de processos distintos de reconhecimento de cada um desses cursos pelos
+sistemas de ensino competentes.
+§ 3º Os cursos na modalidade a distância devem ser considerados de maneira
+independente dos cursos presenciais para fins dos processos de regulação, avaliação e
+supervisão.
+§ 4º Os cursos na modalidade a distância ofertados pelas instituições dos
+sistemas federal e estaduais devem estar previstos no Plano de Desenvolvimento
+Institucional apresentado pela instituição por ocasião do credenciamento.
+Art. 54. O pedido de autorização de curso na modalidade a distância deverá
+cumprir os requisitos pertinentes aos demais cursos superiores, informando projeto
+pedagógico, professores comprometidos, tutores de EAD e outros dados relevantes para o
+ato autorizativo, em formulário eletrônico do sistema e-MEC.
+Parágrafo único. No processo de reconhecimento de cursos na modalidade a
+distância realizados em diversos pólos de apoio presencial, as avaliações in loco poderão
+ocorrer por amostragem, observado o procedimento do art. 55, § 2º.
+Seção VI
+Da oferta de cursos na modalidade a distância em regime de parceria
+Art. 55. A oferta de curso na modalidade a distância em regime de parceria,
+utilizando pólo de apoio presencial credenciado de outra instituição é facultada, respeitado o
+limite da capacidade de atendimento de estudantes no pólo.
+§ 1º Os pedidos de autorização, reconhecimento e renovação de
+reconhecimento de cursos na modalidade a distância em regime de parceria deverão
+informar essa condição, acompanhada dos documentos comprobatórios das condições
+respectivas e demais dados relevantes.
+§ 2º Deverá ser realizada avaliação in loco aos pólos da instituição ofertante e da
+instituição parceira, por amostragem, da seguinte forma:
+I - até 5 (cinco) pólos, a avaliação in loco será realizada em 1 (um) pólo, à
+escolha da SEED;
+II - de 5 (cinco) a 20 (vinte) pólos, a avaliação in loco será realizada em 2 (dois)
+pólos, um deles à escolha da SEED e o segundo, definido por sorteio;
+31
+III- mais de 20 (vinte) pólos, a avaliação in loco será realizada em 10% (dez por
+cento) dos pólos, um deles à escolha da SEED e os demais, definidos por sorteio.
+§ 3º A sede de qualquer das instituições deverá ser computada, caso venha a
+ser utilizada como pólo de apoio presencial, observado o art. 45, § 3º.
+CAPÍTULO VII
+DOS PEDIDOS DE ADITAMENTO AO ATO AUTORIZATIVO
+Seção I
+Disposições gerais
+Art. 56. O aditamento se processará como incidente dentro de uma etapa da
+existência legal da instituição ou curso.
+§ 1º Qualquer ampliação da abrangência original do ato autorizativo,
+resguardada a autonomia universitária, condiciona-se à comprovação da qualidade da
+prestação educacional oferecida pela instituição em relação às atividades já autorizadas.
+§ 2º As alterações relevantes dos pressupostos que serviram de base à
+expedição do ato autorizativo, aptas a produzir impactos significativos sobre os estudantes e
+a comunidade acadêmica, dependerão de aditamento, na forma dos arts. 57 e 61.
+§ 3º As alterações de menor relevância dispensam pedido de aditamento,
+devendo ser informadas imediatamente ao público, de modo a preservar os interesses dos
+estudantes e da comunidade universitária, e apresentadas ao MEC, na forma de
+atualização, posteriormente integrando o conjunto de informações da instituição ou curso a
+serem apresentadas por ocasião da renovação do ato autorizativo em vigor. (NR)
+§ 4º Os pedidos voluntários de descredenciamento de instituição ou desativação
+do curso se processarão como aditamentos e resultarão na baixa do código da instituição ou
+curso. (NR)
+§ 5º O pedido de aditamento será decidido pela autoridade que tiver expedido o
+ato cujo aditamento se requer, observados os procedimentos pertinentes ao processo
+originário, com as alterações deste Capítulo.
+§ 6º Após análise documental, realização de diligências e avaliação in loco,
+quando couber, será reexpedida a Portaria de ato autorizativo com a alteração dos dados
+objeto do aditamento.
+§ 7º [revogado]
+Seção II
+Das atualizações
+Art. 56-A As alterações de menor relevância deverão ser processadas mediante
+simples atualização, a qualquer tempo, dispensando pedido de aditamento, e serão
+apreciadas com o conjunto das informações pertinentes ao curso ou instituição, por ocasião
+da renovação do ato autorizativo em vigor.
+§ 1º Poderão ser processadas como atualizações, entre outras, as seguintes
+situações:
+I - remanejamento de vagas já autorizadas entre turnos de um mesmo curso
+presencial ou a criação de turno, nas mesmas condições;
+32
+II - aumento de vagas em cursos oferecidos por instituições com autonomia, com
+IGC e CI satisfatórios, comprovando-se aprovação pelo órgão competente da instituição em
+campo próprio do sistema;
+III - alteração da situação do curso de "em funcionamento" para "em extinção" ou
+"extinto";
+IV - inserção de novos endereços de instituições com autonomia dentro do
+mesmo município, com exceção da criação de novos pólos de apoio presencial, sujeita a
+credenciamento, nos termos do art. 57, III.
+§ 2º A alteração da situação do curso de "em extinção" para "extinto" só poderá
+ocorrer no caso de cursos reconhecidos.
+Seção III
+Dos aditamentos ao ato de credenciamento
+Art. 57. Devem tramitar como aditamento ao ato de credenciamento ou
+recredenciamento os seguintes pedidos:
+I - transferência de mantença;
+II - criação de campus fora de sede;
+III - alteração da abrangência geográfica, com credenciamento ou
+descredenciamento voluntário de pólo de EAD;
+IV - unificação de mantidas ou alteração de denominação de mantida;
+V - alteração relevante de PDI;
+VI - alteração relevante de Estatuto ou Regimento;
+VII - descredenciamento voluntário de instituição, acompanhado da extinção de
+todos os seus cursos; (NR)
+VIII - alteração de categoria administrativa.
+§ 1º As hipóteses dos incisos I, IV, V, VI, VII e VIII serão processadas mediante
+análise documental, ressalvada a necessidade de avaliação in loco apontada pela
+Secretaria competente após a apreciação dos documentos. (NR)
+§ 2º As hipóteses dos incisos II e III dependem de avaliação in loco e pagamento
+da taxa respectiva.
+§ 3º O aditamento ao ato de credenciamento para credenciamento de pólo de
+EAD observará as disposições gerais que regem a oferta de educação a distância.
+§ 4º O pedido de aditamento, após análise documental, realização das
+diligências pertinentes e avaliação in loco, quando couber, será apreciado pela Secretaria
+competente, que elaborará parecer e minuta da Portaria de ato autorizativo com a alteração
+dos dados objeto do aditamento, encaminhando o processo ao CNE, para deliberação.
+§ 5º A alteração do PDI para inclusão de cursos bem como as hipóteses
+arroladas nos incisos do caput são sempre relevantes. A relevância das demais alterações
+no PDI, Estatuto ou Regimento ficará a critério da instituição, que optará, com base nesse
+entendimento, por submeter a alteração ao MEC na forma de aditamento ou no momento da
+renovação do ato autorizativo em vigor.
+33
+§ 6º O descredenciamento voluntário de instituição somente poderá ocorrer após
+a emissão de todos os diplomas e certificados, bem como da organização do acervo
+acadêmico.
+Art. 58. O pedido de transferência de mantença será instruído com os elementos
+referidos no art. 15, I, do Decreto nº 5.773, de 2006, do adquirente da mantença, acrescido
+do instrumento de aquisição, transferência de quotas, alteração do controle societário ou do
+negócio jurídico que altera o poder decisório sobre a mantenedora.
+§ No curso da análise documental, a SESu ou SETEC poderá baixar o processo
+em diligência, solicitando documentos complementares que se façam necessários para
+comprovar a condição de continuidade da prestação do serviço educacional pelo adquirente.
+(NR)
+§ 2º As alterações do controle societário da mantenedora serão processadas na
+forma deste artigo, aplicando-se, no que couber, as suas disposições.
+Art. 59. O pedido de credenciamento de campus fora de sede será instruído com
+os seguintes documentos:
+I - alteração do PDI, relativa à ampliação da área de abrangência, com indicação
+dos cursos previstos para o novo campus;
+II - pedido de autorização de pelo menos um curso no novo campus;
+III - comprovante de recolhimento da taxa de avaliação, na forma do art. 8º, I.
+§ 1º A oferta de curso fora de sede em unidade credenciada sem regime de
+autonomia depende de autorização específica.
+§ 2º O reconhecimento de curso não autorizado oferecido em campus fora de
+sede condiciona-se à demonstração da regularidade do regime de autonomia, nos termos
+do art. 72 do Decreto nº 5.773, de 2006.
+§ 3º O curso oferecido por centro universitário em unidade fora de sede
+credenciada ou autorizada antes da edição do Decreto nº 3.860, de 2001, depende de
+autorização específica, em cada caso.
+Art. 60. A instituição poderá requerer a ampliação da abrangência de atuação,
+por meio do aumento do número de pólos de apoio presencial, na forma de aditamento ao
+ato de credenciamento para EAD.
+§ 1º O pedido de aditamento será instruído com documentos que comprovem a
+existência de estrutura física e recursos humanos necessários e adequados ao
+funcionamento dos pólos, observados os referenciais de qualidade, além do comprovante de
+recolhimento da taxa de avaliação in loco.
+§ 2º No caso do pedido de aditamento ao ato de credenciamento para EAD
+visando o funcionamento de pólo de apoio presencial no exterior, o recolhimento da taxa
+será complementado pela instituição com a diferença do custo de viagem e diárias dos
+avaliadores no exterior, conforme cálculo do INEP.
+§ 3º O pedido de ampliação da abrangência de atuação, nos termos deste artigo,
+somente poderá ser efetuado após o reconhecimento do primeiro curso a distância da
+instituição.
+§ 4º A disposição do parágrafo 3º não se aplica às instituições vinculadas à
+Universidade Aberta do Brasil, nos termos do Decreto nº 5.800, de 08 de junho de 2006.
+34
+Seção IV
+Dos aditamentos ao ato de autorização, reconhecimento ou renovação de
+reconhecimento
+Art. 61. Devem tramitar como aditamento ao ato de autorização, reconhecimento
+ou renovação de reconhecimento os seguintes pedidos:
+I - aumento de vagas ou criação de turno, observados os §§ 3º e 4º;
+II - alteração da denominação de curso;
+III - mudança do local de oferta do curso;
+IV - [revogado];
+V - ampliação da oferta de cursos a distância, em pólos credenciados;
+VI - desativação voluntária do curso.
+§ 1º As hipóteses dos incisos I, II, IV, V e VI serão processadas mediante análise
+documental, ressalvada a necessidade de avaliação in loco apontada pela Secretaria
+competente após a apreciação dos documentos.
+§ 2º A hipótese do inciso III depende de avaliação in loco pelo INEP, na forma
+desta Portaria, e pagamento da taxa respectiva, ressalvada a alteração para endereço que
+já possua ato autorizativo expedido, constante do Cadastro e-MEC, a ser verificada em
+análise documental. (NR)
+§ 3º O aumento de vagas em cursos oferecidos por instituições autônomas,
+devidamente aprovado pelo órgão competente da instituição, compatível com a capacidade
+institucional e as exigências do meio, nos termos do art. 53, IV, da Lei nº 9.394, de 1996,
+não depende de aditamento, devendo ser informado como atualização, na forma do art. 56-
+A. (NR)
+§ 4º O remanejamento de vagas já autorizadas entre turnos de um mesmo curso
+presencial ou a criação de turno, nas mesmas condições, dispensa aditamento do ato
+autorizativo, devendo ser processado na forma do art. 56, § 3°.
+§ 5º O aditamento para mudança de endereço de oferta de curso poderá ser
+deferido mediante análise documental, independentemente de avaliação in loco, conforme §
+2º, a juízo da Secretaria competente, na hipótese de endereços associados ao mesmo
+agrupador, entendido como endereço principal de um campus ou unidade educacional,
+registrado no Cadastro e-MEC.
+CAPÍTULO VIII
+DO CADASTRO E-MEC
+Seção I
+Do cadastro e-MEC de instituições e cursos de educação superior
+Art. 61-A Fica instituído o Cadastro e-MEC, cadastro eletrônico de consulta
+pública pela internet, base de dados oficial e única de informações relativas às instituições e
+cursos de educação superior, mantido pelo MEC.
+§ 1º Os dados que integram o Cadastro e-MEC são públicos, com as ressalvas
+previstas na legislação.
+35
+§ 2º O Cadastro e-MEC atribuirá para cada instituição, curso e local de oferta de
+educação superior código próprio, a ser utilizado nos demais sistemas eletrônicos do MEC.
+§ 3º Em relação aos cursos, deverá ser feito um registro correspondente a cada
+projeto pedagógico que conduza a diploma a ser expedido pela instituição,
+independentemente do compartilhamento de disciplinas, percursos formativos ou formas de
+acesso entre eles.
+§ 4º O Cadastro e-MEC deve ser estruturado para garantir a interoperabilidade
+com os demais sistemas do MEC, em especial os seguintes programas e sistemas:
+PROUNI, FIES, SISU, ENADE, Censo da Educação Superior e PingIfes, UAB, SisCEBAS,
+além do sistema e-MEC, de tramitação de processos de regulação, avaliação e supervisão.
+§ 5º As informações do Cadastro e-MEC constituirão a base de dados de
+referência a ser utilizada pelos órgãos do MEC e autarquias vinculadas sobre instituições e
+cursos de educação superior, com precedência sobre quaisquer outras bases, evitando-se
+duplicação de coleta quando não expressamente justificada.
+§ 6º A inserção de informações pelas instituições e pelos órgãos e instâncias do
+MEC deverá considerar as referências conceituais contidas no Manual de Conceitos de
+Referência para as Bases de Dados sobre Educação Superior que integra esta Portaria
+Normativa como Anexo I.
+§ 7º Os arquivos e registros digitais do Cadastro e-MEC serão válidos para todos
+os efeitos legais e permanecerão à disposição das auditorias internas e externas do MEC,
+em que se manterá histórico de atualizações e alterações.
+Art. 61-B Os dados do Cadastro e-MEC devem guardar conformidade com os
+atos autorizativos das instituições e cursos de educação superior, editados com base nos
+processos regulatórios competentes.
+§ 1º A alteração dos dados constantes do Cadastro e-MEC depende de
+aditamento ou atualização, na forma das normas que regem o processo regulatório.
+§ 2º O Cadastro e-MEC poderá agregar outras informações de interesse público
+sobre as instituições e cursos de educação superior, tais como as relativas à avaliação, a
+juízo dos órgãos responsáveis.
+Art. 61-C Será mantido no cadastro e-MEC, junto ao registro da instituição ou
+curso, campo para inserção de versão atualizada do PDI ou PPC, para simples informação,
+sem vínculo com processo regulatório.
+Art. 61-D Será mantido no cadastro e-MEC, junto ao registro da instituição,
+campo para inserção de relatório de auto-avaliação, validado pela CPA, a ser apresentado
+até o final de março de cada ano, em versão parcial ou integral, conforme se trate de ano
+intermediário ou final do ciclo avaliativo.
+Art. 61-E A instituição deverá indicar um Procurador Educacional Institucional
+(PI), que será o responsável pelas respectivas informações no Cadastro e-MEC e nos
+processos regulatórios correspondentes, bem como pelos elementos de avaliação, incluídas
+as informações necessárias à realização do ENADE.
+§ 1º O PI deverá, preferencialmente, estar ligado à Reitoria ou à Pró-Reitoria de
+Graduação da instituição ou órgãos equivalentes, a fim de que a comunicação com os
+órgãos do MEC considere as políticas, procedimentos e dados da instituição no seu
+conjunto.
+§ 2º O PI deverá ser investido de poderes para prestar informações em nome da
+instituição, por ato de seu representante legal ao identificá-lo no sistema e-MEC, 
+36
+articulando-se, na instituição, com os responsáveis pelos demais sistemas de informações
+do MEC.
+§ 3º O PI poderá indicar Auxiliares Institucionais (AIs) para compartilhar tarefas
+de inserção de dados, sob responsabilidade do PI.
+§ 4º As informações prestadas pelo PI e pelos AIs presumem-se válidas, para
+todos os efeitos legais.
+Art. 61-F No âmbito do MEC, a responsabilidade pela orientação e gestão do
+Cadastro e-MEC caberá à SESu, por sua Diretoria de Regulação, que procederá a inserção
+de informações das instituições e cursos de educação superior.
+§ 1º As informações relativas às instituições credenciadas para oferta de
+educação superior tecnológica e aos cursos superiores de tecnologia serão inseridas pela
+Diretoria de Regulação da SETEC.
+§ 2º As informações relativas às instituições credenciadas para oferta de
+educação superior a distância e cursos superiores nessa modalidade serão inseridas pela
+Diretoria de Regulação da SEED.
+§ 3º As informações relativas aos processos de avaliação e seus resultados
+caberá a DAES do INEP.
+Seção II
+Das bases de dados sobre estudantes e docentes da educação superior
+Art. 61-G O Cadastro Nacional de Docentes, base de dados oficial sobre os
+docentes vinculados a instituição de ensino superior regular, terá precedência sobre outros
+repositórios de informações sobre professores da educação superior no âmbito do MEC e
+autarquias vinculadas.
+§ 1º As instituições serão responsáveis pela atualização periódica e validação
+dos dados, quando solicitadas pelos órgãos do MEC ou autarquias vinculadas.
+§ 2º Poderão ser inseridos no Cadastro Nacional de Docentes os professores
+vinculados a programas de pós-graduação stricto sensu recomendados pela CAPES, para
+fins de inscrição no Basis.
+Art. 61-H As informações coletadas pelo Censo da Educação Superior, a cargo
+do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)
+constituirão a base de dados de referência a ser utilizada pelos órgãos do MEC e autarquias
+vinculadas sobre estudantes da educação superior, com precedência sobre quaisquer
+outras, evitando-se duplicação de coleta quando não expressamente justificada.
+Parágrafo único. A coleta de dados relativos a docentes e estudantes da
+educação superior no período de referência será feita por indivíduo, identificado pelo
+número de registro no Cadastro de Pessoas Físicas (CPF), a fim de evitar duplicidades.
+CAPÍTULO IX
+DO REGIME DE COOPERAÇÃO DOS SISTEMAS ESTADUAIS COM O
+SISTEMA NACIONAL DE AVALIAÇÃO DA EDUCAÇÃO SUPERIOR
+Art. 61-I A cooperação com os sistemas de ensino superior dos Estados e do
+Distrito Federal, para os processos de avaliação de instituições e cursos, no âmbito do
+Sistema Nacional de Avaliação da Educação Superior (SINAES), com base no art. 1°, § 2°
+da Lei n° 10.861, de 2004, será realizada nos termos desta Portaria Normativa.
+37
+Art. 61-J A cooperação será formalizada mediante acordo firmado entre o
+Conselho Estadual de Educação (CEEs) ou instância correspondente do sistema estadual
+ou do Distrito Federal e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio
+Teixeira (INEP), com a interveniência da Comissão Nacional de Avaliação da Educação
+Superior (CONAES).
+Parágrafo único. Firmado o acordo de cooperação, o órgão estadual ou do
+Distrito Federal responsável informará a relação de instituições e cursos a serem avaliados.
+Art. 61-K O cadastro de instituições e cursos superiores dos sistemas estaduais
+e do Distrito Federal observará as disposições pertinentes desta Portaria Normativa, sendo
+facultado aos CEEs ou autoridades regulatórias competentes validar os dados respectivos.
+Parágrafo único. As informações lançadas pelas instituições dos sistemas
+estaduais ou do Distrito Federal presumem-se válidas até a confirmação referida no caput.
+Art. 61-L A realização de avaliações no sistema nacional não elide as
+atribuições de regulação e supervisão das instituições e cursos superiores, que
+permanecerão no âmbito das autoridades do sistema estadual ou do Distrito Federal,
+observados os limites de sua competência territorial.
+§ 1º Na hipótese de atividades que transcendam os limites do Estado ou do
+Distrito Federal, as competências de regulação e supervisão pertencem às autoridades do
+sistema federal.
+§ 2º A fiscalização do cumprimento de prazos para requerimento de avaliação
+institucional ou de curso no sistema eletrônico do MEC insere-se nas atribuições de
+supervisão da autoridade estadual ou do Distrito Federal.
+Art. 61-M Na ausência do acordo de cooperação referido no art. 61-G, as
+instituições integrantes dos sistemas estaduais e do Distrito Federal poderão submeter-se a
+avaliação no sistema nacional voluntariamente, por adesão.
+§ 1º A adesão da instituição do sistema estadual ou do Distrito Federal ao
+SINAES implica a avaliação institucional e avaliação de todos os cursos da instituição
+segundo as regras e procedimentos do SINAES.
+§ 2º É vedada a exclusão de cursos ou modalidades do processo de avaliação.
+§ 3º Na hipótese de denúncia do acordo de cooperação, as instituições do
+sistema estadual ou do Distrito Federal que o desejarem poderão permanecer submetidas
+às avaliações do SINAES, na forma do caput.
+Art. 61-N A cooperação com os sistemas estaduais e do Distrito Federal
+abrange os procedimentos relativos ao ciclo avaliativo, conforme arts. 33 a 43.
+§ 1º A tramitação dos processos observará, no que couber, as regras e rotinas
+do sistema nacional aplicáveis à fase de avaliação dos processos de recredenciamento, no
+caso de instituições, e renovação de reconhecimento, no caso de cursos.
+§ 2º Os resultados da avaliação ficarão disponíveis ao sistema estadual e do
+Distrito Federal, a quem incumbirão as análises documental e de mérito, como fundamento
+para as decisões de cunho regulatório.
+§ 3º A aprovação e acompanhamento do protocolo de compromisso, quando for
+o caso, cabe à autoridade regulatória estadual ou do Distrito Federal.
+§ 4º Os processos de que trata este artigo são isentos de taxa de avaliação, nos
+termos da Lei no 10.870, de 2004.
+38
+
+CAPÍTULO X
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Art. 62. O ingresso de processos regulatórios no sistema observará calendário
+previamente definido em Portaria do Ministro da Educação.
+Art. 63. Os cursos cujos pedidos de reconhecimento tenham sido protocolados
+dentro do prazo e não tenham sido decididos até a data de conclusão da primeira turma
+consideram-se reconhecidos, exclusivamente para fins de expedição e registro de diplomas.
+§ 1º A instituição poderá se utilizar da prerrogativa prevista no caput enquanto
+não for proferida a decisão definitiva no processo de reconhecimento, tendo como
+referencial a avaliação. (NR)
+§ 2º As instituições que foram credenciadas experimentalmente, nos termos do
+art. 80 da Lei nº 9.394, de 1996, na modalidade de EAD, para atuação no âmbito do Sistema
+Universidade Aberta do Brasil, constantes dos anexos das Portarias nºs 858, de 04 de
+setembro de 2009, e 1.050, de 22 de agosto de 2008, poderão se utilizar da prerrogativa
+prevista no caput, para os processos de reconhecimento dos respectivos cursos a distância,
+protocolados até o dia 31 de janeiro de 2011.
+Art. 64. O sistema Sapiens será progressivamente desativado, à medida que
+suas funcionalidades forem absorvidas pelo sistema e- MEC.
+§ 1º Os processos iniciados no Sapiens, incluindo-se os respectivos
+aditamentos, seguirão tramitando naquele sistema até a expiração do ato autorizativo em
+vigor.
+§ 2º Os pedidos de atos autorizativos novos ou em renovação, bem como os
+aditamentos dos atos autorizativos expedidos no e-MEC deverão ser protocolados nesse
+sistema.
+§ 3º Por ocasião do protocolo de pedido de ato autorizativo de instituição ou
+curso cujos dados não integrem o e-MEC, deverão ser preenchidos os formulários
+respectivos.
+§ 4º Por ocasião do protocolo, no sistema e-MEC, quando disponível, de pedido
+de aditamento de ato autorizativo gerado no Sapiens, deverão ser preenchidos os
+formulários completos, para fins de atualização do banco de dados.
+§ 5º Os formulários constantes de sistemas próprios do MEC ou do INEP
+relacionados às funções objeto do sistema e-MEC deverão progressivamente ser
+reorientados no sentido da plena interoperabilidade, visando eliminar a duplicidade de
+alimentação de dados por parte dos usuários.
+Art. 65. Para fins do sistema estabelecido nesta Portaria, os pedidos de
+avaliação relacionados à renovação dos atos autorizativos de instituições reconhecidas
+segundo a legislação anterior à edição da Lei nº 9.394, de 1996, serão equiparados aos
+pedidos de recredenciamento e tramitarão na forma desses.
+Art. 66. Na hipótese de reestruturação de órgãos do MEC que não afete
+substancialmente o fluxo de processos disciplinados nesta Portaria, as menções a
+Secretarias e suas Diretorias deverão ser aplicadas em relação a órgãos equivalentes que
+vierem a desempenhar as suas funções.
+39
+Art. 67. Quando possível e conveniente, visando minimizar o desconforto dos
+usuários, evitar duplicidade de lançamento de informações e obter os melhores resultados
+da interoperabilidade dos sistemas de acompanhamento da educação superior, serão
+aproveitados os números de registros e informações lançados em outros sistemas do MEC
+e seus órgãos vinculados.
+Art. 68. O sistema será implantado à medida da conclusão e comprovação da
+segurança de cada um de seus módulos, com base em critérios técnicos próprios da
+tecnologia da informação.
+§ 1º O aditamento do ato de credenciamento, para inclusão de novos cursos no
+PDI não será exigido nas avaliações realizados no ciclo avaliativo 2007/2009 e atos
+autorizativos correspondentes.
+§ 2º A certificação digital não será exigida até o ano de 2010, inclusive. (NR)
+§ 3º Os módulos não disponíveis de imediato no sistema e-MEC, tais como
+credenciamento especial de instituições para oferta de cursos de pós-graduação lato sensu
+e pedidos de aditamento, poderão ser transitoriamente supridos pelas funcionalidades
+correspondentes no sistema Sapiens, até a sua completa desativação.
+Art. 69. O funcionamento de pólo não constante do Cadastro e-MEC caracteriza
+irregularidade, nos termos do art. 11 do Decreto nº 5.773 de 2006. (NR)
+§ 1º [revogado]
+§ 2º [revogado]
+§ 3º [revogado]
+Art. 69-A O ano I do primeiro ciclo avaliativo após a vigência desta Portaria
+Normativa, conforme art. 33-E, § 1º, será o de 2010.
+Art. 69-B No ciclo avaliativo 2010-2012, será considerada prorrogada a validade
+do ato de reconhecimento ou renovação de reconhecimento de cursos em vigor, dispensada
+qualquer formalidade, desde que o curso preencha os seguintes requisitos,
+cumulativamente:
+I - CPC satisfatório;
+II - ato de reconhecimento ou renovação de reconhecimento expedido a partir de
+2009, inclusive;
+III - não estar submetido às hipóteses de apresentação obrigatória de novo PPC
+ou documentos relevantes, em virtude de desmembramento ocorrido no recadastramento,
+conforme o art. 69-D.
+Art. 69-C No ciclo avaliativo 2010-2012, será considerada prorrogada a validade
+de ato de recredenciamento em vigor, dispensada qualquer formalidade, desde que a
+instituição preencha os seguintes requisitos, cumulativamente:
+I - IGC satisfatório nos três anos do ciclo;
+II - ato de recredenciamento expedido a partir de 2009, inclusive.
+§ 1º Na hipótese de IGC insatisfatório em qualquer ano do ciclo, ficam sem efeito
+a prorrogação de validade e dispensa de requerimento referidas no caput.
+§ 2º A prorrogação de validade e dispensa de requerimento referidas no caput
+também não se aplicam às instituições que tenham campus ou unidade fora de sede não 
+40
+avaliados no ciclo avaliativo 2007-2009, as quais deverão protocolar pedido de
+recredenciamento no prazo de 02 15 de outubro a 15 de dezembro de 2012.
+Art. 69-D Nos processos anteriores à publicação desta Portaria Normativa, na
+hipótese de alteração do local de oferta do curso ou instituição após o protocolo do pedido,
+quando a decisão do processo não depender da análise documental relativa ao imóvel, a
+avaliação in loco poderá ocorrer no endereço constante do Cadastro e-MEC, condicionada à
+informação no formulário eletrônico de avaliação, antes de sua realização.
+§ 1º Quando houver decorrido prazo superior a 12 meses entre o protocolo do
+pedido e a abertura do formulário eletrônico de avaliação respectivo, será admitida a
+atualização do PPC ou PDI respectivos, em formulário associado ao Cadastro e-MEC, nos
+termos do art. 61-C.
+§ 2º A excepcionalidade do caput não se aplica aos pedidos de credenciamento
+e autorizações associadas, os quais deverão ser arquivados na hipótese de alteração do
+endereço antes de finalizado o processo respectivo.
+Art. 70. Revogam-se as seguintes normas, ressalvados os efeitos jurídicos já
+produzidos: (NR)
+I - Portarias no 1.885, de 27 de junho de 2002, no 1.037, de 07 de julho de 1999
+e no 18, de 23 de março de 2000, mantendo-se para histórico e consulta os dados lançados
+no Cadastro de Instituições de Educação Superior (SiedSup);
+II - Portarias nº 2.051, de 9 de julho de 2004; e nº 1.027, de 15 de maio de 2006,
+consolidando-se suas disposições nesta Portaria Normativa;
+III - Portarias Normativas nº 4, de 5 de agosto de 2008; nº 12, de 5 de setembro
+de 2008; e nº 10 de 2 de julho de 2009, consolidando-se suas disposições nesta Portaria
+Normativa;
+IV - Portaria nº 514, de 27 de agosto de 1974;
+V - Portaria nº 726, de 21 de outubro de 1977;
+VI - Portaria nº 95, de 5 de fevereiro de 1986;
+VII - Portaria nº 375, de 4 de março e 2.141, de 14 de novembro de 1991;
+VIII - Portarias do ano de 1993: 1.583, de 9 de novembro; 1.405, de 27 de
+setembro; e 1.790, de 22 de dezembro;
+IX - Portarias do ano de 1994: 1.792, 1.793 e 1.794, de 27 de dezembro;
+X - Portaria nº 75, de 3 de fevereiro de 1995;
+XI - Portaria nº 247, de 18 de março de 1996;
+XII - Portaria nº 469, de 25 de março de 1997;
+XIII - Portaria nº 524, de 12 de junho de 1998;
+XIV - Portarias de 1999: 322, de 26 de fevereiro; 653, de 15 de abril;
+XV - Portarias de 2000: 1.843, de 31 de dezembro; e 2.004 a 2.006, de 19 de
+dezembro;
+XVI - Portarias de 2001: 1 a 21, de 4 de janeiro; 1.222, de 20 de junho; 1.466, de
+12 de julho; 2.026, de 12 de setembro; 3.017 a 3.021, de 21 de dezembro;
+41
+XVII - Portarias de 2002: 335, de 6 de fevereiro; 1.037, de 9 de abril; 2.578, de
+13 de setembro; 2.805, de 3 de outubro; 2.905, de 17 de outubro; 3.478, de 12 de
+dezembro, 3.647 a 3.651, de 19 de dezembro; 3.776, de 20 de dezembro; e 3.802 a 3.819,
+de 24 de dezembro;
+XVIII - Portarias de 2003: 1.756, de 08 de julho; e 3.111, de 31 de outubro;
+XIX - Portarias de 2004: 411, de 12 de fevereiro; 695, de 18 de março; 7, de 19
+de março; 983, de 13 de abril; 1.753, de 17 de junho; 3.672, de 12 de novembro; 3.799, de
+17 de novembro; 3.850, de 23 de novembro; 4.327, de 22 de dezembro; e 4.361, de 29 de
+dezembro;
+XX - Portarias de 2005: 327, de 1º de fevereiro; 328, de 1º de fevereiro; 1.779,
+de 25 de maio; 1.874, de 2 de junho; 2.413, de 07 de julho de 2005; 3.160, de 13 de
+setembro; e 4.271, de 12 de dezembro;
+XXI - Portarias de 2006: 240, de 25 de janeiro; 1.026, de 12 de maio; e 1.309, de
+14 de julho;
+XXII - Portarias de 2007: 147, de 02 de fevereiro; 546, de 31 de maio;
+XXIII - Portaria de 2009: 821, de 24 de agosto.
+Art. 71. Revogam-se as Portarias relacionadas abaixo, ressalvados os efeitos
+jurídicos já produzidos:
+1.670-A, de 30 de novembro de 1994;
+1.120, de 16 de julho de 1999;
+3.486, de 12 de dezembro de 2002;
+2.477, de 18 de agosto de 2004;
+4.359, de 29 de dezembro de 2004;
+398, de 03 de fevereiro de 2005;
+1.850, de 31 de maio de 2005;
+2.201, de 22 de junho de 2005;
+2.864, de 24 de agosto de 2005;
+3.161, de 13 de setembro de 2005;
+3.722, de 21 de outubro de 2005,
+Portaria Normativa nº 2, de 10 de janeiro de 2007, e Portaria SESu nº 408, de 15
+de maio de 2007.
+Art. 72. Esta Portaria entra em vigor na data de sua publicação.
+ FERNANDO HADDAD
+42
+ANEXO
+Quadro de conceitos de referência para as bases de dados do Ministério da
+Educação sobre educação superior
+1. Mantença da instituição
+1.1. Mantenedora - pessoa jurídica que provê os recursos necessários ao
+funcionamento da instituição de ensino e a representa legalmente.
+1.2. Mantida - instituição de ensino superior que realiza a oferta da educação
+superior.
+2. Categoria administrativa da instituição
+2.1. Pública
+2.1.1. Federal- instituição mantida pelo Poder Público federal, com gratuidade de
+matrículas e mensalidades;
+2.1.2. Estadual- instituição mantida pelo Poder Público estadual, com gratuidade
+de matrículas e mensalidades;
+2.1.3. Municipal- instituição mantida pelo Poder Público municipal, com
+gratuidade de matrículas e mensalidades;
+2.2. Privada
+2.2.1. com fins lucrativos - instituição mantida por ente privado, com fins
+lucrativos;
+2.2.2. sem fins lucrativos não beneficente- instituição mantida por ente privado,
+sem fins lucrativos; pode ser confessional ou comunitária, conforme o art. 20 da LDB;
+2.2.3. beneficente: instituição mantida por ente privado, sem fins lucrativos,
+detentora de Certificado de Assistência Social, nos termos da legislação própria. Pode ser
+confessional ou comunitária.
+2.3. Especial (art. 242 da Constituição Federal)- instituição educacional oficial
+criada por lei estadual ou municipal e existente na data da promulgação da Constituição
+Federal, que não seja total ou preponderantemente mantida com recursos públicos, portanto
+não gratuita.
+3. Organização acadêmica da instituição
+3.1. Faculdade- categoria que inclui institutos e organizações equiparadas, nos
+termos do Decreto n° 5.773, de 2006;
+3.2. Centro universitário - dotado de autonomia para a criação de cursos e vagas
+na sede, está obrigado a manter um terço de mestres ou doutores e um quinto do corpo
+docente em tempo integral;
+3.3. Universidade- dotada de autonomia na sede, pode criar campus fora de
+sede no âmbito do Estado e está obrigada a manter um terço de mestres ou doutores e um
+terço do corpo docente em tempo integral;
+3.4. Instituto Federal de Educação Ciência e Tecnologiapara efeitos regulatórios,
+equipara-se a universidade tecnológica;
+43
+3.5. Centro Federal de Educação Tecnológica- para efeitos regulatórios,
+equipara-se a centro universitário.
+4. Tipos de cursos e graus
+4.1. Graduação - cursos superiores que conferem diplomas, abertos a
+candidatos que tenham concluído o ensino médio ou equivalente e tenham sido
+classificados em processo seletivo, conferindo os graus de Bacharelado, Licenciatura ou
+Tecnologia.
+4.1.1. Bacharelado - curso superior generalista, de formação científica ou
+humanística, que confere ao diplomado competências em determinado campo do saber para
+o exercício de atividade profissional, acadêmica ou cultural, com o grau de bacharel.
+4.1.2. Licenciatura- curso superior que confere ao diplomado competências para
+atuar como professor na educação básica, com o grau de licenciado.
+4.1.3. Tecnologia - cursos superiores de formação especializada em áreas
+científicas e tecnológicas, que conferem ao diplomado competências para atuar em áreas
+profissionais específicas, caracterizadas por eixos tecnológicos, com o grau de tecnólogo.
+4.2. Pós-graduação stricto sensu- cursos de educação superior compreendendo
+os programas de mestrado e doutorado acadêmico ou profissional, que conferem diploma
+aos concluintes.
+4.3. Especialização ou pós-graduação lato sensu- programas abertos a
+candidatos diplomados em cursos de graduação e que atendam às exigências das
+instituições de ensino, observada a carga horária mínima e requisitos fixados nas normas
+próprias, e conferem certificados aos concluintes.
+4.3.1. Residência médica- programa de pós-graduação lato sensu,
+especialização na área médica, caracterizado como treinamento em serviço.
+4.3.2. Residência multiprofissional em saúde- programa de pós-graduação lato
+sensu, especialização nas áreas de saúde distintas da medicina, caracterizados como
+treinamento em serviço.
+4.4. Extensão- programa de formação da educação superior, voltado a estreitar a
+relação entre universidade e sociedade, aberto a candidatos que atendam aos requisitos
+estabelecidos pelas instituições de ensino, que confere certificado aos estudantes
+concluintes. Compreende programas, projetos e cursos voltados a disseminar ao público
+externo o conhecimento desenvolvido e sistematizado nos âmbitos do ensino e da pesquisa
+e, reciprocamente, compreender as demandas da comunidade relacionadas às
+competências acadêmicas da instituição de educação superior.
+5. Turnos de oferta dos cursos
+5.1. Matutino - curso em que a maior parte da carga horária é oferecida até às
+12h todos os dias da semana;
+5.2. Vespertino - curso em que a maior parte da carga horária é oferecida entre
+12h e 18h todos os dias da semana;
+5.3. Noturno - curso em que a maior parte da carga horária é oferecida após as
+18h todos os dias da semana;
+5.4. Integral - curso ofertado inteira ou parcialmente em mais de um turno
+(manhã e tarde, manhã e noite, ou tarde e noite) exigindo a disponibilidade do estudante por
+mais de 6 horas diárias durante a maior parte da semana.
+44
+6. Temporalidade dos cursos
+6.1. Periodicidade - intervalo de tempo em que se organizam as atividades de
+ensino perfazendo a carga horária determinada pelo projeto pedagógico do curso para um
+conjunto de componentes curriculares. Usualmente semestral ou anual; em casos
+específicos, justificados pelas características do projeto pedagógico, pode ter outro regime,
+como trimestral ou quadrimestral.
+6.2. Integralização - duração do curso, prazo previsto para que o estudante
+receba a formação pretendida; o tempo total deve ser descrito em anos ou fração.
+7. Modalidade dos cursos
+7.1. Presencial- modalidade de oferta que pressupõe presença física do
+estudante às atividades didáticas e avaliações;
+7.2. A distância- modalidade educacional na qual a mediação nos processos de
+ensino e aprendizagem ocorre com a utilização de meios e tecnologias de informação e
+comunicação, com estudantes e professores desenvolvendo atividades educativas em
+lugares ou tempos diversos.
+8. Locais de oferta
+8.1. Campus - local onde se oferece uma gama ampla de atividades
+administrativas e educacionais da instituição, incluindo espaços para oferta de cursos,
+bibliotecas, laboratórios e áreas de prática para estudantes e professores, e também
+reitorias, pró-reitorias, coordenação de cursos, secretaria, funcionamento de colegiados
+acadêmicos e apoio administrativo.
+8.2. Unidade - local secundário da instituição, onde se exercem apenas
+atividades educacionais ou administrativas.
+8.3. Campus sede - local principal de funcionamento da instituição, incluindo os
+órgãos administrativos e acadêmicos centrais, a oferta dos cursos e as demais atividades
+educacionais. Para fins regulatórios, o Município em que se situa a sede da instituição
+delimita o exercício de prerrogativas de autonomia, no caso de universidades e centros
+universitários.
+8.4. Campus fora de sede - local secundário de funcionamento da instituição,
+fora do Município onde se localiza a sede da instituição e se oferecem cursos e realizam
+atividades administrativas.
+É restrito às universidades e depende de credenciamento específico, em regra
+não gozando de prerrogativas de autonomia.
+8.5. Unidade educacional na sede - local secundário de oferta de cursos e
+atividades educacionais no Município em que funciona a sede da instituição;
+8.6. Unidade educacional fora de sede - local secundário de oferta de cursos e
+atividades educacionais em Município distinto daquele em que funciona a sede da
+instituição, incluindo fazendas, hospitais e qualquer outro espaço em que se realizem
+atividades acadêmicas, conforme previsão no ato de credenciamento do campus fora de
+sede.
+8.7. Unidade administrativa - local secundário de realização de atividades
+exclusivamente administrativas.
+8.8. Núcleo de educação a distância (EAD) - unidade responsável pela
+estruturação da oferta de EAD na instituição, compreendendo as atividades educacionais e 
+45
+administrativas, incluídas a criação, gestão e oferta de cursos com suporte tecnológico, bem
+como a administração, produção de materiais didáticos e recursos próprios da EAD. Aplicase,
+ao Núcleo de EAD, para fins regulatórios, no que couber, a disciplina correspondente ao
+campus sede.
+8.9. Pólo de apoio presencial de EAD- unidade operacional para o
+desenvolvimento descentralizado de atividades pedagógicas e administrativas relativas aos
+cursos e programas ofertados a na modalidade de educação a distância.
+8.10. Agrupador - endereço principal de um campus ou unidade educacional,
+que agrega endereços vizinhos ou muito próximos, no mesmo município, no qual as
+atividades acadêmicas ou administrativas se dão com algum nível de integração.
+9. Docentes
+9.1. Tempo integral - docente contratado com 40 horas semanais de trabalho na
+mesma instituição, reservado o tempo de pelo menos 20 horas semanais a estudos,
+pesquisa, trabalhos de extensão, gestão, planejamento, avaliação e orientação de
+estudantes. 9.2. Tempo parcial - docente contratado atuando com 12 ou mais horas
+semanais de trabalho na mesma instituição, reservado pelo menos 25% do tempo para
+estudos, planejamento, avaliação e orientação de estudantes.
+9.3. Horista - docente contratado pela instituição exclusivamente para ministrar
+aulas, independentemente da carga horária contratada, ou que não se enquadrem nos
+outros regimes de trabalho acima definidos.
+9.4. Núcleo docente estruturante- conjunto de professores da instituição
+responsável pela formulação do projeto pedagógico do curso, sua implementação e
+desenvolvimento, composto por professores com titulação em nível de pós-graduação stricto
+sensu, contratados em regime de trabalho que assegure preferencialmente dedicação plena
+ao curso, e com experiência docente.
+10. Estudantes
+10.1. Matrícula- vínculo de estudante a curso superior.
+10.1.1. Matrícula ativa- vínculo de estudantes a curso superior, que corresponde
+à realização de disciplinas ou atividades previstas no projeto pedagógico ou ainda à
+conclusão do curso no ano de referência.
+10.1.2. Matrícula não ativa - vínculo formal de estudante a curso superior, sem
+correspondência com atividades acadêmicas.
+10.2. Matriculado- estudante vinculado formalmente a curso superior. Atributo
+referido ao estudante, diferentemente do conceito de matrícula, atributo referido ao curso.
+10.3. Ingressante- estudante que efetiva a matrícula inicial no curso.
+10.3.1. por processo seletivo- estudante que efetiva a primeira matrícula no
+curso, após aprovação em processo seletivo;
+10.3.2. por outras formas de ingresso que dispensam processo seletivoestudante
+que efetiva a matrícula no curso na condição de portador de diploma de curso
+superior ou em virtude de mudança de curso dentro da mesma instituição, transferência de
+outra instituição, ou acordo internacional, como PEC-G.
+10.4. Concluinte - estudante que tenha expectativa de concluir o curso no ano de
+referência, considerando o cumprimento de todos os requisitos para a integralização do
+curso em todos os componentes curriculares.
+46
+10.5. Inscrito - estudante que se inscreve para participar de processo seletivo de
+ingresso em curso superior.
+10.6. Desistente - estudante que interrompe o vínculo formal com o curso em
+que estava matriculado.
+11. Vagas
+11.1. vagas autorizadas - número de lugares destinados ao ingresso de
+estudantes em curso superior, expressas em ato autorizativo, correspondente ao total anual,
+que a instituição pode distribuir em mais de um processo seletivo. No caso das instituições
+autônomas, consideram-se autorizadas as vagas aprovadas pelos colegiados acadêmicos
+competentes e regularmente informadas ao Ministério da Educação, na forma do art. 28 do
+Decreto 5.773, de 2006;
+11.2. vagas oferecidas- número total de vagas disponibilizadas nos processos
+seletivos constantes dos editais expedidos pela instituição.
+(*) Republicada por ter saído, no DOU nº 239, de 13-12-2007, Seção 1, págs. 39 a 43, com
+incorreção no original.

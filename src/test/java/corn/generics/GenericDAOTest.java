@@ -7,6 +7,7 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.transaction.TransactionConfiguration;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.io.Serializable;
 import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;
 
@@ -21,11 +22,11 @@ import static org.junit.Assert.assertNull;
 @Transactional
 @ActiveProfiles(profiles = "test")
 @SuppressWarnings("unchecked")
-public abstract class GenericDAOTest<T> {
+public abstract class GenericDAOTest<T extends Serializable> {
 
 
 	@Autowired
-	private GenericDAO<T> genericDAO;
+	private GenericFileDAO<T> genericDAO;
 
 	private Class<T> persistentClass;
 
@@ -66,7 +67,7 @@ public abstract class GenericDAOTest<T> {
 			assertNotNull(this.persistentClass.getSimpleName() + ".id não pode ser nulo.", id);
 
 			//Deletar o objeto
-			this.genericDAO.delete(t);
+			this.genericDAO.delete(id);
 
 			//Buscar o objeto que foi deletado e verificar se ele é nulo
 			t = this.genericDAO.byId(id);

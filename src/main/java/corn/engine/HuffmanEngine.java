@@ -1,91 +1,117 @@
 package corn.engine;
 
+import corn.utils.HuffmanTree;
+
 import java.io.*;
 import java.util.*;
+import java.util.stream.Collectors;
 
 /**
- * Created by LibraLynx on 28/05/2015.
+ * @author Álvaro Rungue
+ * @since 28/05/2015.
  */
-
-
 public class HuffmanEngine {
 
-    static class HuffmanNode{
-        private int value;
-        private String chars;
+    public List<Stack<HuffmanTree.HuffmanNode>> execute( String ... fileNames ){
 
-        public int getValue() {
-            return value;
-        }
+        List<Stack<HuffmanTree.HuffmanNode>> stackList = new ArrayList<>();
 
-        public void setValue(int value) {
-            this.value = value;
-        }
+        for( String fileName : fileNames ){
+            Map<Character, Integer> characterIntegerMap = makeFrequencyTable(fileName);
+            Stack<HuffmanTree.HuffmanNode> huffmanNodesList = buildStackFromMap(characterIntegerMap);
+            stackList.add(huffmanNodesList);
+        }//end for(iterator)
 
-        public String getChars() {
-            return chars;
-        }
+        return stackList;
 
-        public void setChars(String chars) {
-            this.chars = chars;
-        }
-    }
+    }//end execute()
 
-    static class HuffmanTree{
+    private Map<Character, Integer> makeFrequencyTable(String fileName){
 
-    }
+        //Create the hash table that will be inserted the character frequency
+        HashMap<Character, Integer> characterFrequencyMap = new HashMap<Character, Integer>();
 
-    private HashMap<Character, Integer> hashMap;
-
-    public HuffmanEngine(String fileName) {
-        this.hashMap = new HashMap<>();
-    }
-
-    public void init(){
-
-    }
-
-    public void makeFrequencyTable(String fileName){
+        //File Object to be readed
         File file = new File(fileName);
-        try( RandomAccessFile randomAccessFile = new RandomAccessFile(file, "r") ){
 
-            while( true ){
-                char c = randomAccessFile.readChar();
-                this.insertChar(c);
-            }
+        //Autocloseable object
+        try( BufferedReader bufferedReader = new BufferedReader( new FileReader(file) ) ){
 
-        } catch (EOFException eof) {
+            while( bufferedReader.ready() ){
+
+                //Read one char from the file and check to check the occurrence frequency
+                Character c = ((char) bufferedReader.read());
+
+                //case when the character exists in the map
+                if( characterFrequencyMap.get(c) != null ){
+                    Integer frequency = characterFrequencyMap.get(c);
+                    characterFrequencyMap.remove(c);
+                    characterFrequencyMap.put(c, ++frequency);
+                //otherwise just put the new character in map
+                }else{
+                    characterFrequencyMap.put(c, 1);
+                }//end if
+
+            }//end while
+
+        }catch( EOFException eof ) {
             eof.printStackTrace();
-        } catch ( IOException e ){
+            return characterFrequencyMap;
+        }catch( IOException e ){
             e.printStackTrace();
-        }
-    }
+        }//end try-catch
 
-    public void insertChar( Character c ){
-        if( this.hashMap.get(c) != null ){
-            Integer frequency = this.hashMap.get(c);
-            this.hashMap.remove(c);
-            this.hashMap.put(c, ++frequency);
-        }else{
-            this.hashMap.put(c, 1);
-        }
-    }
+        return characterFrequencyMap;
 
-    public List<HuffmanNode> getNodesList(){
-        List<HuffmanNode> huffmanNodes = new ArrayList<>();
-        Set<Map.Entry<Character, Integer>> entries = this.hashMap.entrySet();
-        new ArrayList<HuffmanNode>(){{
-            for (Map.Entry<Character, Integer> entry : entries) {
-                add(new HuffmanNode(){{
-                    setValue(entry.getValue());
-                    setChars(entry.getKey().toString());
-                }});
-            }
-        }};
+    }//end makeFrequencyTable()
 
 
-        return huffmanNodes;
-    }
+    /**
+     * <p>
+     * Fun&ccedil;&atilde;o para ler um {@link Map} com a tabela de frequencia de caracteres para criar a
+     * arvore de huffman.
+     * </p>
+     * @param map - tabela com as frequencias que cada caracter ocorreu em um texto
+     * @return {@link Stack<HuffmanTree.HuffmanNode>}
+     */
+    private Stack<HuffmanTree.HuffmanNode> buildStackFromMap( Map<Character, Integer> map ){
 
+        //Huffman nodes list be added Stack
+        List<HuffmanTree.HuffmanNode> huffmanNodes = new ArrayList<>();
+
+        Stack<HuffmanTree.HuffmanNode> collect = map.entrySet().stream()
+                //Mapear os valores do Set.Entry do hashmap para o tipo HuffmanNode
+                .map(entry -> new HuffmanTree.HuffmanNode(entry.getValue(), entry.getKey().toString() ) )
+                //Ordenar a stream pelo valor de frequencia dos nodos
+                .sorted(Comparator.comparing(HuffmanTree.HuffmanNode::getFrequency).reversed())
+                .collect(Collectors.toCollection(Stack::new));
+
+        return collect;
+
+    }//end getNodeList()
+
+
+    public HuffmanTree buildTree( Stack<HuffmanTree.HuffmanNode> stack ){
+
+        HuffmanTree huffmanTree = null;
+
+        while( stack.size() > 1 ){
+
+            //Get two smallers node
+            HuffmanTree.HuffmanNode leftNode  = stack.pop();
+            HuffmanTree.HuffmanNode rightNode = stack.pop();
+
+            //build a new tree
+            huffmanTree = new HuffmanTree(leftNode,rightNode);
+
+            stack.push( huffmanTree.getRoot() );
+
+            stack.sort(Comparator.comparing(HuffmanTree.HuffmanNode::getFrequency).reversed());
+
+        }//end while
+
+        return huffmanTree;
+
+    }//end buildTree()
 
 }//end class HuffEngine

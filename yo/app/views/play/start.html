@@ -73,13 +73,13 @@
         <div class="col-sm-2">
 
             <ul class="list-group">
-                <li class="list-group-item" data-ng-repeat="value in questionsValue track by $index"
+                <li class="list-group-item" data-ng-repeat="frequency in questionsValue track by $index"
                       data-ng-class="{'list-group-item-success': currentQuestionIndex > $index,
                         'list-group-item-default': currentQuestionIndex < $index,
                         'list-group-item-warning': currentQuestionIndex === $index}">
                     <i class="fa"
                        data-ng-class="{'fa-check-square-o': currentQuestionIndex > $index,
-                       'fa-square-o': currentQuestionIndex <= $index}"> </i> {{value.correct | currency: 'R$ '  }}
+                       'fa-square-o': currentQuestionIndex <= $index}"> </i> {{frequency.correct | currency: 'R$ '  }}
                 </li><!--end list-group-item-->
             </ul><!--end col-sm-2 padding-0-->
 

@@ -1,0 +1,1685 @@
+vamos fazer Design de Interacão?
+Caio Cesar G. Oliveira
+
+
+ilustração e diagramação: estúdio grampo
+www.estudiogrampo.com.br
+6
+Vamos fazer
+Design de Interação?
+01 - O que é Design de Interação?
+02 - Verba pequena? Grandes soluções!
+03 - Estabelecendo metas
+04 - Pesquisa com usuários
+05 - A diferença entre análise e validação
+06 - Escolhendo metodologias
+07 - Protótipos
+08 - Validando layouts
+09 - Testes com usuários
+10 – Monitoramento
+1
+1 - O que é Design
+de Interação?
+As tecnologias digitais interativas estão fazendo parte de nossas
+vidas há tempos. Elas nos dão poder, nos causam frustra-
+ções, nos aproximam e nos afastam; facilitam nossas tarefas
+e, às vezes, proporcionam difculdades às nossas vidas. E,
+mesmo interagindo com tecnologias digitais em nosso dia a
+dia, com frequência nos esquecemos que elas são feitas por
+pessoas como nós. Pessoas que merecem elogios quando as
+coisas funcionam e acabam recebendo insultos quando as
+coisas simplesmente não funcionam.
+Estas pessoas – da mesma forma que os designers de produto
+moldam nossas ações por meio de objetos que eles concebem
+– acabam por moldar nossas vidas no que se refere às relações
+que desenvolvemos e as atividades que desempenhamos por
+2
+meio das tecnologias digitais interativas. Elas são designers de
+interação. O que elas fazem é cuidar do desenvolvimento de
+produtos interativos que fornecem suporte às nossas atividades
+cotidianas.
+No passado, as pessoas que desenvolviam sistemas interativos
+tinham sua preocupação voltada primordialmente para
+a tecnologia que tornava estes sistemas possíveis e viáveis. A
+interface, que permite que as pessoas usem estes sistemas, era
+uma questão secundária. Só que um sistema não se completa
+sem que as pessoas efetivamente consigam usar este sistema.
+Nesse sentido, a redução na qualidade de interação com os
+novos produtos e serviços tornou mais clara a necessidade
+de se criar uma metodologia para avaliar e corrigir os problemas
+gerados por esse fenômeno. A Usabilidade e o Design de
+Interação surgem como formas de se avaliar e conceber – de
+maneira objetiva, seguindo métodos e estruturas – a interação
+entre pessoas, artefatos e instituições (levando-se em conta
+cenários e contextos) e sugerir soluções para melhorar esse
+processo. Desenvolvidas inicialmente a partir das teorias de
+Fatores Humanos, Ergonomia, Psicologia e Engenharia Cognitiva,
+a Usabilidade e o Design de Interação se estabeleceram
+como campos de estudo independentes, porém complementares,
+que, nos meados da década de 1980 e ampliam concomitantemente
+suas áreas de infuência.
+Usabilidade é o termo que defne o grau de facilidade de uso
+de um produto ou serviço. De acordo com Jakob Nielsen, a
+usabilidade e a utilidade garantem a serventia de um produto.
+Usabilidade de um produto foi também denominada como a
+extensão pela qual um produto pode ser utilizado por usuá-
+3
+rios específcos, para alcançar objetivos específcos de maneira
+efciente e satisfatória em determinado contexto de uso.
+Uma defnição operacional do termo deve incluir um ou mais
+dos quatro fatores:
+1) Utilidade: está ligada ao nível de infuência de um produto
+ou serviço na conclusão de uma ou mais tarefas realizadas
+por usuários;
+2) Facilidade de uso: é normalmente defnida em termos
+quantitativos, tanto por velocidade de uso quanto por índice
+de erros produzidos por uma porcentagem total da população
+de usuários;
+3) Facilidade de aprendizado: está relacionada a capacidade
+do usuário de aprender a utilizar um produto ou serviço após
+um período determinado de tempo;
+4) Satisfação: avaliada subjetivamente por usuários ao término
+da interação com um sistema ou serviço.
+Pensar nestes fatores também é necessário para que se produza
+sistemas interativos efcientes e satisfatórios. Dessa
+formna, embora independentes, o Design de Interação e a
+Usabilidade se relacionam intimamente. São conceitos que fazem
+parte de uma abordagem de design que leva em conta as
+necessidades, limitações e desejos dos usuários. A esta abordagem
+dá-se o nome Design Centrado no Usuário. Conversar
+sobre Design Centrado no Usuário é algo que me deixa bastante
+empolgado. Mas deixarei uma abordagem mais aprofundada
+deste assunto para outra oportunidade.
+De qualquer forma, como pode-se perceber, estes conceitos
+não devem fcar presos apenas a sistemas e produtos digitais
+interativos. De acordo com Donald Norman, os mesmos
+4
+princípios apresentados em Design Centrado no Usuário para
+artefatos complexos como instrumentação de aeronaves comerciais,
+usinas nucleares e sistemas computacionais podem
+ser aplicados em objetos simples como portas, torneiras e
+acendedores de luz.
+A Usabilidade e o Design de Interação oferecem técnicas,
+métodos e práticas que visam avaliar a facilidade de uso e a
+utilidade de produtos sob a perspectiva do usuário. Fornecem
+aos designers ferramentas para modifcar a maneira como os
+produtos são projetados e concebidos; métodos que operem
+de fora para dentro, partindo das habilidades e necessidades
+dos usuários fnais em direção à eventual implementação do
+produto.
+Além da preocupação com o ser humano que interage com os
+produtos, a Usabilidade também é fonte de redução de gastos
+para os desenvolvedores de produtos, assim como para os
+usuários destes. Estudos mostram que a avaliação da Usabilidade
+desde as etapas iniciais do processo de desenvolvimento
+dos produtos reduz o tempo desse desenvolvimento e resulta
+em produtos mais adequados ao uso. Já temos várias pesquisas
+que comprovam a efciência do envolvimento do usuário
+no processo de produção. Esta efciência é demonstrada –
+principalmente – pela quantidade de projetos que são fnalizados
+dentro do prazo proposto. Quando o usuário é envolvido,
+o número aumenta notadamente. Produtos mais úteis e
+usáveis reduzem os erros cometidos por seus usuários além
+de diminuir o tempo e a necessidade de treinamento.
+Pra se ter uma ideia, pesquisa realizada em 1994 pelo Standish
+Group, nos Estados Unidos, mostra que o envolvimento dos
+5
+usuários no processo de produção aumentou de 16% para 26%
+o número de projetos que foram concluídos dentro do prazo,
+com a inclusão de todas as funções especifcadas e dentro do
+orçamento previsto.
+Falar em Design de Interação, então, é falar do processo de
+concepção e desenvolvimento de produtos e serviços interativos.
+Para se fazer isso, há diferentes vertentes e orientações
+metodológicas. Não há uma única receita de bolo. Fazer Design
+de Interação não é seguir um manual de instruções. No
+entanto, quase todas estas vertentes metodológicas são derivadas
+no Design Centrado no Usuário e se inspiram no Ciclo
+Iterativo de Design, que consiste em estudar e sistematizar
+as variáveis, planejamento, design, teste e avaliação fnal em
+relação aos requisitos.
+Design Centrado no Usuário é uma flosofa ou abordagem de
+Design que acredita que os usuários reais e seus objetivos, e
+não apenas a tecnologia envolvida, devem ser os elementos
+norteadores de qualquer esforço para o desenvolvimento de
+serviços ou produtos. Os princípios do Design Centrado no
+Usuário são: Foco em usuários e tarefas desde os momentos
+iniciais do projeto; Medição e validação empírica; Iteração.
+Pensamos, então, em Design Centrado no Usuário por uma
+questão muito simples: Nós, designers, temos uma visão de
+mundo que nos permite entendê-lo de um jeito diferente do
+resto das pessoas. Em se tratando de nossos sistemas interativos
+(aqueles feitos por nós), o nosso entendimento é bem
+diferente do de nossos usuários. Isso porque temos modelos
+mentais diferentes de nossos usuários. Nós, por causa de nossa
+experiência, envolvimento ou conhecimento sobre o pro-
+6
+jeto e o produto, conhecemos a coisa com mais profundidade
+que os usuários. Nesse sentido, se fzermos as nossas soluções
+pensando apenas na nossa compreensão da coisa, corremos
+sérios riscos de desapontar os usuários.
+Os usuários, portanto, têm modelos mentais diferentes dos
+nossos (como dito, modelos mentais são representações internalizadas,
+particulares a cada indivíduo ou grupo de indivíduos,
+sobre como as coisas são e devem funcionar). Como nossos
+modelos mentais e aqueles dos usuários são diferentes,
+precisamos conhecer como o usuário se comporta e quais são
+as suas demandas para – depois de compreender seu modelo
+mental, construir a nossa proposta para um sistema interativa.
+Esta proposta normalmente leva o nome de modelo conceitual
+e recebe infuência de nossa interpretação das coisas
+(nosso modelo mental) e a compreensão de como o usuário
+interpreta o mundo ao seu redor (modelo mental dele).
+E no que consiste este processo de concepção e desenvolvimento
+de produtos interativos? O ciclo Iterativo de Design
+nos dá boas pistas. Em suas fases, muitas atividades de Design
+de Interação acontecem.
+7
+Vamos pensar num website, por exemplo. Antecendendo
+o projeto, você tem pesquisa. E esta pesquisa vai consistir
+em investigações sobre os usuários (identifcação de perfs
+e necessidades), pesquisas acerca da eventual solução atual
+existente e também investigações de mercado (benchmarking
+para identifcação de funções e diferenciais dos concorrentes
+ou de outros produtos que servem ao mesmo propósito, mas
+que não concorrem diretamente com o seu cliente (ou seu
+produto)). Sobre esta investigação de perfs e necessidades de
+usuários, falaremos com mais detalhes num futuro próximo.
+Neste momento, é importante termos em mente que estes
+perfs e necessidades compõem o que chamamos de Personas.
+Estas Personas nos auxiliarão permanentemente em nosso
+projeto.
+Entrando propriamente na fase do projeto, as informações
+8
+coletadas anteriormente se transformam em sua proposta,
+que vai contemplar como você imagina que acontecerão as
+interações neste produto para que os usuários tenham suas
+necessidades atendidas. Nesta etapa, fuxos de navegação são
+construídos, mapas de conteúdo são desenhados e os primeiros
+protótipos começam a nascer. Aqui acontecem alguns procedimentos
+de Arquitetura de Informação – um conceito que
+muitas vezes é confundido com Design de Interação. Depois
+de validados os primeiros protótipos, normalmente de baixa
+fdelidade, o ciclo se repete para a construção de novos protó-
+tipos. Desta vez, de alta fdelidade.
+Protótipos de baixa fdalidade
+página inicial página interna
+Protótipos de baixa fdelidade recebem este nome pois representam
+com pouca fdelidade como será o produto fnal. Sua
+importância está em representar a localização dos conteúdos
+e disparadores de ação em uma interface. Eles podem ser
+em papel ou eletrônicos e normalmente recebem o nome de
+Wireframes. O termo signifca linhas guia (como num projeto).
+9
+Então, os Wireframes são protótipos de baixa fdelidade que
+servem para dar um direcionamento inicial de como a interface
+será. Como disse, estes protótipos podem ser feitos em
+papel (impressos ou desenhados à mão) ou digitais. As ferramentas
+são as mais variadas. Tem gente que usa até o PowerPoint
+(microsof.com) para fazer Wireframes. Pessoalmente,
+uso o Gimp (gimp.org), mas sempre depois de fazer um ensaio
+com papel e lápis. Há aqueles que utilizam ferramentas como
+o Pencil (pencil.evolus.vn) ou o Axure (axure.com) para fazer
+Wireframes. Estas ferramentas são muito legais (se eu fosse
+escolher, iria de Pencil) e servem para criar Wireframes navegáveis.
+Cada wireframe representaria uma tela ou um estado de ação
+do site. Estes protótipos servem então para dar uma plena
+noção de tudo o que está acontecendo em cada atividade que
+o usuário desempenhará no site. As telas se encaixam em
+sequências, formando os fuxos de navegação. Perceba então
+que para cada atividade que você imaginou para o sistema, há
+uma série de fuxos e estes fuxos envolvem diversos wireframes
+(consequentemente, telas). Além disso, estes fuxos e telas
+proporcionam ao usuário navegar pelas seções do site. Verifcar
+se estas transições estão acontecendo da maneira mais
+fácil e mais efciente possível é uma tarefa de Arquitetura de
+Informação.
+Além de verifcar os fuxos, ratifcar o mapa do site é uma
+tarefa de Arquitetura de Informação. Você pode fazer isso
+a partir de uma exploração do eventual site atual que o seu
+projeto substituirá e também com o auxílio de procedimentos
+com usuários.
+10
+O mais famoso destes procedimentos é o Card Sorting. O termo
+explica bem o que é feito no procedimento. Você vai pedir
+para usuários (que representem bem as personas encontradas
+para espe projeto) organizarem o conteúdo do site em cartões
+que você previamente preparou escrevendo neles os nomes
+das seções e páginas. O procedimento demanda um livro só
+para ele, mas explicando rapidamente, ele proporciona a você
+entender como o usuário enxerga o conteúdo do site ou sistema.
+Além dos cartões com os nomes escritos, você preparará cartões
+em branco e fornecerá uma caneta para que os usuários
+possam alterar nomes de cartões ou criar novos cartões. Cada
+alteração ou criação feita deve ser justifcada. Peça aos usu-
+ários que, caso façam isso, justifquem isso por meio de um
+pequeno texto escrito no cartão. Isso poderá ser útil depois.
+Além de conceber, organizar e alterar cartões, os usuários
+poderão remover cartões excluindo-os ou colocando aqueles
+que não entendem o que os rótulos signifcam numa espécie
+de limbo.
+Isso é importante para você ratifcar o entendimento do usu-
+ário dos rótulos imaginados para o site. Sobre o card sorting,
+11
+gostaria de fnalizar falando que é muito legal que você documente
+as sessões deste procedimento em vídeo, interfra o
+mínimo possível nas decisões dos usuários e evite direcionar
+a conversa. Deixe que eles se organizem. Uma última recomendação
+é que você tenha um número ímpar de participantes
+por sessão. Tudo que você não quer é que – no caso de
+alguma disputa na sessão, aconteça um empate.
+Protótipos de alta fdalidade
+página inicial página interna
+Já os protótipos de alta fdelidade representam, como o nome
+diz, como a interface será com uma maior fdelidade. Normalmente
+os layouts são protótipos de alta fdelidade. Eles
+começam a ser produzidos depois que os wireframes são
+fnalizados e validados. Ao fnal do processo de construção
+dos layouts, você terá uma representação bastante fel – em
+imagem – de como será cada página do site. Obviamente você
+não precisará fazer um layout para cada página do site. Num
+sofware de edição e composição de imagens (novamente
+recomendo o Gimp para este procedimento) você fará aquelas
+12
+imagens que representarão as páginas de algumas sequências
+/ fuxos apenas (mais ou menos como fez com os wireframes).
+A validação de wireframes pode acontecer com procedimentos
+com usuários ou com avaliações por especialistas. Esta
+escolha vai depender de você, da sua verba e do perfl de seu
+projeto. Já com layouts, numa abordagem bastante simples
+(como será visto a seguir) você construirá o bastante para
+poder fazer testes e verifcar se a proposta pode ser validada.
+Feito isso, tem-se início a produção do código para que o site
+comece a existir como um sistema hipertextual.
+Com o sistema começando a tomar forma, o que temos é um
+protótipo funcional. Já é o site quase pronto, faltando normalmente
+conteúdo validado e ser disponibilizado para o
+público geral. Ao caminharmos para o fnal desta etapa, o que
+se recomenda é que nova rodada de testes com usuários (ou
+inspeções por especialistas) seja conduzida.
+Nunca é tarde para fazer ajustes antes de fnalizar a produção
+de um novo projeto. Neste momento, as etapas de Projeto e
+Desenvolvimento começam a se misturar. A parte mais pesada
+de concepção de código tem início. A partir deste momento,
+como disse, tem-se um site praticamente pronto. O conte-
+údo inicial do sistema começa a ser concebido e inserido no
+sistema. As funcionalidades imaginadas são construídas no
+front e back end. Em seguida, o site está pronto. O que resta é
+a tarefa de acompanhar o uso e fazer manutenção do conteú-
+do e sistema envolvidos.
+Bem, você deve ter percebido que passamos (ou iteranos) pelo
+ciclo iterativo ao menos três vezes. O principal benefício de
+13
+se trabalhar Design de Interação sob a perspectiva do Design
+Centrado no Usuário é justamente este: depois de ter as ideias,
+construir versões de seus designs (protótipos) e validá-las
+junto a usuários ou por meio de inspeções. O que descobrimos
+nestes procedimentos de validação nos dá mais segurança e
+autoridade para ir para as próximas etapas.
+Trabalhar Design de Interação é basicamente isso. Fazer a inserção
+de uma série de procedimentos no processo de concep-
+ção de produtos interativos para que nossas soluções sejam as
+mais adequadas para suprir as necessidades dos usuários.
+Você deve ter visto que há uma série de procedimentos apresentados
+nesta breve descrição. Espero conseguir desmistifcá-
+-los ao longo das próximas páginas deste livro. A seguir, trabalharemos
+a execução destes procedimentos com orçamentos
+reduzidos. Você perceberá que trabalhar Design de Interação
+(DI) não é algo que encarece demais o projeto. E vale cada
+minuto tentar adotar um procedimento.
+14
+2 - Verba pequena?
+Grandes soluções!
+Então você tem pouca verba para o projeto?
+Uma das principais difculdades que encontramos com Design de
+Interação é vender os procedimentos para nossos clientes ou mesmo
+para nossa equipe. Particularmente, eu acho que esta segunda
+questão é ainda mais desafadora.
+É muito raro e difícil encontrarmos equipes que estejam preparadas
+para iterar. Trata-se de um desafo e tanto.
+Com relação aos clientes, o desafo é um pouco menor. Eles podem
+ter sido atraídos a você ou a sua empresa justamente por você(s)
+trabalhar(em) Design de Interação. Mas isso se aplica quando você
+faz parte de uma agência ou produtora. A difculdade se mostra
+ainda maior quando você faz parte (ou você é o departamento) de
+um departamento de design e/ou desenvolvimento de uma grande
+empresa. Nesse sentido, o trabalho com DI é algo realmente desaDifculdade:
+vender DI.
+Clientes > Difculdade média
+Se você desenvolve este expertise fca
+conhecido por ele.
+Equipe > Difculdade média ou alta
+Difícil encontrar equipes dispostas a
+iterar.
+Em empresas > Difculdade alta
+Salvo raríssimas exceções, trata-se
+de algo desconhecido e visto com
+desconfança
+15
+fador.
+Mas nenhum destes desafos torna a coisa impossível. Por proporcionar
+resultados muito bacanas para os projetos, uma vez que
+você demonstre que os métodos e técnicas de Design de Interação
+funcionam, as coisas passam a fcar mais fáceis.
+Isso implica que, num primeiro momento, você deve ter que trabalhar
+com uma verba e/ou um cronograma bastante reduzido.
+Eu diria que na primeira vez que você vai introduzir procedimentos
+de DI em um projeto nas circunstâncias que mencionei, você vai
+acbar tendo que lidar com verba e prazo zero. Isso mesmo. Você
+não terá nada a não ser sua vontade de fazer a coisa funcionar. Pra
+piorar (como se você tivesse escolhido jogar um game no modo
+“hard”), tenho certeza que haverá pessoas na equipe torcendo para
+a coisa dar errado. É brutal, eu sei. Mas infelizmente é assim que
+funciona. Graças – às vezes – às nossas próprias práticas. Mas isso
+eu deixo para um outro momento.
+Neste capítulo veremos como podemos inserir procedimentos de
+Design de Interação quase sem custos e quase sem impactos em
+seu cronograma.
+A primeira coisa a fazer é ter a noção que você não conseguirá executar
+todos os procedimentos de um mundo ideal. Uma vez feito
+isso, você terá a capacidade de escolher um ou mais momentos que
+considera chave no processo de desenvolvimento de uma solução
+e adotar um procedimento que vai proporcionar um resultado de
+Você não conseguirá executar todos os
+procedimentos de um mundo ideal. E daí?
+O importante é ter resultados para começar a
+criar uma cultura de DI na equipe e na empresa.
+16
+mais impacto.
+O cenário apresentado não é razão para desespero. Mesmo tendo
+que enfrentar o desafo de fazer a coisa funcionar com estas limita-
+ções.
+Por isso nunca é demais ressaltar a importância de se ter antes de
+começar um mapa ou um roteiro de tudo o que será feito no projeto.
+É com este roteiro que você vai identifcar quais são os pontos
+críticos do projeto. Escolher inserir procedimentos de DI em um
+desses pontos críticos, como disse, vai proporcionar resultados que
+dão mais impacto em seu projeto como um todo.
+Antes de começar:
+Tenha um mapa de tudo que será feito no projeto.
+Identifque os pontos críticos.
+Escolha quais procedimentos serão inseridos nos pontos críticos.
+Por exemplo, vamos pensar que seu projeto é o redesign de um
+produto ou um serviço que não deu certo. Uma coisa importante a
+se fazer antes de começar é tentar compreender o motivo da versão
+anterior não ter dado certo (inclusive compreendendo bem o que
+signifca “não dar certo”).
+Será que foi por causa de um problema de interface? Será que foi
+alguma “call to action” mal posicionada (ou ausência de uma “call
+to action”?). Ou será que foi porque o usuário que imaginaram para
+o produto não comprou a ideia? Talvez a necessidade do usuário
+seja outra. Talvez o usuário não tenha entendido que a sua necessidade
+seria contemplada com o produto.
+Deu para perceber que é muito importante saber em que chão estamos
+pisando antes de iniciar a caminhada, não é? Assim dá para
+escolher a estratégia mais adequada. Esta preparação é fundamental
+e implica também em saber para quem você fará aquilo que está
+17
+fazendo. Isso signifca ter uma boa noção (ou pleno conhecimento,
+o que é melhor) de quem são as Personas para este projeto.
+Sobre as Personas, é legal deixar claro que isso será trabalhado de
+forma mais profunda na quarta parte deste livro. Mas de maneira
+a proporcionar um bom entendimento da coisa neste momento, é
+importante saber que as Personas representam não só os diferentes
+perfs de usuários que você terá, mas também informam quais são
+as necessidades destes usuários para com seu serviço ou produto
+interativo. O conceito de Personas extrapola o que entendemos
+como perfl pois este conceito (o de perfl) costuma se restringir a
+características demográfcas. As Personas têm necessidades e comportamentos
+que precisam ser observados.
+Para identifcar as personas-chave de seu projeto, um bom lugar
+para olhar – no caso de um redesign – é o cadastro atual de usuá-
+rios. Quais são as suas características? Com os dados de cadastro,
+podemos ter algumas dicas demográfcas. Não é o sufciente, mas
+ajuda. Olhar os relatórios de atividades no sistema anterior dá uma
+(ou várias) dica(s) sobre o que estes usuários estavam procurando
+em seu produto ou serviço. Conversar com usuários seria o melhor
+jeito de se obter dados mais completos sobre as características e
+necessidades.
+Mas vamos lembrar que você não tem verba e nem tempo para
+isso. Então, o jeito “sujo” de fazer o procedimento – neste momento
+– é o mais adequado.
+Tenha sempre em mente que você precisa se esforçar para ter
+informações sobre os usuários (suas características e necessidades).
+Afnal, o que você está fazendo é Design Centrado no Usuário. Sem
+as informações – nem que seja o mínimo – sobre os usuários, você
+enfrentará problemas.
+Para cada problema ou questão motivadora de um redesign men-
+18
+cionada, podemos aplicar procedimentos de DI no projeto em
+momentos diferentes. Percebam como tentarei deixar isso claro a
+seguir.
+Se o problema da versão anterior do produto estava na interface,
+seu foco deve ser o desenvolvimento da nova interface. Dê atenção
+ao processo de criação de wireframes. Se você tiver acesso a dados
+que mostrem o motivo de a interface anterior não ter dado certo,
+as coisas fcarão muito fáceis. Aí você conseguirá estabelecer com
+mais exatidão quais serão as metas da nova interface.
+Como dito, você pode trabalhar a interface com procedimentos de
+DI desde a concepção dos wireframes. Tente validá-los usando um
+método simples e barato chamado “percurso cognitivo”.
+Este método consiste em você – designer ou especialista – atuar
+perante a interface (ou seu protótipo) como se fosse uma das personas
+identifcadas para o projeto. Demanda maturidade e saber se
+separar de seu modelo mental. Tente executar uma tarefa do produto
+interativo como se você fosse o seu usuário. Tente agir como
+se você tivesse a necessidade que ele tem e como se você tivesse o
+repertório que ele tem.
+Passe pelas telas e preste atenção no que elas informam a este usu-
+ário que tem as características e necessidades bem defnidas. Não
+é fácil e talvez você não consiga os melhores resultados na primeira
+tentativa. Mas este é um procedimento muito barato e rápido.
+Além disso ele permite descobrir problemas graves quando feito
+corretamente.
+19
+Percurso cognitivo?
+#comofas
+Escolha uma tarefa no sistema.
+Tente executá-la como se você fosse a persona em questão.
+Pode ser feito em qualquer etapa do processo de produção.
+Quando feito corretamente, permite descobrir
+problemas com muita efciência.
+Se o percurso cognitivo não é a sua praia, você pode tentar validar
+os wireframes adotando uma análise heurística. Trata-se de outro
+procedimento bastante rápido e barato e que não necessariamente
+envolve usuários (como você está com prazo e verba restritos, preste
+atenção nisso).
+Conduzir uma análise heurística é algo bastante rápido. Dada uma
+tarefa (sempre, pense numa tarefa. Tanto na análise heurística
+quanto no percurso cognitivo e em qualquer outro procedimento),
+passe pelas telas observando a lista de heurísticas (recomendações
+/ boas práticas) e verifque o que está e o que não está sendo contemplado.
+Além disso, para as coisas que não estão sendo contempladas,
+procure indicar qual é o impacto deste problema no projeto.
+Isso pode ajudar a focar as forças para a resolução de problemas
+mais graves. Você deve estar se perguntando de onde vêm estas
+listas de recomendações, né?
+Rápido e barato (relativamente simples).
+Demanda maturidade e descolamento
+do seu modelo mental.
+20
+Análise Heurística?
+#comofas
+A partir de uma lista de heurísticas, preencha um formulário /relatório
+indicando quais delas são e não são contempladas.
+Quando não contempladas, indique a gravidade do
+problema e o impacto.
+Em etapas mais avançadas do processo, geram
+melhores resultados.
+Você pode conceber uma lista de heurísticas (a partir de metas
+especifcadas para o projeto) ou usar heurísticas já prontas.
+O Jakob Nielsen tem um trabalho muito bacana – já consolidado
+– sobre heurísticas. Você pode pegar as heurísticas para sistemas
+interativos feitas por ele e adaptar às suas necessidades. Além disso,
+as metas traçadas para a interface dão uma dica das heurísticas
+a seguir para conduzir a validação.
+Outra fonte bacana é o trabalho da Claudia Dias, que fltrou estas
+heurísitcas para a realidade de portais corporativos. Além destes,
+há vários outros autores que trabalharam a construção de heurísticas
+para diferentes realidades de projetos. Vale dar uma olhada e
+conduzir uma análise heurística nos wireframes.
+E pense que você pode conduzir estes dois procedimentos em
+sequência ou isoladamente. Você pode fazer uma análise heurísSimples,
+rápido e barato. Não necessariamente
+envolve usuários.
+Alguns erros podem passar.
+21
+tica na fase de fnalização de wireframes e conduzir um percurso
+cognitivo quando os layouts estiverem prontos. Você pode repetir
+os procedimentos quando o protótipo funcional estiver pronto para
+ver se houve algum ganho efetivo ou se algum erro ainda persiste.
+Como disse, são procedimentos rápidos e baratos. Você consegue
+conduzí-los em uma tarde. Os resultados sempre trarão benefícios
+ao projeto.
+Se o problema não foi na interface em si, mas sim no entendimento
+do usuário acerca do produto, saber de suas necessidades e características
+proporcionará o conhecimento necessário para você
+corrigir isso. Talvez melhorando o texto, cores, desolcando botões...
+Também é recomendado dar uma olhada nos produtos concorrentes
+(especialmente os que são líderes) para ver o que há neles
+que você não fez em seu projeto. Talvez alí esteja a resposta para o
+entendimento do usuário. Procure investigar quais são os nomes de
+seções e os rótulos usados nos sistemas concorrentes. Se eles têm
+sucesso, os motivos podem estar ali.
+Envolver os usuários não necessariamente é proibido num contexto
+de pouca verba ou cronograma apertado. Nada impede que
+você promova testes remotos em ferramentas como o GoToMeting
+(gotomeeting.com), use o CrazyEgg (crazyegg.com) para monitorar
+o que usários remotos estão fazendo em sua interface (mesmo
+que em teste), ou use o FiveSecondTest (fvesecondtest.com) para
+rápidos feedbacks com usuários acerca daquilo que você está construindo.
+Sem mencionar que tudo isso que acabei de falar também
+pode ser feito via Google Hangouts (plus.google.com) sem qualquer
+custo.
+Todos estes serviços têm pacotes gratuitos e o que você precisa
+para fazê-los funcionar é ter alguém do outro lado para testar o que
+você quiser verifcar. Se você tiver acesso a pessoas que possam colaborar
+com isso de maneira rápida e gratuita, é um bom caminho a
+22
+seguir também.
+Além de procedimentos de validação, investigações e descobertas
+também podem ser feitos com ferramentas online. OptimalSort
+(optimalworkshop.com/optimalsort) e WebSort (websort.net) são
+ferramentas que permitem conduzir procedimentos de card sorting
+remotamente. Isso proporciona economia de dinheiro (você não
+gasta com transporte, sala, lanchinho, recompensas) e tempo (cada
+participante pode fazer o procedimento isoladamente e depois você
+verifca como as respostas se encaixam, entendendo o que seria a
+decisão de uma maioria.
+Claro que os procedimentos feitos remotamente não necessariamente
+se encaixam em todos os projetos, mas saber que eles existem
+é de grande ajuda.
+E voltando a nossa questão principal, você pode obter bons resultados
+conduzindo procedimentos simples, rápidos e baratos em seu
+projeto. Certamente fazer uma avaliação heurística não vai proporcionar
+atrasos em seu cronograma. Mesmo que você descubra
+problemas. Fazer o procedimento no momento em que as primeiras
+versões dos protótipos fcam prontas não proporcionará atrasos. E
+o ganho pode ser muito grande.
+Finalizando, após você inserir estes procedimentos em seu projeto,
+basta mostrar os resultados.
+Você perceberá que a guarda baixará um pouco e no próximo
+projeto você terá um pouco mais de espaço e – quem sabe – verba.
+Com o tempo, sem perceber, sua equipe estará trabalhando Design
+de Interação e você poderá falar com todas as letras para seus
+clientes que seus projetos são feitos pensando-se no usuário.
+Verifque se os procedimentos remotos se adequam ao projeto.
+Como? A partir das respostas que serão obtidas!
+23
+3 - Estabelecendo
+metas!
+Como nos procedimentos de Design de Interação estamos lidando
+o tempo todo com validações e avaliações, as metas são muito
+importantes. Sem elas, não saberíamos onde chegar e nem com o
+que comparar os resultados que encontramos. Ficar comparando
+nossos achados em testes e avaliações de nossos produtos apenas
+com produtos de terceiros pode não ser muito produtivo.
+Para colocar esta questão de melhor maneira, uma argumentação
+básica: Resolver um problema dos usuários com menos cliques ou
+em menor tempo do que o concorrente pode ser bom, mas não necessariamente
+signifca que estamos fazendo o que de melhor pode
+ser feito.
+24
+Além disso, conduzir os procedimentos e tocar um projeto de
+produto interativo sem ter metas a cumprir beira o nonsense (além
+de ser um tanto quanto monótono). E olha que nem mencionamos
+o mais importante: as metas são primordiais para quantifcarmos
+os nossos resultados e verifcarmos se efetivamente conseguimos
+concretizar tudo o que foi proposto. Por fm, verifcar se as metas
+foram cumpridas é imprescindível para calcularmos o eventual
+Retorno do Investimento (ROI) feito em procedimentos de Design
+de Interação.
+Mas, como estabelecer as metas?
+No ciclo iterativo temos logo no começo das atividades a identifcação
+de necessidades de usuários e estabelecimento de requisitos
+do sistema (justamente para contemplar estas necessidades). As
+metas têm relação íntima com estes requisitos.
+Uma pista pode ser obtida retomando a relação que o Design de
+Interação tem com a Usabilidade.
+Podemos, por exemplo, ter metas quantifcáveis em termos de:
+Utilidade
+Como este quesito se relaciona a capacidade de o usuário conseguir
+concluir uma tarefa, metas de utilidade vão desde o simples “o
+25
+usuário deve ser capaz de conseguir concluir a tarefa” até especifcações
+mais complexas como “o usuário deve ser capaz de conseguir
+concluir a tarefa em X cliques” ou “o usuário deve ser capaz de
+conseguir concluir a tarefa em X minutos” ou ainda “o usuário deve
+ser capaz de conseguir concluir a tarefa passando por X telas” tanto
+de forma isolada quanto de forma combinada.
+Facilidade de uso
+Novamente um quesito que pode se relacionar com tempo ou outra
+variável para mensuração e validação. Por exemplo, podemos estabelecer
+a meta de que o usuário deve ser capaz de compreender
+determinada mensagem em X segundos. Outra maneira de verifcar
+isso é acompanhar o uso em um procedimento com usuário e
+observar se o usuário comete erros ou se mostra confuso em algum
+momento. Depois do procedimento de execução da tarefa ser fnalizado,
+uma entrevista ou questionário ratifca os achados.
+Facilidade de aprendizado
+A própria defnição deste quesito em usabilidade remete a capacidade
+de o usuário se lembrar como algo é executado em um sistema
+interativo depois de usar. A validação deste ponto pode ser
+feita depois que o usuário é exposto ao sistema por meio de uma
+nova exposição (passado determinado tempo) ou ainda por meio de
+questionário ou entrevistas.
+Satisfação
+Satisfação é um quesito extremamente subjetivo, não acha? Aquilo
+que me deixa satisfeito não necessariamente vai deixar outras
+pessoas satisfeitas também. Mas isso não é um problema do quesito,
+mas sim uma questão de direcionamento de sua pesquisa. De
+qualquer forma, é possível verifcar satisfação por meio de entrevistas
+e questionários da mesma maneira que se faz em pesquisas
+de mercado. Uma maneira menos direta de se verifcar satisfação é
+observar o que se repercute do sistema interativo em questão
+26
+Acompanhar as avaliações de um aplicativo, por exemplo, pode ser
+uma boa. Outra coisa a fazer é monitorar o que se fala do sistema
+nas mídias sociais e também verifcar as questões que chegam até a
+empresa por meio de um eventual canal de contato. No entanto, na
+fase de desenvolvimento, questionários, entrevistas e grupos focais
+são excelentes para verifcar satisfação.
+Além disso, podemos trabalhar também metas relacionadas a prevenção
+de erros. Neste caso, podemos estabelecer que uma meta
+pode ser a de que o sistema deve ser capaz de explicar a situação
+para o usuário quando ele está prestes a cometer um erro e este
+usuário deve então tomar uma decisão. Em um teste, devemos
+pensar numa tarefa que um procedimento de erro pode ser facilmente
+detectado e então acompanhamos as reações do usuário
+frente as respostas do sistema. Se o sistema conseguir impedir o
+usuário de cometer o erro, a meta foi alcançada.
+No entanto, nem sempre conseguimos prever isso com exatidão.
+Mais difícil ainda é planejar um teste que contemple isso em uma
+de suas tarefas. Mesmo assim, é possível verifcar se metas de
+aprendizado são contempladas com questionários posteriores a
+condução do teste, da mesma forma que relatado no que se refere a
+avaliação de satisfação (que é um tanto quanto subjetiva).
+Metas de Design de Interação podem ser verifcadas a partir de
+análise de logs de acesso, realização de testes com usuários (presenciais
+ou remotos), entrevistas ou questionários. Fica implícito,
+então, que é bem provável que você tenha que fazer testes com
+usuários para verifcar se as metas estão sendo contempladas.
+Mas cuidado. A realização de procedimentos com usuários é
+recomendada, não obrigatória. Você pode verifcar metas utilizando
+de metodologias já conhecidas como o percurso cognitivo e a
+avaliação heurística. No entanto, estes procedimentos não necessariamente
+lhe fornecerão todos os dados da maneira mais completa
+27
+possível para verifcação do status de uma determinada meta.
+De qualquer forma é bom ter em mente que as metas servem para
+que norteemos a nossa produção. O ciclo iterativo de design mostra
+que devemos parar de “iterar” (ou seja, dar voltas no ciclo) em
+duas circunstâncias: 1) quando as metas com relação àquele ponto
+do projeto são contempladas e/ou; 2) quando o tempo do projeto
+demanda esta parada e precisamos seguir adiante.
+Outra coisa muito importante sobre as metas se refere a sua aplicação.
+Não precisamos estabelecer metas relacionadas a todos os
+quesitos para todos os momentos do desenvolvimento. Podemos
+escolher quesitos e concentrar metas de apenas alguns deles em
+nossas avaliações. E estas metas podem ser aplicadas a diferentes
+momentos do desenvolvimento, sendo mais comum que as validemos
+em etapas mais avançadas do desenvolvimento (novamente,
+não obrigatoriamente assim. Afnal, Design de Interação não é uma
+ciência exata).
+Dessa forma, ao iniciarmos o processo de desenvolvimento e
+estabelecermos onde realizaremos validações e análises, é muito
+importante que também acertemos as metas para estes procedimentos
+de validação e análise. Assim, quando chegar o momento
+de fazer algum procedimento, saberemos o que será um desempenho
+aceitável, não aceitável e excelente.
+28
+4 - Descobrindo perfs
+e necessidades dos usuários
+Quando estamos falando de Design de Interação e Design Centrado
+no Usuário, temos – como vocês já sabem – o usuário no centro
+do processo. É a partir da identifcação de suas características e
+necessidades que vamos projetar nossos produtos interativos.
+Recuperando o que já foi falado anteriormente, fazemos isso pois
+nós, designers, pensamos o mundo de uma maneira diferente de
+nossos usuários. Esta premissa é verdadeira para 99% dos casos. A
+exceção é aquele raro projeto que fazemos para pessoas que pensam
+como nós. No restante das vezes, somos pessoas externas à
+realidade de nossos usuários, que – a partir de um conjunto limitado
+de informações e experiência restrita com a realidade deles
+(usuários) – construímos algo para eles.
+É como um trabalho de consultoria. O grande benefício é que temos
+um olhar externo, o que proporciona uma visão diferente dos
+problemas que as pessoas enfrentam. Um olhar novo. Isso pode ser
+29
+muito bacana. No entanto, também é o ponto fraco. Nós, além de
+termos um repertório diferente do usuário, normalmente lidamos
+com informações limitadas sobre sua realidade.
+Nesse sentido, é muito importante levar bem a sério a pesquisa
+com usuários para que minimizemos os eventuais erros de nossos
+projetos. Se sabemos exatamente como são e do que precisam
+os usuários, as coisas fcam mais fáceis e os nossos acertos, mais
+frequentes. Afnal, é mais do que necessário construir modelos
+conceituais de produtos que tragam o frescor e a visão diferente
+para solucionar um problema que o designer traz e ao mesmo
+tempo não se afasta da concepção de mundo daqueles que usarão
+o produto a ser desenvolvido.
+Um exemplo bem bacana da importância de se conhecer as características
+dos usuários e de se compreender suas necessidades
+pode ser visto no vídeo The Deep Dive, que mostra o processo de
+concepção de uma solução por parte da IDEO – conceituada empresa
+de design. No vídeo (youtube.com/watch?v=oRrrSMZN85w)
+a empresa é desafada a fornecer uma nova solução para um problema
+velho: o carrinho de supermercado. Uma coisa muito importante
+que a empresa faz logo no início do processo de concepção do
+produto é investigar os usuários. Eles se dividem em equipes que
+passam o dia observando e conversando com as pessoas que usam
+o produto a fm de descobrir quais são os problemas enfrentados e
+as necessidades específcas relacionadas ao carrinho de compras.
+Em essência, é isso que precisamos fazer. Observar e conversar
+com os usuários para entendê-los bem. Alguns chamam isso de
+pesquisa etnográfca. No entanto, mesmo embora eu já tenha até
+usado este termo no passado, tomo emprestada a cautela que vi
+o pessoal de uma fnada empresa de Arquitetura de Informação
+chamada Mapa Digital e evito me referenciar a este procedimento
+como pesquisa etnográfca. Não porque eu não sou cientista social.
+Nada disso. Evito usar o termo porque pesquisa etnográfca é algo
+30
+que demanda muito mais tempo. Pense na pesquisa que os irmãos
+Vilas-Boas fzeram com os índios brasileiros. Aquela pesquisa
+durou anos. E este é um tempo que não temos para nossos projetos.
+Nesse sentido, embora a essência seja a mesma, prefro me referir a
+este tipo de pesquisa simplesmente como “pesquisa com usuários”.
+E, antes que eu me esqueça, vale ressaltar que este tipo de observação
+deve ser contínua por parte do designer. Uma coisa que eu
+aprendi é que nunca é demais prestar atenção em tudo. Sempre.
+Observar continuamente como as pessoas usam as coisas, como
+as coisas fcam depois que as pessoas as usam (para vocês terem
+uma ideia, isso já está tão inserido no meu comportamento que me
+pego observando as marcas deixadas pelas mãos das pessoas em
+elevadores, portas, teclados...). Se prestarmos atenção nestas coisas,
+estaremos sempre um passo adiante na hora de fazermos as pesquisas
+com usuários.
+Pois bem. Fazemos pesquisas com usuários para descobrir quais
+são as suas características, em que circunstâncias usarão aquilo
+que estamos projetando e quais são as necessidades específcas
+relacionadas a estes produtos.
+{ }
+A primeira coisa a fazer é parar de termos preconceitos com os
+usuários. Os usuários são o que são. Algo muito legal que o Alan
+Cooper fala é que os usuários são pessoas muito inteligentes, porém
+muito ocupadas. Esta fala é legal pois resume e explica duas
+coisas. A primeira é a de que eles são pessoas plenamente capazes.
+Não devemos tratar os usuários como cidadãos de segunda classe.
+Lembre-se que eles têm apenas concepções de mundo diferentes
+Os usuários são pessoas muito inteligentes, porém muito
+ocupadas. Eles, como qualquer pessoa, não tem tempo para fcar
+lendo manuais e estudando o funcionamento de um sistema.
+Alan Cooper
+31
+das nossas. Além do mais, nós é que devemos ser especialistas em
+design. Eles são especialistas naquilo que fazem. A segunda coisa
+é que eles, como qualquer pessoa, não têm tempo para fcar lendo
+manuais e estudando o funcionamento de um site ou sistema para
+fazer o resgate de pontos num programa de fdelidade, por exemplo.
+Isso apenas reforça a premissa de que devemos conceber as coisas
+de forma que demandem o mínimo possível de esforço dos usuá-
+rios para que eles efetivamente as usem. Se vocês olharem bem, era
+esta a premissa seguida por Steve Jobs no comando da Apple. Seu
+modo de enxergar as coisas direcionava a produção de produtos
+extremamente simples e elegantes, que ninguém precisa pensar
+muito para usar.
+Agora que estamos tentando nos despir dos preconceitos, vamos
+a mais um deles: não ache que você conhece o usuário. Por mais
+que você pense isso, é sempre necessário pesquisar sobre ele. Um
+dos maiores e mais frequentes erros que cometemos é termos em
+mente que conhecemos os nossos usuários. Pensar assim é receita
+para fracassar em um projeto.
+Uma coisa que deve fcar clara é que fazer pesquisa com usuários
+é algo essencialmente qualitativo. Embora seja possível ter pistas
+de perfs e características de usuários com pesquisas quantitativas,
+para resolver os problemas de design (o que demanda saber sobre
+comportamentos, circunstâncias e particularidades de uso), uma
+pesquisa quantitativa dá apenas pistas sobre isso.
+Sei que falei anteriormente que você pode usar de dados secundários
+(cadastros de usuários num site, por exemplo) para ajudar
+a construir este conjunto de informações sobre os usuários. Isso é
+bastante útil. Mas não representa a totalidade do que é necessário.
+Como disse, é muito bom para dar pistas.
+32
+Com minha formação, também sei que é muito comum fazermos
+pesquisas de mercado e construir perfs psicográfcos de consumidores.
+Isso é tudo muito bacana e muito útil. Mas não para
+desenvolvermos produtos. Perfs psicográfcos, para quem não
+sabe, são os perfs de consumidores construídos a partir de informações
+demográfcas e de informações sobre comportamento dos
+consumidores. Embora isso seja muito importante em pesquisas
+de mercado, é insufciente caso nossos objetivos incluam construir
+sistemas interativos para estas pessoas realizarem tarefas.
+Precisamos de algo mais, informações peculiares de cada usuário
+que não podem ser obtidas através de um questionário. É preciso
+conversar com eles, observá-los e obter informações variadas sobre
+tudo o que envolve o usuário e o contexto do uso daquilo que estamos
+tentando desenvolver.
+Novamente recorro às ciências sociais e cito Alan Cooper para fundamentar
+esta posição:
+{ }
+Isso não quer dizer, no entanto, que você vai abandonar completamente
+os dados quantitativos. Esta é apenas uma abordagem de se
+conduzir a coisa. Como disse várias vezes, Design de Interação não
+se faz seguindo uma receita. Sei de gente que constrói personas a
+partir de questionários, exclusivamente. Pessoalmente não gosto
+desta abordagem pois tenho experiência o sufciente com pesquisa
+quantitativa para saber que para se construir um questionário confável
+leva-se às vezes muito mais tempo do que o necessário para
+ir a campo e conversar com os usuários.
+Então vamos colocar as nossas mãos e cabeças para trabalhar.
+Os cientistas sociais há muito perceberam que os
+comportamentos humanos são muito complexos e sujeitos a
+muitas variáveis, o que torna inviável depender exclusivamente
+dos dados quantitativos para compreendê-los.
+Alan Cooper
+33
+Como disse, as pesquisas quantitativas não devem ser jogadas
+fora. Uma olhadela nos cadastros de usuários por exemplo, dá o
+caminho a seguir. A partir destes dados você saberá onde estão os
+usuários.
+Aí pode ir até eles para observar:
+Comportamentos, atitudes, aptidões;
+O contexto de negócio, técnico e ambiental onde ocorrem as interações
+(uso daquilo que você vai fazer);
+Vocabulário específco e outros aspectos culturais que envolvem a
+comunidade e o uso daquilo que está sendo projetado;
+Como os produtos que atendem as pessoas hoje são usados (caso o
+produto a ser desenvolvido não seja um redesign, este é o caminho
+a seguir. Faça tudo o que está sendo falado aqui tendo em mente
+que você vai observar os usuários dos produtos existentes).
+E quando digo observar é exatamente isso que recomendo que
+faça. Olhe as pessoas usando os produtos. Preste atenção nelas e
+pergunte o que precisar perguntar. Formalidade costuma atrapalhar
+muito neste momento (além de deixar o usuário acanhado,
+trava o processo de obtenção de informações).
+Obviamente há circunstâncias especiais que impedem que você
+faça as observações no contexto real de uso, mas tente chegar o
+mais próximo disso. Quando não der, paciência, chame os usuários
+para o seu ambiente e converse com ele ali. Tenha em mente no
+entanto que o mais legal é sempre estar no ambiente do usuário.
+Novamente isso pode ser feito – dependendo das circunstâncias –
+à distância. Google Hangouts e GoToMeeting são boas ferramentas
+para isso. Compartilhamento de telas pode fornecer muitas informações
+bacanas sobre o uso. Mas tenha em mente novamente que
+estas ferramentas têm limitações.
+Com estas observações, a equipe de design será capaz de ter uma
+34
+base comum para tomada de decisões (especialmente se mais gente
+participar destas observações). Além disso, será possível descobrir
+como o produto se encaixa no contexto mais amplo da vida das
+pessoas, quais objetivos motivam as pessoas a utilizar o produto, e
+quais as tarefas básicas ajudar pessoas atingir esses objetivos. Por
+meio de observações e entrevistas também é possível descobrir
+quais são as experiências que as pessoas acham atraentes e como
+elas se relacionam com o produto que está sendo projetado. Principalmente,
+observar as pessoas usando o produto ou serviço em
+questão permite descobrir os problemas que as pessoas se deparam
+com as suas atuais formas de fazer as coisas.
+Documente estas observações da melhor maneira possível. Vídeo,
+áudio, fotos, texto... O que te ajudar melhor. Lembre-se sempre de
+pedir autorização para os usuários e de deixar claro para eles o que
+será feito com o material coletado.
+Este tipo de pesquisa (observação) é a mais comum e costuma
+fornecer muitas informações. Além dela, há as entrevistas com os
+usuários (que podem ou não ser realizadas em conjunto da observação
+do uso) – feitas individualmente ou em grupo (grupos focais)
+e investigação de produtos semelhantes ou concorrentes.
+Pessoalmente, gosto muito de grupos focais. Eles permitem descobrir
+muita coisa, embora precisem ser realizados fora do ambiente
+de uso do produto e por isso normalmente não incluem investiga-
+ções sobre o uso em si. Por outro lado, o fato de os usuários estarem
+ali à disposição para conversar entre si e com você sobre o produto
+é algo fantástico. Costuma-se tirar bom proveito de entrevistas e
+grupos focais nos extremos (início e fm) do processo de produção
+de uma solução.
+Estes tipos de pesquisa permitem conhecer bem os usuários ao
+ponto de sermos capazes de classifcá-los. Esta classifcação gera
+as personas. Você cria personagens que representam os diferentes
+35
+eventuais públicos de seu produto que reúnem características e
+necessidades de diferentes usuários.
+Estas personagens ganham fchas (como as que fazemos em jogos
+de RPG) com suas características, necessidades, comportamentos,
+hábitos... Usamos estas fchas para conduzir avaliações por meio
+do percurso cognitivo, por exemplo. Ou seja: as personas podem
+(e devem) nos acompanhar até a fnalização do projeto. Caso você
+agende testes com usuários ao longo do projeto, são as personas
+que guiarão quais os tipos de usuários recrutar. Ou seja: não dá
+para fugir das personas.
+Cada projeto vai demandar uma quantidade de personas específca.
+Mas temos que ter em mente que uma delas será a mais importante
+e representará o principal público do seu produto. Há ainda
+autores como Louis Rosenfeld e Peter Morville que argumentam
+que você não deve ter mais do que cinco personas para um projeto,
+sendo que o foco será maior em uma delas e outras duas terão peso
+menor. As restantes teriam peso quase insignifcante. No entanto,
+isso vai depender de você.
+O que é mais do que recomendável guardar é que esta investigação
+sobre os usuários é imprescindível. E que você deve reunir informações
+relevantes sobre o contexto de uso, as características e
+demandas destes usuários para poder ter os subsídios necessários
+para elaborar boas propostas de design.
+36
+37
+5 - Análise
+ou validação?
+Quando falamos em procedimentos de Design de Interação, muita
+gente se perde quando o assunto é análise e validação. E aí cria-se
+uma dicotomia desnecessária entre eles. Como se só fosse permitido
+adotar um tipo ou outro. Normalmente quando me perguntam
+isso, respondo: Por quê não ambos?
+Afnal, não há mandamentos sagrados que impeçam uma equipe
+de desenvolvimento fazer diferentes procedimentos com diferentes
+abordagens.
+Imagino que a esta altura você deve estar se perguntando qual é a
+diferença entre os dois tipos de procedimento. Pois então... Trataremos
+deste tema agora.
+Os procedimentos de Usabilidade são – rapidamente falando –
+38
+divididos em dois tipos: Empíricos e Analíticos. Obviamente, como
+veremos a seguir, as coisas não são tão preto ou branco assim. Mas
+o esforço de classifcação ainda vale.
+Os procedimentos empíricos são aqueles que demandam ensaios e
+testes. Normalmente (mas não obrigatoriamente) envolvem usu-
+ários. Tanto que isso chega a ser sinônimo. Tem muita gente que
+encara como empíricos apenas os procedimentos que envolvem
+usuários. É uma maneira fácil de classifcar e entender a diferença.
+Por outro lado, os procedimentos analíticos não costumam envolver
+usuários (novamente, isso não é obrigatório).
+Um exemplo de procedimento analítico é a Análise Heurística.
+Neste procedimento, um especialista passa pelo sistema fazendo
+uma validação deste sistema perante uma lista de recomendações
+(as heurísticas).
+Um exemplo de procedimento empírico é a realização de testes
+com usuários. Nestes procedimentos, o usuário realiza uma tarefa
+no sistema sendo acompanhado por especialistas que documentam
+esta interação para posterior avaliação.
+39
+No entanto, o que impede que você convoque usuários para fazer
+conjuntamente uma avaliação heurística? Dessa forma, percebemos
+que a escolha de abordagens não é como a escolha do time
+para o qual você vai torcer. É algo mais fuido e menos defnitivo.
+O que importa (sempre) é que tipo de descoberta será feita e o que
+poder-se-á fazer com elas. Ter isso em mente antes de decidir quais
+testes fazer é fundamental para que esta escolha não seja prejudicada.
+E como disse, nada impede que você misture abordagens ao longo
+do projeto.
+Por exemplo, um projeto de redesign pode começar com uma
+análise heurística ou mesmo com um expert review para ajudar a
+estabelecer as metas de DI. Depois, uma vez iniciado o desenvolvimento,
+procedimentos empíricos podem ser conduzidos para
+validação de wireframes, layouts e do protótipo funcional. Para
+fechar, pode-se voltar aos procedimentos analíticos fnalizando os
+procedimentos com uma análise heurística.
+Como já falei algumas vezes, a escolha da quantidade de metodologias
+e dos momentos de aplicação vai depender de cada projeto e
+do perfl de quem estiver conduzindo o projeto.
+Uma coisa, no entanto, que não pode passar em branco é o que
+40
+é gerado com cada um destes procedimentos. Um procedimento
+empírico costuma servir para validação (funciona / não funciona.
+Consegue / não consegue. Erra / acerta). Não é comum termos
+sugestões de ajustes como parte dos resultados de procedimentos
+empíricos. É aí que entra o especialista que, ao avaliar os resultados,
+pode elaborar recomendações.
+Da mesma forma, procedimentos analíticos não são os mais apropriados
+para proporcionar validação. Como o próprio nome diz,
+são procedimentos mais voltados para a análise e compreensão.
+Vão dizer (ou dar resultados) se quesitos são ou não contemplados,
+mas não necessariamente quer dizer que por algum quesito ter sido
+contemplado o usuário vai entendê-lo da maneira apropriada. Para
+isso, é necessário fazer um procedimento empírico.
+Assim sendo, o que recomendo é que você equilibre estes tipos de
+procedimentos em seus projetos. O feedback de um especialista
+é tão valioso quanto as descobertas obtidas com procedimentos
+com usuários. Tudo vai depender daquilo que você objetiva ter no
+procedimento. Voltamos, então, à necessidade de um plano muito
+bem construído no início do projeto. Isso permitirá a você defnir
+e se planejar para realizar os procedimentos mais adequados nos
+momentos recomendados.
+Espero que o conteúdo da sequência proporcione o necessário para
+lhe ajudar a fazer estas escolhas.
+41
+6 - Escolhendo
+metodologias
+Uma das coisas que me deixa embasbacado é a quantidade de metodologias
+que temos à disposição para procedimentos de Design
+de Interação. Para se ter uma ideia, a IDEO tem até um baralho de
+metodologias. A publicação é bem bacana e mostra a pletora de
+opções nesse sentido.
+IDEO Method Cards is a collection of 51 cards representing
+diverse ways that design teams can understand the people they
+are designing for. They are used to make a number of diferent
+methods accessible to all members of a design team, to explain
+how and when the methods are best used, and to demonstrate
+how they have been applied to real design projects.
+htp://www.ideo.com/work/method-cards/
+Obviamente não devemos usar todas em cada um de nossos projetos.
+Na verdade as cartas da IDEO têm sido usadas até por quem
+42
+não é designer no intuito de entender diferentes maneiras de se
+solucionar problemas. De qualquer forma, o que não devemos é
+deixar de usar ao menos uma metodologia (da IDEO ou não) em
+nossos projetos.
+Como a própria descrição da publicação indica, as 51 cartas representam
+as diferentes maneiras disponíveis que o designer pode
+lançar mão para compreender as pessoas para quem está desenvolvendo
+a solução. Aí fca claro que a maior parte destas metodologias
+se aplicam de maneira adequada na fase de descobertas do
+desenvolvimento de um produto interativo. É legal ver também que
+este baralho mostra as diferentes e inusitadas maneiras de se obter
+informações sobre o contexto do uso, as características do público
+e sobre as funcionalidades que um produto interativo deve ter.
+Mas apenas falar do baralho não vai resolver os nossos problemas.
+E apenas saber que existem várias metodologias também não vai
+ajudar muito no desenvolvimento de nossos projetos, certo? Então
+é bom estabelecer um ponto de partida.
+Acho que o jeito mais legal de se escolher as metodologias que
+serão usadas é entendendo o que se quer delas ou com os procedimentos
+que executaremos. Nesse sentido, faço menção ao capítulo
+anterior. Na ocasião, mostrei as diferenças entre metodologias empíricas
+e analíticas. Se você pretende validar um produto ou uma
+funcionalidade, o mais indicado é realizar uma metodologia empí-
+rica e buscar envolver os usuários no processo. Mas que fque bem
+claro que é possível fazer validações com metodologias analíticas.
+Esta abordagem também se faz valer quando você quer verifcar se
+o caminho escolhido para determinada solução é o mais adequado.
+Envolver o usuário e descobrir dele o que você precisa saber será
+em 98% das situações a coisa mais recomendada.
+Quando o tempo não permitir ou o orçamento estiver apertado ou
+ainda se você não tem como chegar aos seus usuários, as metodo-
+43
+logias analíticas vão te dar respostas satisfatórias. Vale dizer também
+que num contexto de desenvolvimento ágil, o envolvimento
+dos usuários é bastante simplifcado e os testes são mais rápidos e
+localizados. Isso pode baratear a coisa.
+Assim sendo, pense naquilo que você precisa. Se envolver valida-
+ção, recomendaria trabalhar com metodologias empíricas. Se for
+apenas uma verifcação, as metodologias analíticas podem ajudar.
+Se além disso tudo você precisa argumentar e defender algum
+ponto para seu cliente, equipe ou chefe, acho que é inegável que o
+envolvimento dos usuários é necessário. Vamos a um exemplo.
+Certa vez fz no início de um projeto um expert review. Em meu relatório
+constatei que algumas seções poderiam ser unidas, simplifcando
+o acesso às informações que os usuários precisavam. Além
+disso, indiquei que o site estava por demais lento e com páginas
+muito pesadas e que demoravam mais do que o normal para serem
+carregadas. Mesmo em conexões de banda larga. Quando mostrei
+o relatório para o cliente, o responsável pela equipe de desenvolvimento
+torceu o nariz dizendo que eu estava fora da realidade. O
+projeto continuou. Numa etapa mais adiante realizamos grupos focais
+e um dos participantes falou (com suas próprias palavras) dos
+problemas que eu havia indicado no meu relatório. Fiquei muito
+feliz com a constatação. E fz questão de mostrar o vídeo com esta
+fala do usuário para o cliente numa reunião seguinte. Dessa forma,
+fcou claro que aquele relatório inicial não era a minha opinião enviesada.
+Era um diagnóstico. E este diagnóstico foi confrmado com
+a fala do usuário.
+Acho que com este exemplo podemos perceber que a escolha das
+metodologias depende do tipo de resposta que eu estou pretendendo
+obter. Assim sendo, o que recomendo a vocês é estabelecer
+o tipo de resposta que esperam em cada momento para que seja
+então defnida a metodologia e a abordagem a ser adotada.
+44
+7 - Protótipos
+Em 2003 Jakob Nielsen abriu os olhos de muita gente para a importância
+dos protótipos de papel. Obviamente não foi o primeiro
+texto escrito sobre o tema. Na verdade ele mesmo já havia falado
+disso anos antes no livro “Projetando Websites”. Além disso, quem
+trabalhava com desenvolvimento já conhecia o termo desde (no
+meu caso) o fnal dos anos 1990 com o “livro do urso polar”.
+Mas acho que a coluna do Jakob Nielse ajudou muito a espalhar
+o termo. Em primeiro lugar porque ela chegava de graça às caixas
+postais de muita gente (e àquela época muita gente assinava a
+newsleter do Jakob Nielsen para saber qual seria o próximo motivo
+para odiar este simpático senhor). Em segundo lugar porque,
+justamente em virtude da grande resistência a Usabilidade, este
+45
+texto acabou surpreendendo os designers, pois falava de algo que
+eles poderiam fazer – indicado pelo Jakob Nielsen – que poderia
+melhorar os seus processos.
+Aliado à coluna do Jakob Nielsen, o livro do Jesse James Garret
+ajudou muito a popularizar o termo. Isso porque este último de
+cara havia caído nas graças dos designers. E seu livro “Os elementos
+da experiência do usuário” falava de se construir protótipos
+antes de partir para o design fnal.
+E então chega a minha vez de falar isso com vocês e – sem medo
+de repetir o que todo mundo que já abordou o tema antes de mim
+(especialmente estes que citei) disse – falo: fazer um protótipo pode
+representar um ganho enorme em seu projeto.
+Os motivos são vários. Em primeiro lugar, falando especifcamente
+de sites e sistemas computacionais com interfaces em telas, você
+poderá ensaiar como as coisas acontecerão em cada momento de
+interação de seu produto antes de efetivamente construir a tela.
+Descobrir algo errado neste momento é como diagnosticar uma
+doença grave logo em seu início. O tratamento pode ser muito mais
+efciente do que se descoberto mais adiante em sua vida.
+Nesse sentido, todo mundo que fala de prototipação reforça que
+você deve insistir em ter uma versão de ensaio de tudo o que for
+fazer e validá-la a fm de ter um passo seguinte mais certeiro e correr
+menos risco de errar.
+Além dessa função mais voltada para a prevenção de erros, um
+protótipo serve também para que você possa ensaiar e experimentar
+formatos e caminhos diferentes. E isso pode representar um
+produto mais bacana e inovador ao fnal do processo.
+Acredito que a elaboração de protótipos ainda se mostra ser uma
+excelente estratégia para conduzir o processo de aprovação junto a
+um cliente.
+46
+Vamos a mais um exemplo:
+Suponha que você (ou sua equipe / sua empresa) foi contratado
+para elaborar um site para um cliente. A primeira coisa a fazer é
+aprovar o projeto de como será este site. Os protótipos começam
+a se mostrar excelentes ferramentas aqui. Na hora de aprovar o
+projeto, mostre um protótipo de baixa fdelidade, e não um layout
+(que é um protótipo de alta fdelidade) e nem sonhe em já mostrar
+uma solução funcional de cara. O motivo? Você separa o processo
+de aprovação da solução efetivamente visual da parte funcional do
+projeto.
+Nos projetos que me envolvo é costume pararmos nos wireframes
+(que são os exemplos mais comuns de protótipos de baixa fdelidade).
+Dessa forma o projeto consiste em uma descrição textual de
+como será a solução acompanhada de três adendos visuais. Dois
+deles podem ser considerados protótipos. O primeiro é o wireframe,
+que representa o protótipo da tela. Claro que você vai fazer
+47
+quantos wireframes forem necessários para demonstrar o padrão
+que você estabeleceu para o projeto e também para deixar o cliente
+a par de como a coisa vai fazer.
+Estes protótipos, como já disse em diferentes ocasiões, podem
+ser construídos usando-se as mais diversas ferramentas. Desde o
+lápis e papel até ferramentas mais arrojadas como o Axure (que
+gera wireframes funcionais e navegáveis). O importante é escolher
+a ferramenta mais adequada para você e sua equipe. Pode ser (e
+eu recomendo) a mesma ferramenta que será usada para fazer os
+layouts. Falo isso porque depois que você aprovar os wireframes
+pode até aproveitar os mesmos documentos para dar continuidade
+ao processo e construir os layouts.
+Assim sendo, no frigir dos ovos começo fazendo meus protótipos
+com lápis e papel e, depois que passo pro Gimp, acabo aproveitando
+a coisa na hora de fazer os layouts (na verdade eu acabo
+repassando os arquivos do Gimp exportados para o formato do
+Photoshop para o designer de interfaces trabalhar. Como você sabe,
+designers costumam ter preguiça do Gimp. Puro preconceito, mas
+o mundo é assim). Costumo recomendar também o Pencil que é um
+add-on para Firefox muito bacana para se fazer wireframes. Para
+mais dicas de ferramentas para auxiliar o processo, consulte este
+site htp://www.uxforthemasses.com/free-ux-tools/
+O outro adendo visual de um projeto que pode ser considerado um
+protótipo é o fuxo de navegação. Este documento mostra a sequ-
+ência de telas pelas quais os usuários terão que passar para realizar
+as tarefas. Neste sentido, o fuxo é um ensaio de protótipo da interação
+do site. O Jesse James Garret se refere a estes fuxos como
+os documentos do design da interação do projeto. Interessante, né?
+Pois bem... Podemos encará-los como tal e também como os protótipos
+da interação pois é observando estas sequências que poderemos
+detectar alguns problemas que só apareceriam no desenvolvimento,
+o que daria mais trabalho para corrigir. Para construí-los,
+48
+muita gente usa o Visio, da Microsof, ou ainda ferramentas de
+mapeamento de ideias, como o fnado Inspiration (que ainda é
+muito útil), ou soluções online como o Balsamiq (que também serve
+para fazer wireframes) ou o Xmind ou o FreeMap. Para mais dicas
+de ferramentas para auxiliar o processo, consulte este site: htp://
+www.uxforthemasses.com/free-ux-tools/
+O terceiro adendo visual (o mapa do site) não é um protótipo, mas
+ajuda bastante (quando somado aos wireframes e aos fuxos de navegação)
+a explicar visualmente para um cliente como o site será.
+Obviamente você só vai inserir em um projeto e consequentemente
+apresentar um protótipo para o cliente (fuxo e wireframe) depois
+de validar estes documentos com procedimentos que podem ser
+desde um simples percurso cognitivo ou um teste com usuários.
+Ao fazer isso você estará separando a parte funcional da forma na
+hora de aprovar um projeto. Minha experiência mostra que isso
+ajuda na aprovação.
+Somente depois de ter os wireframes e fuxos aprovados (normalmente
+no momento que o projeto é mostrado para o cliente) é que
+sigo em frente com a elaboração dos layouts. Novamente reforço:
+separar estas aprovações é importante pois você reduz o risco de
+o cliente reprovar um projeto porque ele não soube dizer que na
+verdade o que o incomodava era a cor do layout. E não espere que
+um cliente saiba separar as coisas.
+Os layouts, por sua vez, constituem um novo patamar em seus protótipos.
+Sobre eles, pouco tenho a dizer. Mas dando sequência ao
+processo que comecei a ilustrar, é legal entender que uma vez que
+separada a sua aprovação do restante do projeto, os resultados costumam
+ser melhores. Em primeiro lugar porque o papel do wireframe
+(protótipo de baixa fdelidade) junto ao cliente foi contemplado.
+Ele deu uma prévia de como as coisas serão. Nesse sentido, quando
+49
+o cliente visualizar o layout, já estará devidamente preparado.
+Outra coisa que deve fcar clara é que além de ser uma representa-
+ção fdedigna do que será o sistema ao fnal do processo e de servir
+como peça de aprovação visual para o cliente, o layout é um protótipo
+que pode ser testado. Nesse sentido, devemos proceder da
+mesma forma que fzemos com os wireframes. Os testes podem ser
+feitos adotando-se metodologias empíricas ou analíticas. Tudo vai
+depender do seu tempo e orçamento.
+Por fm, gostaria de falar sobre os protótipos funcionais, que representam
+efetivamente o sistema em funcionamento. Eles têm grande
+importância no processo pois é através deles que você fará os
+testes fnais de seu sistema. Tanto com usuários quanto os testes de
+performance e de funcionamento do sistema em si. Eles costumam
+fcar prontos bem no fnal do processo e para estes é imprescindí-
+vel que você conduza testes com usuários para descobrir as últimas
+arestas que devem ser aparadas. Ah, e antes que eu me esqueça,
+jamais deixe para fazer testes apenas neste momento. Isso porque
+quando descobrimos algo tão tarde assim, normalmente os problemas
+são remendados da pior forma possível e os resultados acabam
+sendo bem aquém do esperado.
+50
+8 - Validando layouts
+Você já deve ter percebido que os nossos capítulos têm fcado mais
+curtos, não é? Isso se dá por alguns motivos. Em primeiro lugar,
+pelo fato de que trabalhando com metodologias de design de interação,
+nossos projetos vão fcando mais fáceis à medida em que o
+tempo vai caminhando. Isso quer dizer que as primeiras etapas são
+sempre mais complicadas e à medida em que você vai avançando
+no tempo, as coisas vão fcando mais fáceis. Uma outra razão é
+que quando adotamos estas metodologias cada nova etapa valida a
+anterior e – se você fez uma etapa anterior bem feitinha – a etapa
+seguinte será sempre mais tranquila.
+A mesma coisa se aplica a esta etapa. Se você veio de um processo
+em que os wireframes foram validados (com ou sem a participação
+dos usuários), é provável que seus layouts estejam com poucos problemas.
+Mas nunca custa validá-los para se certifcar disso, não é?
+Uma coisa muito bacana que devemos fazer ao validar layouts é
+51
+algo que devemos fazer para qualquer validação, na verdade... Precisamos
+estabelecer as metas deste procedimento. Vamos validar
+o quê? Quais serão os nossos parâmetros? O quê esperamos em
+termos de rendimento e performance? Claro, também será defnido
+o que (qual aspecto do) no layout está sendo validado.
+Estas devem ser as metas de usabilidade que normalmente foram
+estabelecidas lá atrás e os wireframes já foram feitos seguindo estas
+diretrizes. Se você tem difculdades para estabelecer estas metas,
+uma dica que costumo dar é olhar uma lista de heurísticas (as heurísticas
+do Nielsen ou as da Cláudia Dias podem ser um excelente
+ponto de partida, mas como já disse também, basta dar uma googlada
+que você encontrará heurísticas para praticamente todo tipo
+de sistema interativo).
+Então... Uma vez revisadas as suas metas, você terá mais do que
+pistas para estabelecer como deverão ser validados os seus layouts.
+Dependendo do estado das suas metas e das características de seu
+projeto, nada impede que você resolva validar seus layouts com a
+realização de um expert review ou uma análise heurística.
+Metodologias analíticas não são recomendadas apenas quando
+houver alguma questão de performance ou algo que demande a
+participação de um usuário real nos procedimentos. E você descobre
+isso verifcando as suas metas de usabilidade. Se este é o seu
+caminho, perceba que é necessário ter a maior quantidade de telas
+prontas pois sem elas você não consegue conduzir as avaliações
+(análise heurística ou expert review) a contento.
+O passo seguinte é defnir qual será a abordagem da validação.
+Como já deixei claro anteriormente, tendo a recomendar a condu-
+ção de análise heurística. O motivo é simples: você corre o risco de
+deixar as suas preferências pessoais interferirem no processo de
+um expert review, e isso pode comprometer a sua avaliação.
+52
+Consulte a lista original de heurísticas de Nielsen ou qualquer
+outra lista que você já tiver preparada ou ainda que for mais adequada
+ao seu tipo de projeto. Como já disse, há muito material na
+comunidade internacional de design de interação e em repositórios
+como o da IXDA e ACM sobre o assunto. Há listas de heurísticas
+para praticamente todo tipo de projeto interativo. Faça as adequa-
+ções mais relevantes na lista para que sua avaliação seja certeira e
+monte o formulário.
+Costumo adotar um modelo de formulário que tem mais ou menos
+o seguinte aspecto: são quatro colunas de informações na sequência
+da exibição da heurística ampla e da questão específca. Uma
+coluna é reservada para o sinal que mostra se a heurística é ou não
+contemplada. A segunda coluna é reservada para colocarmos a gravidade
+do erro. Na terceira coluna vão as observações do avaliador
+e, na quarta coluna – no caso de detecção de um problema – qual
+o impacto deste problema. Esta informação é crucial para a parte
+fnal.
+Se suas metas, por outro lado, consistem em verifcar compreensão
+de usuários, tempo de realização de procedimentos e processamento
+de informações por parte dos usuários, pode ser que você não
+consiga escapar de ter que fazer procedimentos empíricos. Na verdade,
+é bem recomendado que você faça isso mesmo. Para tanto, é
+bem importante que você tenha ao menos três fuxos (este número
+vai variar, dependendo de seu projeto e também do que você quer
+avaliar) completos para que os usuários consigam passar pelas telas
+nos procedimentos e você consiga obter mais informações nos
+testes. Nem preciso dizer que você precisa que os conteúdos sejam
+fdedignos e que tudo esteja o mais próximo de fnalizado possível.
+É importante também que estes fuxos sejam aqueles cruciais para
+seus sistema. De nada adiantará ter fuxos de cadastro se o que
+você precisa testar não é o processo de cadastro, por exemplo.
+53
+Como já disse antes, estes fuxos podem estar representados em
+papel ou em telas navegáveis. Você pode construir estas telas navegáveis
+usando uma ampla opção de sofware – desde o Fireworks
+até o Axure – para realizar os testes. Tenha em mente, no entanto,
+que esta etapa não é e nem deve ser confundida com a construção
+de um sistema e estes protótipos não são ainda protótipos funcionais.
+Assim sendo, não se espera que a esta altura você tenha um cadastro
+funcionando ou mesmo um serviço de buscas dando resultados
+verdadeiros. Nesta etapa, sua preocupação é verifcar questões
+relacionadas a parte do design visual do seu projeto e como as telas
+transmitem informações para seus usuários. As funcionalidades do
+sistema são tratadas aqui num nível intermediário. Para a valida-
+ção fnal do sistema ele precisa estar operacional. A esta altura,
+imagina-se que seu sistema não esteja neste ponto ainda.
+Pois bem, com os fuxos em mãos, é hora de realizar os testes.
+Organize-se para o teste. Tenha também as tarefas em mãos e um
+roteiro validado de teste. Selecione os usuários e conduza o procedimento
+focando na verifcação das metas propostas. Seus testes
+podem ser feitos local ou remotamente. Em procedimentos locais,
+fazendo com papel ou com telas navegáveis, não se esqueça de
+documentar tudo o que acontecer nas sessões; especialmente as
+reações dos usuários. Caso os procedimentos sejam feitos remotamente,
+procure – se possível – acompanhar o andamento (via tela
+compartilhada e/ou recursos de telepresença). Na impossibilidade
+de acompanhar os procedimentos ao vivo, estude bem os vídeos
+das interações.
+Analisar os resultados de testes realizados com usuários para
+validação de layouts não é nada muito difícil. Como espera-se
+que você tenha uma listagem das coisas que pretende testar (por
+exemplo: “será que as pessoas vão entender esta mensagem?” ou
+“Quanto tempo o usuário levará para realizar o procedimento X”),
+54
+a validação será bem simples (“entenderam” ou “não entenderam”.
+“Os usuários levaram Y segundos para fazer o procedimento”).
+O segredo aqui é ter uma amostra confável de usuários. E por
+amostra confável entenda que não estou me referindo a quantidade,
+mas sim qualidade dos seus recrutados. Quanto mais fel for
+a sua amostra – referindo-se às características dos usuários – melhor.
+Da mesma forma que analisar será algo não muito difícil, escrever
+um relatório de conclusões (é bacana ter isso em mãos para eventual
+justifcativa para o cliente ou setor) será algo simples e direto.
+Use e abuse dos recursos visuais e atenha-se a metas identifcadas
+e a questões abordadas pelo teste. Muito importante é você ter
+claros os motivos para eventuais alterações. Então, se no teste você
+descobrir que algo precisa ser alterado, o mais interessante é proceder
+com a alteração e novamente realizar um teste para validar esta
+55
+alteração. Claro que você vai fazer isso dentro de seu
+cronograma e orçamento.
+Fazendo isso, eu posso te garantir que muitos confitos com clientes
+podem ser minimizados. Além disso, você terá a certeza de que as
+coisas estarão do jeito que estarão em relação a seu projeto por motivos
+validados (e não por causa da opinião do designer). Mais importante
+ainda, isso mostra que você fez o que fez pensando em quem vai usar o
+seu sistema.
+Garanto que, se foram feitos procedimentos anteriores, é provável que
+aqui só ocorram validações e pequenas indicações de correção. Isso
+será um indicativo de que você mandou mais do que bem!
+E não deixe de conferir a seguir os meandros e procedimentos envolvendo
+os testes com usuários.
+56
+9 - Testes com usuários
+Uau! Estamos quase no fm! Mas ainda falta muita coisa para
+falar... Acho que isso deixa uma dica do que vem por aí, não é?
+Bem, falando nisso... outra coisa que eu fquei pensando agora é
+que algumas referências adicionais sobre parte dos temas abordados
+precisam ser repassadas. Deixei alguns textos específcos para
+download aqui: htps://copy.com/dgP1V8iWjywv . Coisa tranquila
+de ler, mas que ajuda muito a entender os impactos da adoção de
+procedimentos de DI. Para baixar este material, use a senha “agosto”
+(tudo em caixa-baixa, ok?).
+Bem, mas vamos ao conteúdo deste capítulo... Agora o nosso tema
+é “testes com usuários”. Como nas últimas seções deste livro, este
+é um tema de aplicação direta e por isso mesmo serei bem objetivo.
+Costumamos fazer testes com usuários sempre que temos
+algum deliverable (algo entregável, tangível e passível de validação)
+pronto. Isso pode acontecer até mesmo antes de o projeto começar
+(por exemplo, testando o sistema atual; antes de pensarmos em
+qualquer alteração. Este tipo de teste, embora opcional, é bas-
+57
+tante elucidador e ajuda muito a descobrir qual caminho tomar
+num processo de redesign por exemplo. Se houver tempo e verba,
+recomendo fazer). Descobrimos coisas muito bacanas com testes
+e normalmente, decisões importantes são tomadas com um grau
+maior de certeza de acerto quando embasadas em procedimentos
+que envolvem usuários.
+Enfm... Você pode chamar usuários para testar seus protótipos em
+fase inicial (wireframes ou protótipos de papel), na etapa de fnalização
+de layouts ou quando você já tem um protótipo funcional
+pronto. Como já disse algumas vezes, tudo vai depender de sua
+verba e cronograma.
+Seguindo o que o Jared Spool fala (e a gente deve sempre ouvir o
+que ele diz), fazer testes com usuários deve ser simples e fácil. Se
+complicarmos muito (aí quem nos ajuda com estas ideias é o Steve
+Krug) acabamos não fazendo a coisa. Procure sempre deixar o
+usuário bem confortável e – para coletar os dados – apenas preste
+atenção no que ele faz com o sistema. Anote tudo. Tudo mesmo.
+Como ele reagiu a cada clique ou nova tela, qual foi a interpretação
+que ele fez a cada nova instrução, etc...
+Procure fazer isso sem atrapalhá-lo, apenas anotando. Não interaja
+com ele no momento do teste, apenas observe. Isso costuma ser
+bastante efcaz quando estamos fora de nosso escritório e com um
+protótipo funcional. Aí temos a condição de testar o sistema funcionando
+no ambiente do usuário.
+Embora nem sempre seja assim, dá para continuar seguindo os
+ensinamentos do jared Spool. A premissa básica é: tudo o que você
+precisa é observar como o sistema funciona quando o usuário usa
+o sistema e como o usuário responde ao sistema. Fazendo isso, dá
+para descobrir muita coisa.
+Claro que para fazer o teste, como já conversamos na oitava sema-
+58
+na, é preciso ter fuxos prontos (mesmo que sejam micro interações)
+para que o usuário consiga percorrer os caminhos que você está
+construindo. Além disso você precisa estabelecer o que será testado
+e quais os parâmetros para o teste. Tendo isso defnido, seu trabalho
+de análise será sempre muito mais tranquilo.
+Também é recomendado que você procure repetir (se possível)
+com máxima fdelidade o ambiente e contexto de uso. Se conseguir,
+será ótimo. Mas não é obrigatório... Por isso, muita gente
+recomenda ir até o usuário para conduzir os testes. Quando não dá
+para fazer isso, uma sala de tamanho médio resolve o problema.
+Não há necessidade de espelho falso e nem de ante sala. Isso só se
+faz necessário se você for realizar grupos focais. O que você precisa
+é de espaço para você acompanhar o teste, o usuário usar o sistema
+em questão e – também se possível – uma câmera registrar a coisa
+num tripé.
+Você captará o vídeo da câmera (posicionada preferencialmente
+para registrar o rosto do usuário) que pode ser até uma webcam,
+mas neste caso, tome conta da máquina pois você estará captando
+duas trilhas de vídeo e isso pode demandar muito processamento.
+Se for uma câmera externa, sem problemas. Falei que são duas
+trilhas de vídeo pois além da câmera que registra o usuário, você
+pode (recomendado) registrar o vídeo da tela, mostrando a interação
+em si. Para isso você pode usar sofware como o camtasia
+(techsmith.com/camtasia.html), BB Flashback (bbsofware.co.uk/
+bbfashback.aspx), camstudio (camstudio.org), kazam (launchpad.
+net/kazam) ou qualquer outro de sua preferência.
+O camtasia é bem, bacana, mas tem um custo. O mesmo com o BB
+Flashback. Tanto o camstudio quanto o kazam são livres. Eu uso
+muito o kazam. O mesmo fabricante do camtasia faz também o
+Morae, que é uma mão na roda (claro que tem um custo mais alto).
+Este sofware sincroniza até três trilhas de vídeo, ajudando muito
+no trabalho de análise. Mas se você não tem verba, não há proble-
+59
+ma. Com um pouco de experiência você conseguirá sincronizar
+essas duas trilhas de vídeo em seu editor preferido ou você poderá
+ainda fazer a análise em separado (mais trabalhoso, mas viável).
+Para você que se perguntou o motivo de três trilhas de vídeo no
+morae, aí vai a resposta: você pode deixar uma câmera mostrando
+o rosto do usuário e outra em suas mãos. A terceira trilha seria a da
+tela.
+Se você não tem câmera, não há o que temer. Grave ao menos a
+tela do computador e tente registrar ao menos o áudio (pode ser até
+com o gravador de som do celular) para você sincronizar as trilhas
+num editor de vídeo e tentar entender o que estava acontecendo
+quando aconteceram as coisas mostradas na tela. Graças à popularização
+dos equipamentos de foto e vídeo, esta estrutura não é cara.
+Pelo contrário. E por mais que representa um investimento, fque
+tranquilo pois ele se paga rapidinho.
+Procure não ter ninguém extra tomando nota neste procedimento.
+Apenas você dará conta do recado. Mais gente costuma inibir o
+usuário e tumultua o processo.
+Monte um roteiro para o teste. Este roteiro deve constar a recepção
+do usuário, as diretrizes do que você dirá para ele (é importante
+deixar o usuário tranquilo e ciente de que não é ele que está sendo
+testado, mas sim que ele está te ajudando a testar um sistema), a
+explicação dos procedimentos que serão realizados, e a fnalização
+do teste. Tem gente que gosta de fazer uma pequena entrevista ao
+fnal do processo. Isso pode ser bem interessante para você arrematar
+eventuais arestas que tenha percebido durante o teste. Por fm,
+você remunera o usuário (falaremos disso daqui a pouco) e fecha a
+sessão.
+A realização das tarefas é importante também. Procure ter estas
+tarefas relacionadas e – preferencialmente escritas – claras para o
+usuário. Explique para ele que ele terá que fazer tais tarefas, peça
+60
+que ele leia com atenção e confrme se ele compreendeu as instruções
+antes de começar. Uma vez que ele começou, não interaja
+com ele. Se ele te perguntar algo, não dê a resposta. Apenas peça
+para ele agir como se agisse se se deparasse com aquela situação no
+contexto de uso do sistema. Não custa repetir: anote tudo!
+Vale a pena fazer uma simulação do teste antes de partir para a
+execução para verifcar qual a duração média das tarefas e do teste
+como um todo. Um teste muito longo costuma ser cansativo e o
+rendimento do usuário cai após uns 40 minutos de sessão. Além
+disso, fca muito caro fazer testes longos (mais tempo para cada
+usuário = mais tempo no geral). É bacana também ver se está tudo
+funcionando direitinho (câmera, computador, registro de tela, etc)
+para não ser surpreendido e acabar frustrado.
+Sobre recrutamento e remuneração de usuários, algumas dicas importantes.
+Embora o Jakob Nielsen fale que não é necessário testar
+com mais do que cinco usuários, isso não deve ser levado a ferro
+e fogo. Mas também não quer dizer que você precisa de validação
+estatística com margem de erro de 0,1% para que os testes sejam
+válidos.
+Eu costumo recomendar que duas ou três pessoas que representem
+cada persona é mais do que o sufciente para encontrar a maior
+parte das questões. Para recrutá-las há empresas de pesquisa de
+mercado especializadas nesse serviço ou então você pode verifcar
+se o seu cliente tem um cadastro de usuários e pode te passar
+alguns contatos. Dê a ele os parâmetros e procure as pessoas. No
+recrutamento, explique a coisa de forma clara e procure explicar
+que a participação do usuário é importante para que seja construí-
+do um serviço mais apropriado para as suas necessidades.
+Há controvérsias com relação a remuneração. Eu costumo falar de
+remuneração apenas depois que a pessoa aceitou fazer parte. Aí
+eu meio que me certifco de que as pessoas que estão participando
+61
+não estão afm apenas de uma grana ou um presente. Como uma
+sessão costuma durar aproximadamente uma hora, pense em remunerar
+seu usuário com o pagamento de uma hora de serviço.
+Como no Brasil a gente não costuma falar nossos salários e nem saber
+certinho (pelo menos muita gente é assim) saber quanto ganha
+por hora, remuneração em dinheiro é pouco usada. No entanto,
+não é desrecomendado. Outra forma de recompensar o usuário é
+dando a ele um presente pela participação. Eu já dei cestas de café
+da manhã, vale-almoço em churrascaria e vale presente em lojas de
+departamento. Este aspecto é livre e – como quase todo o resto –
+depende de seu orçamento. O usuário te prestou uma baita ajuda e
+o mínimo que você pode fazer é remunerá-lo por isso.
+Voltando ao roteiro do teste, pense em tarefas em que seja possível
+extrair o máximo possível de feedback do uso do sistema. Claro,
+estas tarefas devem contemplar o que você especifcou para parametrizar
+seu teste.
+O processo de análise é simples. Se você tomou nota direitinho,
+saberá quais pontos do vídeo aconteceram os problemas (sacou a
+dica?) vá para estes pontos e tente entender o que ocorreu. Se possível,
+edite o vídeo para acrescentar ao relatório. Especialmente se
+for importante para mostrar como as coisas estão dando errado em
+um procedimento específco, por exemplo. Escreva seu relatório
+de recomendações de forma objetiva e direta. Aponte os problemas
+(use e abuse de trechos de vídeo e captura de telas) e faça as recomendações
+de correção.
+Ah, ao fnal de tudo, vale a pena agradecer os usuários quando o
+sistema fcar pronto. Mande a eles um e-mail de agradecimento e
+mostrando o link do projeto fnalizado e no ar (no caso de um site)
+dizendo que a ajuda dele foi importante para o sistema estar do jeito
+que está e – claro – coloque-se aberto a receber feedback extra.
+Claro que esta etapa fnal é completamente opcional, mas mostra
+62
+atenção e agradecimento aos que te ajudaram a fechar um ciclo de
+DCU.
+63
+10 - Monitoramento
+E eis que chegamos ao último capítulo de nosso livro!
+Espero que ao longo deste livro o conteúdo que trabalhei aqui tenha
+sido útil a você. E reforço que este é apenas um livro introdutório.
+Estamos arranhando o tema.
+Pra fechar então, vamos falar de monitoramento.
+Bem, monitorar é acompanhar de perto, ver o que está acontecendo.
+No caso de um produto interativo, podemos fazer isso de diferentes
+maneiras. Pense num app. por exemplo, podemos monitorar
+o uso do sistema se ele, por exemplo, fzer requisições ao servidor
+sempre que for acionado. Outra maneira, é acompanhar o que é
+discutido sobre o app. na loja de aplicativos. Ler os reviews, entender
+os eventuais problemas reportados ali. Falando em problemas
+reportados, operacionalizar um canal para ouvir questões relacionadas
+ao app. é uma excelente maneira de entender quais são os
+problemas enfrentados pelos usuários. Olhar fóruns de discussão
+64
+também é interessante e acompanhar os reviews de sites especializados
+pode ser também um tanto quanto esclarecedor.
+Como vocês podem ver, este monitoramento consiste em acompanhar
+como o sistema em questão está sendo usado e o que estão
+dizendo sobre o seu uso. A gente pode descobrir muita coisa importante
+que eventualmente deixamos passar no desenvolvimento ou
+ainda identifcar diferentes maneiras que as pessoas usam nossos
+serviços e sistemas interativos. Coisas para as quais nem imaginamos
+usar aquilo que fzemos. Entender estes usos e as particularidades
+dos usuários, seus problemas e como eles os resolvem é
+crucial para propormos melhorias no futuro.
+Em se tratando de um site, há outras maneiras bem bacanas que
+complementam as que falei anteriormente. Você pode (e deve)
+acompanhar as estatísticas de acesso ao site e entender o que está
+acontecendo nas visitas dos usuários. A ferramenta mais conhecida
+para isso é o Google Analytics, mas ela não é a única. O GA
+fornece uma pancada de dados sobre os acessos ao seu site. Desde
+as origens dos usuários, os caminhos que estão percorrendo na
+estrutura, para onde eles vão e assim sucessivamente.
+Outra ferramenta bem legal que costumo recomendar é o CrazyEgg.
+Esta outra ferramenta é semelhante ao Google Analytics, mas
+ela tem alguns diferenciais. O primeiro deles é que é uma ferramenta
+paga. Mas isso pode valer muito a pena porque ela fornece
+algumas informações bem legais. As duas principais são o mapa
+de calor – que vai mostrar por onde passa o ponteiro do mouse
+dos usuários (o que dá uma pista de onde eles estão olhando) – e a
+outra é um vídeo que mostra o que cada usuário fez no site. Isso é
+genial e é quase como ter um Camtasia trabalhando o tempo todo
+para você.
+Fazendo este acompanhamento de perto você vai compreender
+muito bem o que está acontecendo com o sistema e poderá fazer
+65
+com muita facilidade (acompanhando em tempo real) experimentos
+com a interface. Fazer testes a/b fca bastante tranquilo se você
+tem estas ferramentas de acompanhamento a seu dispor.
+Outra maneira ainda é conduzir sessões de grupo focal. O investimento
+é maior, pois demanda recrutar e remunerar usuários além
+de providenciar um local, assistentes e etc, mas vale a pena pois
+você terá a oportunidade de conversar com usuários para obter
+percepções e compreender melhor como eles usam e como eles se
+apropriam do sistema que você fez.
+Uma alternativa bem barata de fazer este tipo de acompanhamento
+é operada pelo Google via Hangouts. Frequentemente os gestores
+de comunidades dos produtos do Google recrutam usuários destes
+produtos para participarem de Hangouts para falarem de suas
+experiências com o produto. Este tipo de iniciativa é bem barata e
+proporciona um canal de comunicação bem legal do usuário com
+a equipe de desenvolvimento. Nestes hangouts os usuários podem
+fazer pedidos de funcionalidades e descrevem os eventuais problemas
+que enfrentam com o produto.
+Ou seja: informação vai chegar de tudo quanto é fonte. Você precisa
+apenas se organizar e manter-se aberto para receber estes
+inputs. É muito importante ter esta abertura e também a maturidade
+de entender que mesmo que você tenha lançado o produto,
+ele nunca está pronto. O ciclo de desenvolvimento é iterativo e não
+tem fm. Você não pode achar que um projeto (especialmente se ele
+for seu, não um serviço feito para um cliente que você nunca mais
+vai atender) não acaba. O desenvolvimento de um produto interativo
+é um trabalho que não tem fm.
+Diferente de nosso livro, que está acabando com este capítulo. É
+hora de encerrar este ciclo, né? Para mim a experiência foi muito
+boa. Espero que aquilo que foi apresentado ao longo destas páginas
+tenha sido útil para você. Agradeço a todos que acompanharam ao
+66
+longo deste livro, aos membros de nossa comunidade e a todos os
+que colaboraram no processo. A coisa não acaba aqui. Espero continuar.
+Mas para saber que assuntos tratar no futuro, preciso que
+vocês comentem e indiquem quais são as suas necessidades em se
+tratando de Design de Interação. E não deixe de dar o seu pitaco no
+conteúdo do curso, do site e em nossas discussões, ok? A interação
+continua em nossa comunidade! Nos vemos em breve!
+REFERÊNCIAS
+Alan Cooper, Robert Reimann e David Cronin - About Face 3
+Caio Cesar G. Oliveira e Daniel P. Alenquer - Projeto original da Pós-Graduação em Design de Interação da PUC Minas
+Christina Wodtke - Information Architecture: Blueprints for the web
+Claudia Dias - Usabilidade na web
+Donald Norman - The design of everyday things
+Donna Booth - Product usability testing in a laboratory
+D. Wallach and S.C. Scholz - User-Centered Design: Why and How to Put Users First in Sofware Development
+Gillian Crampton Smith - in: Designing Interactions
+Jakob Nielsen e Rolf Molich - Heuristic evaluation of user interfaces
+Jakob Nielsen - Paper prototyping
+Jakob Nielsen - Projetando websites
+Jakob Nielsen - Usability Engineering
+Jefrey Rubin - Handbook of Usability Testing: How to Plan, Design, and Conduct Efective Tests
+Jennifer Preece, Yvonne Rogers e Helen Sharp - Design de Interação
+Jesse Sames Garret - The Elements of User Experience
+John D. Gould and Clayton Lewis - Designing for Usability: Key Principles and What Designers Think
+Peter Morville e Lous Rosenfeld - Information Architecture for the WWW
+Raquel Prates - Avaliação de Interfaces de Usuário
+Steve Krug - Não me faça pensar
+Steve Krug - Rocket Surgery made easy
+Walter Cybis - Ergonomia e Usabilidade
+
