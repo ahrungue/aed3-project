@@ -50,6 +50,14 @@ public class HuffmanEngine {
                 //Read one char from the file and check to check the occurrence frequency
                 Character c = ((char) bufferedReader.read());
 
+                //Windows line \r\n, will be considered \n
+                if( c =='\r' ){
+                    char tmp = ((char) bufferedReader.read());
+                    if( tmp == '\n' ){
+                        c = '\n';
+                    }//end if
+                }//end if
+
                 //case when the character exists in the map
                 if( characterFrequencyMap.get(c) != null ){
                     Integer frequency = characterFrequencyMap.get(c);
@@ -138,8 +146,8 @@ public class HuffmanEngine {
      * @param huffmanTree - Arvore de huffman
      * @return - tabela com o codigo a ser substituido por cada caracter.
      */
-    public Map<String, String> buildHuffmanCodeTable(HuffmanTree huffmanTree){
-        HashMap<String, String> map = new HashMap<String, String>();
+    public Map<Character, String> buildHuffmanCodeTable(HuffmanTree huffmanTree){
+        HashMap<Character, String> map = new HashMap<>();
         buildHuffmanTable(map, huffmanTree.getRoot(), "");
         return map;
     }//buildHuffmanCodeTable()
@@ -153,10 +161,10 @@ public class HuffmanEngine {
      * @param node - Nodo atual
      * @param path - Caminho acumulado
      */
-    private void buildHuffmanTable( Map<String, String> map, HuffmanTree.HuffmanNode node, String path ){
+    private void buildHuffmanTable( Map<Character, String> map, HuffmanTree.HuffmanNode node, String path ){
 
         if( (node != null) && node.isLeaf() ){
-            map.put(node.getChars(), path);
+            map.put(node.getChars().charAt(0), path);
         }else if( node != null ){
             buildHuffmanTable(map, node.getLeftNode(),  path + "0" );
             buildHuffmanTable(map, node.getRightNode(), path + "1" );
@@ -164,7 +172,7 @@ public class HuffmanEngine {
 
     }//end buildHuffmanTable()
 
-    public void  huffmanCompression( String fileName, Map<String, String> huffmanCodeMap ){
+    public void  huffmanCompression( String fileName, Map<Character, String> huffmanCodeMap ){
         //File Object to be readed
         File originalFile = new File(fileName);
         File compressedFile = new File(System.getProperty("user.home") + File.separator + originalFile.getName() + ".compressed");
@@ -178,7 +186,16 @@ public class HuffmanEngine {
 
                 //Read one char from the file and check to check the occurrence frequency
                 Character c = ((char) bufferedReader.read());
-                String code = huffmanCodeMap.get(c.toString());
+
+                //Windows line \r\n, will be considered \n
+                if( c =='\r' ){
+                    char tmp = ((char) bufferedReader.read());
+                    if( tmp == '\n' ){
+                        c = '\n';
+                    }//end if
+                }//end if
+
+                String code = huffmanCodeMap.get(c);
                 byte[] compressedBytes = new byte[code.length()];
                 for( int i = 0; i < code.length(); ++i ){
                     char currentChar = code.charAt(i);
@@ -195,8 +212,8 @@ public class HuffmanEngine {
             e.printStackTrace();
         }//end try-catch
 
-        System.out.printf("Tamanho arquivo original: %d%n", originalFile.length());
-        System.out.printf("Tamanho arquivo compactado: %d%n", compressedFile.length());
+        System.out.printf("%n%nTamanho arquivo original:   %d%n", originalFile.length()/1024);
+        System.out.printf("Tamanho arquivo compactado: %d%n", compressedFile.length()/1024);
 
     }//end huffmanCompression()
 
