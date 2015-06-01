@@ -26,6 +26,14 @@ public class HuffmanEngine {
 
     }//end execute()
 
+    /**
+     * <p>
+     * Montar a tabela de frequencias de cada caracter, a funçao ira ler o arquivo e retornar uma tabela com o
+     * numero de ocorrencias de cada caracter do texto.
+     * </p>
+     * @param fileName - Nome completo do arquivo.
+     * @return Tabela de frequencias da ocorrencia dos caracteres.
+     */
     private Map<Character, Integer> makeFrequencyTable(String fileName){
 
         //Create the hash table that will be inserted the character frequency
@@ -91,6 +99,14 @@ public class HuffmanEngine {
     }//end getNodeList()
 
 
+    /**
+     * <p>
+     * Montar a arvore de huffman com base na pilha ordenada de nodos {@link corn.utils.HuffmanTree.HuffmanNode}
+     * onde cada possui a frequencia de ocorrencia de um caracter no texto lida.
+     * </p>
+     * @param stack - Pilha Ordenada de nodos HEAD e sempre o menor elemento
+     * @return - arvore que representa o codigo a ser trocado pelo caracter.
+     */
     public HuffmanTree buildTree( Stack<HuffmanTree.HuffmanNode> stack ){
 
         HuffmanTree huffmanTree = null;
@@ -113,5 +129,76 @@ public class HuffmanEngine {
         return huffmanTree;
 
     }//end buildTree()
+
+    /**
+     * <p>
+     * Funçao para a partir da arvore de huffman retornar uma tabela com o caminho de cada caracter na arvore
+     * para que a compressao possa ser realizada utilizando como base a tabela retornada.
+     * </p>
+     * @param huffmanTree - Arvore de huffman
+     * @return - tabela com o codigo a ser substituido por cada caracter.
+     */
+    public Map<String, String> buildHuffmanCodeTable(HuffmanTree huffmanTree){
+        HashMap<String, String> map = new HashMap<String, String>();
+        buildHuffmanTable(map, huffmanTree.getRoot(), "");
+        return map;
+    }//buildHuffmanCodeTable()
+
+    /**
+     * <p>
+     * Funçao recursiva para que todos os caminhos da arvore sejam percorridos e a medida que o caminho de cada
+     * folha é encontrado esse e salvo na tabela recebida por parametros.
+     * </p>
+     * @param map - Map com caminho de cada folha
+     * @param node - Nodo atual
+     * @param path - Caminho acumulado
+     */
+    private void buildHuffmanTable( Map<String, String> map, HuffmanTree.HuffmanNode node, String path ){
+
+        if( (node != null) && node.isLeaf() ){
+            map.put(node.getChars(), path);
+        }else if( node != null ){
+            buildHuffmanTable(map, node.getLeftNode(),  path + "0" );
+            buildHuffmanTable(map, node.getRightNode(), path + "1" );
+        }//end if-else
+
+    }//end buildHuffmanTable()
+
+    public void  huffmanCompression( String fileName, Map<String, String> huffmanCodeMap ){
+        //File Object to be readed
+        File originalFile = new File(fileName);
+        File compressedFile = new File(System.getProperty("user.home") + File.separator + originalFile.getName() + ".compressed");
+
+
+        //Autocloseable object
+        try( BufferedReader bufferedReader = new BufferedReader(new FileReader(originalFile));
+                RandomAccessFile randomAccessFile = new RandomAccessFile(compressedFile,"rw") ){
+
+            while( bufferedReader.ready() ){
+
+                //Read one char from the file and check to check the occurrence frequency
+                Character c = ((char) bufferedReader.read());
+                String code = huffmanCodeMap.get(c.toString());
+                byte[] compressedBytes = new byte[code.length()];
+                for( int i = 0; i < code.length(); ++i ){
+                    char currentChar = code.charAt(i);
+
+                    compressedBytes[i] = (byte)( currentChar == '0' ? 0 : 1 );
+
+                }//end for(i)
+
+                randomAccessFile.write(compressedBytes);
+
+            }//end while
+
+        }catch( IOException e ){
+            e.printStackTrace();
+        }//end try-catch
+
+        System.out.printf("Tamanho arquivo original: %d%n", originalFile.length());
+        System.out.printf("Tamanho arquivo compactado: %d%n", compressedFile.length());
+
+    }//end huffmanCompression()
+
 
 }//end class HuffEngine

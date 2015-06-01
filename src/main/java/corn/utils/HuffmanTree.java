@@ -78,24 +78,6 @@ public class HuffmanTree {
         );
     }//end HuffmanNode()
 
-    public Map<String, String> buildHuffmanCodeTable(){
-
-        HashMap<String, String> map = new HashMap<String, String>();
-        buildHuffmanTable(map, this.getRoot(), "");
-        return map;
-    }//buildHuffmanCodeTable()
-
-    private void buildHuffmanTable( Map<String, String> map, HuffmanNode node, String path ){
-
-        if( (node != null) && node.isLeaf() ){
-            map.put(node.getChars(), path);
-        }else if( node != null ){
-           buildHuffmanTable(map, node.getLeftNode(),  path + "0" );
-           buildHuffmanTable(map, node.getRightNode(), path + "1" );
-        }
-
-    }//end buildHuffmanTable()
-
     public HuffmanNode getRoot() {
         return root;
     }

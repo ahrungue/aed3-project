@@ -46,7 +46,7 @@ public class HuffmanEngineTest {
     @Test
     public void testMakeStacks(){
         List<Stack<HuffmanTree.HuffmanNode>> stacks = huffmanEngine.execute(getTestFile("/huffman/doc01.txt"));
-        assertTrue(!stacks.isEmpty());
+        assertTrue("Stacks must not be empty.", !stacks.isEmpty());
     }//testExecute()
 
 
@@ -54,8 +54,19 @@ public class HuffmanEngineTest {
     public void testBuildTree() throws Exception {
         List<Stack<HuffmanTree.HuffmanNode>> stacks = huffmanEngine.execute(getTestFile("/huffman/doc10.txt"));
         HuffmanTree huffmanTree = huffmanEngine.buildTree(stacks.get(0));
+        Map<String, String> map = huffmanEngine.buildHuffmanCodeTable(huffmanTree);
+        assertTrue("Map must not be empty", !map.isEmpty());
+    }//end testBuildTree()
 
-        Map<String, String> map = huffmanTree.buildHuffmanCodeTable();
+    @Test
+    public void testCompress() throws Exception {
+
+        String fileNameToTest = getTestFile("/huffman/doc01.txt");
+        List<Stack<HuffmanTree.HuffmanNode>> stacks = huffmanEngine.execute(fileNameToTest);
+        HuffmanTree huffmanTree = huffmanEngine.buildTree(stacks.get(0));
+
+        Map<String, String> map = huffmanEngine.buildHuffmanCodeTable(huffmanTree);
+        huffmanEngine.huffmanCompression(fileNameToTest, map);
         System.out.println(map.size());
     }//end testBuildTree()
 
