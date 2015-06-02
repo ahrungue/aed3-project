@@ -1,5 +1,6 @@
 package corn.engine;
 
+import corn.io.BitOutputStream;
 import corn.utils.HuffmanTree;
 
 import java.io.*;
@@ -18,7 +19,7 @@ public class HuffmanEngine {
 
         for( String fileName : fileNames ){
             Map<Character, Integer> characterIntegerMap = makeFrequencyTable(fileName);
-            Stack<HuffmanTree.HuffmanNode> huffmanNodesList = buildStackFromMap(characterIntegerMap);
+            Stack<HuffmanTree.HuffmanNode> huffmanNodesList = buildStackFromFrequencyTable(characterIntegerMap);
             stackList.add(huffmanNodesList);
         }//end for(iterator)
 
@@ -31,56 +32,60 @@ public class HuffmanEngine {
      * Montar a tabela de frequencias de cada caracter, a funçao ira ler o arquivo e retornar uma tabela com o
      * numero de ocorrencias de cada caracter do texto.
      * </p>
-     * @param fileName - Nome completo do arquivo.
+     * @param fileNames - Nome completo do arquivos que serao utilizados para contruir a tabela.
      * @return Tabela de frequencias da ocorrencia dos caracteres.
      */
-    private Map<Character, Integer> makeFrequencyTable(String fileName){
+    public Map<Character, Integer> makeFrequencyTable(String ... fileNames){
 
         //Create the hash table that will be inserted the character frequency
-        HashMap<Character, Integer> characterFrequencyMap = new HashMap<Character, Integer>();
+        Map<Character, Integer> characterFrequencyMap = new HashMap<Character, Integer>();
 
-        //File Object to be readed
-        File file = new File(fileName);
+        //make a frequency count of every file
+        for( String fileName : fileNames){
 
-        //Autocloseable object
-        try( BufferedReader bufferedReader = new BufferedReader( new FileReader(file) ) ){
+            //File Object to be readed
+            File file = new File(fileName);
 
-            while( bufferedReader.ready() ){
+            //Autocloseable object
+            try( BufferedReader bufferedReader = new BufferedReader( new FileReader(file) ) ){
 
-                //Read one char from the file and check to check the occurrence frequency
-                Character c = ((char) bufferedReader.read());
+                while( bufferedReader.ready() ){
 
-                //Windows line \r\n, will be considered \n
-                if( c =='\r' ){
-                    char tmp = ((char) bufferedReader.read());
-                    if( tmp == '\n' ){
-                        c = '\n';
+                    //Read one char from the file and check to check the occurrence frequency
+                    Character c = ((char) bufferedReader.read());
+
+                    //Windows line \r\n, will be considered \n
+                    if( c =='\r' ){
+                        char tmp = ((char) bufferedReader.read());
+                        if( tmp == '\n' ){
+                            c = '\n';
+                        }//end if
                     }//end if
-                }//end if
 
-                //case when the character exists in the map
-                if( characterFrequencyMap.get(c) != null ){
-                    Integer frequency = characterFrequencyMap.get(c);
-                    characterFrequencyMap.remove(c);
-                    characterFrequencyMap.put(c, ++frequency);
-                //otherwise just put the new character in map
-                }else{
-                    characterFrequencyMap.put(c, 1);
-                }//end if
+                    //case when the character exists in the map
+                    if( characterFrequencyMap.get(c) != null ){
+                        Integer frequency = characterFrequencyMap.get(c);
+                        characterFrequencyMap.remove(c);
+                        characterFrequencyMap.put(c, ++frequency);
+                    //otherwise just put the new character in map
+                    }else{
+                        characterFrequencyMap.put(c, 1);
+                    }//end if
 
-            }//end while
+                }//end while
 
-        }catch( EOFException eof ) {
-            eof.printStackTrace();
-            return characterFrequencyMap;
-        }catch( IOException e ){
-            e.printStackTrace();
-        }//end try-catch
+            }catch( EOFException eof ) {
+                eof.printStackTrace();
+                return characterFrequencyMap;
+            }catch( IOException e ){
+                e.printStackTrace();
+            }//end try-catch
+
+        }//end for(iterator)
 
         return characterFrequencyMap;
 
     }//end makeFrequencyTable()
-
 
     /**
      * <p>
@@ -90,7 +95,7 @@ public class HuffmanEngine {
      * @param map - tabela com as frequencias que cada caracter ocorreu em um texto
      * @return {@link Stack<HuffmanTree.HuffmanNode>}
      */
-    private Stack<HuffmanTree.HuffmanNode> buildStackFromMap( Map<Character, Integer> map ){
+    public Stack<HuffmanTree.HuffmanNode> buildStackFromFrequencyTable( Map<Character, Integer> map ){
 
         //Huffman nodes list be added Stack
         List<HuffmanTree.HuffmanNode> huffmanNodes = new ArrayList<>();
@@ -172,15 +177,18 @@ public class HuffmanEngine {
 
     }//end buildHuffmanTable()
 
-    public void  huffmanCompression( String fileName, Map<Character, String> huffmanCodeMap ){
-        //File Object to be readed
-        File originalFile = new File(fileName);
-        File compressedFile = new File(System.getProperty("user.home") + File.separator + originalFile.getName() + ".compressed");
-
+    public Map<String, Long>  huffmanCompression( String fileName, Map<Character, String> huffmanCodeMap ){
+        //File Object to be read
+        File originalFile      = new File(fileName);
+        File compressedFile    = new File(System.getProperty("user.home") + File.separator + originalFile.getName() + ".compressed");
+        File compressedBinFile = new File(System.getProperty("user.home") + File.separator + originalFile.getName() + ".bin.compressed");
 
         //Autocloseable object
         try( BufferedReader bufferedReader = new BufferedReader(new FileReader(originalFile));
                 RandomAccessFile randomAccessFile = new RandomAccessFile(compressedFile,"rw") ){
+
+            //BitOutputStream for write a sequence of bits in a file
+            BitOutputStream bitOutputStream = new BitOutputStream(new FileOutputStream(compressedBinFile));
 
             while( bufferedReader.ready() ){
 
@@ -195,25 +203,28 @@ public class HuffmanEngine {
                     }//end if
                 }//end if
 
-                String code = huffmanCodeMap.get(c);
-                byte[] compressedBytes = new byte[code.length()];
-                for( int i = 0; i < code.length(); ++i ){
-                    char currentChar = code.charAt(i);
+                //bit sequence of huffman code
+                String characterHuffmanCode = huffmanCodeMap.get(c);
 
-                    compressedBytes[i] = (byte)( currentChar == '0' ? 0 : 1 );
+                //write a string as each position as a bit
+                bitOutputStream.write(characterHuffmanCode);
 
-                }//end for(i)
-
-                randomAccessFile.write(compressedBytes);
+                //write a string as text on the file
+                randomAccessFile.writeChars(characterHuffmanCode);
 
             }//end while
+
+            bitOutputStream.close();
 
         }catch( IOException e ){
             e.printStackTrace();
         }//end try-catch
 
-        System.out.printf("%n%nTamanho arquivo original:   %d%n", originalFile.length()/1024);
-        System.out.printf("Tamanho arquivo compactado: %d%n", compressedFile.length()/1024);
+        //Result of compression achievement
+        return new HashMap<String, Long>(){{
+            put("compressedSize", compressedBinFile.length());
+            put("originalSize", originalFile.length());
+        }};
 
     }//end huffmanCompression()
 
